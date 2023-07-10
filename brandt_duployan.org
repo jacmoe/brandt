@@ -47,6 +47,19 @@ In the word /high/ there are four letters but only two sounds, and these two sou
 
 In ordinary writing the sound /uh/ as in /nut/ is represented by different letters in each of the following words: /much/, /love/, /circle/, /pearl/, /sermon/, /pillar/, /courage/, /blood/. Now in phonography one sign is used for this sound. Again, the pronunciation which we give to the letter /i/ in the alphabet, i.e. the sound it has in /fine/, it altogether different in /fin/ and /first/, Phonography recognizes here three distinct sounds and to each of them allots a sign.
 
+The combination /ch/ has a different rendering in each of the following words /cheap/, /chaise/, /schism/, /scheme/. Phonetically their values are ch-ee-p, sh-ai-z, s-i-s-m, s-k-ee-m.
+
+We distinguish also the varying sounds of /t/ in the following words: /net/, /nation/, /feature/, /hasten/.
+
+These few examples are sufficient to illustrate what we mean by the phonetic principle. There is no need for us to discuss its utility.
+
+We conclude these few fore-words by calling the pupil’s attention to an essential point in our phonetics. Stenographic signs represent sounds. Now, the names of the consonants of our ordinary alphabet are Bee, eF, Gee, eM, eL, ahRe, etc. in other words they have in the majority of cases a sound very different from that which they have in words – for example – /church/ spelt out is: /see-aitch-eu-ahre-see-aitch/. Analyzing the sounds of the word we find that there are but four sounds. Take the first part of the word, viz, /ch/, pronounce it slowly, the sound given is that of the two consonants followed by a short sharp /e/ or /uh/ sound; similarly the final /ch/. It will be found that all other consonants are sounded after this manner. Take for example the /s/ and /p/ in /sermon/ and /person/; they are not /eS/, /Pee/ but /suh/, /puh/, or /se/, /pe/. The consonants in our phonetic alphabet are therefore sounded /Be/, /Fe/, /Le/, /Me/, /Re/, /Te/, etc. or /Buh/, /Fuh/, /Luh/, /Muh/, /Ruh/, /Tuh/, etc. This is of great importance and must always be borne in mind.
+
+If therefore a syllable is formed by this obscure vowel sound added to a consonant, it will be indicated by the consonant sign alone. Thus we phonetically represent the following words /much/, /love/, /pearl/, /cousin/, in this way: M[uh]-CH, L[uh]-V, P[uh]-R-L, K[uh]-S-N.
+
+If however the “uh” is accentuated it may then be indicated by its vowel sign. The vowel “uh” in the beginning of such words as earl, earnest, etc. must be shown.
+
+Any want of clearness in the above explanation will be dispelled by noting the application of it in the following lessons to the numerous examples given.
 
 #+begin_export LaTeX
 \pagebreak
@@ -57,9 +70,15 @@ In ordinary writing the sound /uh/ as in /nut/ is represented by different lette
 \pagebreak
 #+end_export
 ** Lesson 1
-[[file:img/fig1-1.png]]
+The signs of this System are formed from the two simplest of geometrical figures, namely the Straight Line and the Circle.
+
+The straight line both full length and half length takes the following directions indicated by the arrow: [[file:img/fig1-1.png]]
+
+A large and small circle are uded, the latter being about half the size of the former: [[file:img/fig1-2.png]]
+
 * Part II
 * Part III
 
 #  LocalWords:  alia pagebreak Méthode Sténographie Duployé Duployan Stonyhurst
-#  LocalWords:  collaborateur’s
+#  LocalWords:  collaborateur’s eF eM eL ahRe eu ahre eS suh puh se pe Buh Fuh
+#  LocalWords:  Luh Muh Ruh Tuh
