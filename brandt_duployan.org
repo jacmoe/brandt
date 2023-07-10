@@ -74,8 +74,16 @@ The signs of this System are formed from the two simplest of geometrical figures
 
 The straight line both full length and half length takes the following directions indicated by the arrow: [[file:img/fig1-1.png]]
 
-A large and small circle are uded, the latter being about half the size of the former: [[file:img/fig1-2.png]]
+A large and small circle are used, the latter being about half the size of the former: [[file:img/fig1-2.png]]
 
+These circles are now divided first by a line drawn through them Vertically [[file:img/fig1-3.png]] thereby giving us these four signs: [[file:img/fig1-4.png]]. Next by a line dividing them Horizontally [[file:img/fig1-5.png]] and giving us the following signs: [[file:img/fig1-6.png]] i.e. [[file:img/fig1-7.png]]. And lastly, the circles are cut into quadrants: [[file:img/fig1-8.png]] = [[file:img/fig1-9.png]] = [[file:img/fig1-10.png]]
+
+The following supplementary signs, chiefly used as diacritical or distinguishing marks, are also made use of: a dot [[file:img/fig1-11.png]], a dash [[file:img/fig1-12.png]], and the acute [[file:img/fig1-13.png]], and grave [[file:img/fig1-14.png]] accents.
+
+*** The Consonants formed from the Straight line
+rsioten
+*** The Consonants formed from the Semi-circles
+rasiteirtesn
 * Part II
 * Part III
 
