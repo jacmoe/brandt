@@ -1,0 +1,39 @@
+:HEADER:
+#+TITLE: Duployan Shorthand - adapted to English
+#+SUBTITLE: Fifth Edition
+#+AUTHOR:  C. Brandt
+#+DATE:
+#+OPTIONS: whn:nil toc:3
+#+LANGUAGE: en
+#+OPTIONS: html-postamble:nil
+#+LATEX: \setlength\parindent{0pt}
+#+SETUPFILE: ./jacmoe-latex-standard-setup.org
+:END:
+
+* Preface
+:properties:
+:unnumbered: t
+:end:
+
+
+~November 4th, 1901. C. B.~
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+
+* The Phonetic Principle
+:properties:
+:unnumbered: t
+:end:
+
+
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+
+* Part I
+** Lesson 1
+[[file:img/fig1-1.png]]
+* Part II
+* Part III
