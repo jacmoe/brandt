@@ -131,20 +131,39 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 \pagebreak
 #+end_export
 ** Lesson 2 - Vowels 1
-
+*** The vowels A O OO UH
+*** The joining of vowels and consonants
+*** The vowels AH AW OO O
 ** Lesson 3 - Vowels 2
-
+*** The vowels EH and I
+*** The method of joining these signs to others
+*** The vowels Eh and EE
 ** Lesson 4 - Diphthongs
-
+*** The diphthong I
+*** The diphthong OW
+*** The diphthong OI
+*** The diphthong U
 ** Lesson 5 - Nasals
+The nasals AN ON EN IN UN
 
 ** Lesson 6 - H Aspirate
 
-** Lesson 7
+** Lesson 7 - More on nasals
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
+** Notes on Part II
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+** Duployan Shorthand
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+
 * Part II
 #+begin_export LaTeX
 \pagebreak
