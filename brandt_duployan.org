@@ -92,12 +92,23 @@ The consonant Re has two distinct shades of sound, one hard or trill-sound as in
 
 *** The Consonants formed from the Semi-circles
 
-| Se X  | Ze X         | drawn from left to right | X |
-| She X | Zhe X        | drawn from left to right | X |
-| Me X  | Ne X & GNe X | drawn downwards          | X |
+| Se [[file:img/fig1-31.png]]  | Ze [[file:img/fig1-32.png]]                            | drawn from left to right | [[file:img/fig1-33.png]] |
+| She [[file:img/fig1-34.png]] | Zhe [[file:img/fig1-35.png]]                           | drawn from left to right | [[file:img/fig1-36.png]] |
+| Me [[file:img/fig1-37.png]]  | Ne [[file:img/fig1-38.png]] & GNe [[file:img/fig1-39.png]] | drawn downwards          | [[file:img/fig1-40.png]] |
 It will be noticed that the soft sounds Ze and Zhe as in /zeal/, /as/, /vision/, are distinguished from their corresponding hard sounds by a dot. The difference between the two nasals Ne and GNe is also indicated by a dot.
 
 *** The Consonants GHe Je THe hard THe soft
+The true sound-value of the consonant GHe is found in the words /church/, /chariot/, /chess/, etc.
+
+The corresponding soft sound is Je as in /jerk/, /giant/, /jest/, etc. GHe is formed from two quadrants of a small circle [[file:img/fig1-41.png]] written in the same direction as the sign for Ke viz [[file:img/fig1-42.png]].
+
+Je is written the same way but two quadrants of a large circle are used viz [[file:img/fig1-43.png]].
+
+Since THe is a blending of the sounds of Te and De, we write its equivalent phonetic character which is formed from two quadrants of a circle joined together, in the same direction as Te and De viz [[file:img/fig1-44.png]] i.e. [[file:img/fig1-45.png]].
+
+The soft sound as in *There* is written full length [[file:img/fig1-46.png]].
+
+The hard sound as in *Thistle* is written half length [[file:img/fig1-47.png]].
 
 *** The Consonants Ye and We
 
