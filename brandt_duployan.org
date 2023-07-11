@@ -68,7 +68,7 @@ Any want of clearness in the above explanation will be dispelled by noting the a
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-** Lesson 1
+** Lesson 1 - The Signs of the System
 The signs of this System are formed from the two simplest of geometrical figures, namely the Straight Line and the Circle.
 
 The straight line both full length and half length takes the following directions indicated by the arrow: [[file:img/fig1-1.png]]
@@ -111,11 +111,22 @@ The soft sound as in *There* is written full length [[file:img/fig1-46.png]].
 The hard sound as in *Thistle* is written half length [[file:img/fig1-47.png]].
 
 *** The Consonants Ye and We
+*Ye*. A small semi-circle in this position [[file:img/fig1-48.png]], written downwards and having a dot above is Ye.
 
+*We*. The consonant sound We is represented by a quadrant of large circle traced upwards, on the right hand side of which a dot is placed viz [[file:img/fig1-49.png]]
 *** The joining together of consonants
+In order to connect two consonants together we add the sign of the second to the termination of the first, writing the compound sign with one stroke without lifting the pen.
+
+*Examples*: /kl/ [[file:img/fig1-50.png]], /lk/ [[file:img/fig1-51.png]], /mt/ [[file:img/fig1-52.png]], /tm/ [[file:img/fig1-53.png]], /sg/ [[file:img/fig1-54.png]], /st/ [[file:img/fig1-55.png]], /gr/ [[file:img/fig1-56.png]], /rg/ [[file:img/fig1-57.png]], /chr/ [[file:img/fig1-58.png]], /rch/ [[file:img/fig1-59.png]], /sd/ [[file:img/fig1-60.png]], /dj/ [[file:img/fig1-61.png]], /jr/ [[file:img/fig1-62.png]], /lp/ [[file:img/fig1-63.png]], /pl/ [[file:img/fig1-64.png]], /thm/ [[file:img/fig1-65.png]], /mth/ [[file:img/fig1-66.png]], /nr/ [[file:img/fig1-67.png]], /rth/ [[file:img/fig1-68.png]], /thr/ [[file:img/fig1-69.png]]
+
+It is better to avoid forming an angle between two consonants, wherever is is optional, as for instance [[file:img/fig1-70.png]], it is more rapidly written thus [[file:img/fig1-71.png]].
+
+*Ex*: /vs/ [[file:img/fig1-72.png]], /rsh/ [[file:img/fig1-73.png]], /md/ [[file:img/fig1-74.png]], /ps/ [[file:img/fig1-75.png]], /dn/ [[file:img/fig1-76.png]], /shp/ [[file:img/fig1-77.png]], /mn/ [[file:img/fig1-78.png]], /nm/ [[file:img/fig1-79.png]].
+
+Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]], /nj/ [[file:img/fig1-81.png]], /njm/ [[file:img/fig1-82.png]], /js/ [[file:img/fig1-83.png]], /gj/ [[file:img/fig1-84.png]].
 
 *** Consonants
-
+[[file:img/fig1-85.png]]
 #+begin_export LaTeX
 \pagebreak
 #+end_export
