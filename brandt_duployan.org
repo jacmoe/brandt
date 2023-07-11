@@ -81,14 +81,14 @@ The following supplementary signs, chiefly used as diacritical or distinguishing
 
 *** The Consonants formed from the Straight line
 
-| X | Be X | Pe X | drawn straight downwards            |
-| X | De X | Te X | drawn from left to right           |
-| X | Ge X | Ke X | drawn obliquely from right to left |
-| X | Ve X | Fe X | drawn obliquely from left to right |
-| X | Re X | Le X | drawn upwards from left to right   |
+| [[file:img/fig1-15.png]] | Be [[file:img/fig1-16.png]] | Pe [[file:img/fig1-17.png]] | drawn straight downwards           |
+| [[file:img/fig1-18.png]] | De [[file:img/fig1-19.png]] | Te [[file:img/fig1-20.png]] | drawn from left to right           |
+| [[file:img/fig1-21.png]] | Ge [[file:img/fig1-22.png]] | Ke [[file:img/fig1-23.png]] | drawn obliquely from right to left |
+| [[file:img/fig1-24.png]] | Ve [[file:img/fig1-25.png]] | Fe [[file:img/fig1-26.png]] | drawn obliquely from left to right |
+| [[file:img/fig1-27.png]] | Re [[file:img/fig1-28.png]] | Le [[file:img/fig1-29.png]] | drawn upwards from left to right   |
 Observe that the soft and longer sounds Be, De, Ge, Ve are expressed by the longer lines whilst their corresponding hard and shorter sounds Pe, Te, Ke, Fe are expressed by the shorter ones.
 
-The consonant Re has two distinct shades of sound, one hard or trill-sound as in /broil/, /zeal/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: X.
+The consonant Re has two distinct shades of sound, one hard or trill-sound as in /broil/, /zeal/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: [[file:img/fig1-30.png]].
 
 *** The Consonants formed from the Semi-circles
 
@@ -116,6 +116,9 @@ It will be noticed that the soft sounds Ze and Zhe as in /zeal/, /as/, /vision/,
 
 ** Lesson 5
 
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 * Part II
 #+begin_export LaTeX
 \pagebreak
