@@ -9,7 +9,6 @@
 #+LATEX: \setlength\parindent{0pt}
 #+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
-
 * Preface
 :properties:
 :unnumbered: t
@@ -81,12 +80,55 @@ These circles are now divided first by a line drawn through them Vertically [[fi
 The following supplementary signs, chiefly used as diacritical or distinguishing marks, are also made use of: a dot [[file:img/fig1-11.png]], a dash [[file:img/fig1-12.png]], and the acute [[file:img/fig1-13.png]], and grave [[file:img/fig1-14.png]] accents.
 
 *** The Consonants formed from the Straight line
-rsioten
+
+| X | Be X | Pe X | drawn straight downwards            |
+| X | De X | Te X | drawn from left to right           |
+| X | Ge X | Ke X | drawn obliquely from right to left |
+| X | Ve X | Fe X | drawn obliquely from left to right |
+| X | Re X | Le X | drawn upwards from left to right   |
+Observe that the soft and longer sounds Be, De, Ge, Ve are expressed by the longer lines whilst their corresponding hard and shorter sounds Pe, Te, Ke, Fe are expressed by the shorter ones.
+
+The consonant Re has two distinct shades of sound, one hard or trill-sound as in /broil/, /zeal/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: X.
+
 *** The Consonants formed from the Semi-circles
-rasiteirtesn
+
+| Se X  | Ze X         | drawn from left to right | X |
+| She X | Zhe X        | drawn from left to right | X |
+| Me X  | Ne X & GNe X | drawn downwards          | X |
+It will be noticed that the soft sounds Ze and Zhe as in /zeal/, /as/, /vision/, are distinguished from their corresponding hard sounds by a dot. The difference between the two nasals Ne and GNe is also indicated by a dot.
+
+*** The Consonants GHe Je THe hard THe soft
+
+*** The Consonants Ye and We
+
+*** The joining together of consonants
+
+*** Consonants
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+** Lesson 2
+
+** Lesson 3
+
+** Lesson 4
+
+** Lesson 5
+
 * Part II
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 * Part III
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 
 #  LocalWords:  alia pagebreak Méthode Sténographie Duployé Duployan Stonyhurst
 #  LocalWords:  collaborateur’s eF eM eL ahRe eu ahre eS suh puh se pe Buh Fuh
-#  LocalWords:  Luh Muh Ruh Tuh
+#  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve
