@@ -133,24 +133,52 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 ** Lesson 2 - Vowels 1
 *** The vowels A O OO UH (short)
 | A  | æ | as sounded in /gnat/ is represented by a small circle    | X |
-| AW | ɑː | as sounded in /not/ is represented by a large circle     | X |
+| O  | ɑː | as sounded in /cod/ is represented by a large circle  | X |
 | OO | ʊ | as sounded in /foot/ is represented by a radiated circle | X |
 | UH | ʌ | as sounded in /nut/ is represented by a dot              | X |
 *** The joining of vowels and consonants
 **** In the beginning of words
-**** In the body of words
-**** At the end of a word
+Join the vowel in such a way that the consonant sign shall be either to the *right* or *above*. The reason for this will appear later. We may tabulate this rule thus:
 
-*** The vowels AH AW OO O (long)
+To the right for X
+
+Above for X
+
+*Ex*: /ag/ X, /ar/ X, /ob/ X, /om/ X, /at/ X, /od/ X, /as/ X, /us/ X, /ath/ X, /oth/ X, /ang/ X, /ur/ X, /ut/ X, /up/ X, /ug/ X, etc.
+
+**** In the body of words
+Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ X with a vowel /f-a-d/ X.
+
+*Ex*: /back/ X, /dock/ X, /rob/ X, /top/ X, /took/ X, /foot/ X, /full/ X, /pull/ X, /that/ X, /sad/ X, /mask/ X, /cast/ X, /charge/ X, /god/ X, /good/ X, /block/ X, /clock/ X, etc.
+
+**** At the end of a word
+Wowels may be written either above or below, to the right or to the left.
+
+*Ex*: /shadow/ X, /show/ X, /to/ X, /body/ X, /army/ X, /know/ X, /blue/ X.
+
+*** The vowels O AH AW OO (long)
+| O  | oʊ | /code/ | X |
+| AH | ?  |      | X |
+| AW | ɔ   | /all/  | X |
+| OO | uː  | /food/ | X |
+
 ** Lesson 3 - Vowels 2
 *** The vowels EH and I
+| EH | ɛ  | /net/ |
+| I  | ɪ  | /knit/ |
 *** The method of joining these signs to others
 *** The vowels Eh and EE
+| Eh | eɪ | /eight/ |
+| EE | iː | /deep/  |
 ** Lesson 4 - Diphthongs
 *** The diphthong I
+aɪ
 *** The diphthong OW
+aʊ
 *** The diphthong OI
+ɔɪ
 *** The diphthong U
+juː
 ** Lesson 5 - Nasals
 The nasals AN ON EN IN UN
 
