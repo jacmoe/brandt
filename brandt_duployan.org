@@ -131,9 +131,17 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 \pagebreak
 #+end_export
 ** Lesson 2 - Vowels 1
-*** The vowels A O OO UH
+*** The vowels A O OO UH (short)
+| A  | æ | as sounded in /gnat/ is represented by a small circle    | X |
+| AW | ɑː | as sounded in /not/ is represented by a large circle     | X |
+| OO | ʊ | as sounded in /foot/ is represented by a radiated circle | X |
+| UH | ʌ | as sounded in /nut/ is represented by a dot              | X |
 *** The joining of vowels and consonants
-*** The vowels AH AW OO O
+**** In the beginning of words
+**** In the body of words
+**** At the end of a word
+
+*** The vowels AH AW OO O (long)
 ** Lesson 3 - Vowels 2
 *** The vowels EH and I
 *** The method of joining these signs to others
