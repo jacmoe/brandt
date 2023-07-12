@@ -132,22 +132,21 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 #+end_export
 ** Lesson 2 - Vowels 1
 *** The vowels A O OO UH (short)
-| A  | æ | as sounded in /gnat/ is represented by a small circle    | X |
-| O  | ɑː | as sounded in /cod/ is represented by a large circle  | X |
-| OO | ʊ | as sounded in /foot/ is represented by a radiated circle | X |
-| UH | ʌ | as sounded in /nut/ is represented by a dot              | X |
+| A  | æ | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
+| O  | ɑː | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
+| OO | ʊ | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
+| UH | ʌ | as sounded in /nut/ is represented by a dot              | [[file:img/fig2-4.png]] |
 *** The joining of vowels and consonants
 **** In the beginning of words
 Join the vowel in such a way that the consonant sign shall be either to the *right* or *above*. The reason for this will appear later. We may tabulate this rule thus:
 
-To the right for X
+To the right for [[file:img/fig2-5.png]]
 
-Above for X
-
-*Ex*: /ag/ X, /ar/ X, /ob/ X, /om/ X, /at/ X, /od/ X, /as/ X, /us/ X, /ath/ X, /oth/ X, /ang/ X, /ur/ X, /ut/ X, /up/ X, /ug/ X, etc.
+Above for [[file:img/fig2-6.png]]
+*Ex*: /ag/ [[file:img/fig2-7.png]], /ar/ [[file:img/fig2-8.png]], /ob/ [[file:img/fig2-9.png]], /om/ [[file:img/fig2-10.png]], /at/ [[file:img/fig2-11.png]], /od/ [[file:img/fig2-12.png]], /as/ [[file:img/fig2-13.png]], /us/ [[file:img/fig2-14.png]], /ath/ [[file:img/fig2-15.png]], /oth/ [[file:img/fig2-16.png]], /ang/ [[file:img/fig2-17.png]], /ur/ [[file:img/fig2-18.png]], /ut/ [[file:img/fig2-19.png]], /up/ [[file:img/fig2-20.png]], /ug/ [[file:img/fig2-21.png]], etc.
 
 **** In the body of words
-Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ X with a vowel /f-a-d/ X.
+Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ [[file:img/fig2-22.png]] with a vowel /f-a-d/ [[file:img/fig2-23.png]].
 
 *Ex*: /back/ X, /dock/ X, /rob/ X, /top/ X, /took/ X, /foot/ X, /full/ X, /pull/ X, /that/ X, /sad/ X, /mask/ X, /cast/ X, /charge/ X, /god/ X, /good/ X, /block/ X, /clock/ X, etc.
 
