@@ -173,19 +173,41 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 
 ** Lesson 3 - Vowels 2
 *** The vowels EH and I
-| EH | ɛ  | e | /net/  |   |
-| I  | ɪ  | i | /knit/ |   |
+| EH | ɛ  | e | /net/    | X |
+| I  | ɪ  | i | /knit/ | X |
+The short vowel /Eh/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles X.
+
+For the short vowel /i/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them X.
+
 *** The method of joining these signs to others
+It is important to clearly understand and faithfully follow this rule, viz. /“In joining these signs to others you must _avoid_ in so doing _forming an angle_. From a consonant to a vowel an angle must never be formed. Nor from a vowel to a consonant, when at the beginning of a word.”/
+
+In the body of a word there will be an angle sometimes, from a vowel to a consonant, but *never* from a consonant to a vowel.
+
+The following examples will illustrate this rule.
+
+**** When a word begins with a vowel
+Begin with the little semi-circle and place the consonant-sign that follows, to the right or above, in accordance with the rule enunciated in Lesson 2, 2, a.
+
+*Ex*: /echo/ X, /ebb/ X, /elm/ X, /elbow/ X, /if/ X, /it/ X, /is/ X, /ill/ X, /elk/ X, /elf/ X, /effort/ X, /error/ X, /Italy/ X, /idiot/ X, /essay/ X, /ember/ X, /else/ X, /ell/ X, /egg/ X, /embark/ X, /ignore/ X, /imp/ X, /etch/ X, /livery/ X, /irratable/ X, /image/ X, etc.
+
+Of the for equivalent signs X choose the one that can be used without forming an angle, e.g. in joining ‘e’ to ‘b’ if forms an angle, viz X; nor no. 2 X, or no. 4 X; but with no. 3 there is no angle formed: X.
+
+**** From a consonant to a vowel
+Choose the semi-circle that will not form an angle with the consonant-sign.
+
+*Ex*: /bill/ X, /bell/ X, /sell/ X, /sill/ X, /mill/ X, /melt/ X, /effect/ X, /this/ X, /else/ X, /ell/ X, /elder/ X, /egg/ X, /best/ X, /practice/ X, /tell/ X, /till/ X, /chest/ X, /dip/ X, /up/ X, /cellar/ X, /fellow/ X, /bellow/ X, /below/ X, /jest/ X, /skip/ X, /whip/ X, /rest/ X, /mistress/ X, /nest/ X, /gel/ X, /give/ X, /jet/ X, /gelid/ X, /people/ X.
+
 *** The vowels Eh and EE
 | Eh | eɪ | ā | /eight/ |   |
 | EE | iː | ē | /deep/  |   |
 ** Lesson 4 - Diphthongs
 *** The diphthong I
-aɪ
+aɪ ī
 *** The diphthong OW
-aʊ
+aʊ au
 *** The diphthong OI
-ɔɪ
+ɔɪ ȯi
 *** The diphthong U
 juː
 ** Lesson 5 - Nasals
