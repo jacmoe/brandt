@@ -132,10 +132,10 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 #+end_export
 ** Lesson 2 - Vowels 1
 *** The vowels A O OO UH (short)
-| A  | æ | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
-| O  | ɑː | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
-| OO | ʊ | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
-| UH | ʌ | as sounded in /nut/ is represented by a dot              | [[file:img/fig2-4.png]] |
+| A       | æ      | a     | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
+| O       | ɑː      | ä     | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
+| OO      | ʊ      | u     | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
+| UH / ER | ʌ / ɝː | ə /ər | as sounded in /nut/ or /urn/ is represented by a dot       | [[file:img/fig2-4.png]] |
 *** The joining of vowels and consonants
 **** In the beginning of words
 Join the vowel in such a way that the consonant sign shall be either to the *right* or *above*. The reason for this will appear later. We may tabulate this rule thus:
@@ -156,10 +156,10 @@ Wowels may be written either above or below, to the right or to the left.
 *Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
 
 *** The vowels O AH AW OO (long)
-| O  | oʊ | /code/ | [[file:img/fig2-48.png]] |
-| AH | ?  |      | [[file:img/fig2-53.png]] |
-| AW | ɔ   | /all/  | [[file:img/fig2-54.png]] |
-| OO | uː  | /food/ | [[file:img/fig2-55.png]] |
+| O  | oʊ | ō | /code/ | [[file:img/fig2-48.png]] |
+| AH | ɑː  | ä | /arm/  | [[file:img/fig2-53.png]] |
+| AW | ɔ   | ȯ | /all/  | [[file:img/fig2-54.png]] |
+| OO | uː  | ü | /food/ | [[file:img/fig2-55.png]] |
 **** O
 Represented by a large circle with a dot, [[file:img/fig2-48.png]].
 
@@ -173,12 +173,12 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 
 ** Lesson 3 - Vowels 2
 *** The vowels EH and I
-| EH | ɛ  | /net/ |
-| I  | ɪ  | /knit/ |
+| EH | ɛ  | e | /net/  |   |
+| I  | ɪ  | i | /knit/ |   |
 *** The method of joining these signs to others
 *** The vowels Eh and EE
-| Eh | eɪ | /eight/ |
-| EE | iː | /deep/  |
+| Eh | eɪ | ā | /eight/ |   |
+| EE | iː | ē | /deep/  |   |
 ** Lesson 4 - Diphthongs
 *** The diphthong I
 aɪ
