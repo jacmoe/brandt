@@ -154,7 +154,7 @@ Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ [[file:i
 *Ex*: /back/ [[file:img/fig2-24.png]], /dock/ [[file:img/fig2-25.png]], /rob/ [[file:img/fig2-26.png]], /top/ [[file:img/fig2-27.png]], /took/ [[file:img/fig2-28.png]], /foot/ [[file:img/fig2-29.png]], /full/ [[file:img/fig2-30.png]], /pull/ [[file:img/fig2-31.png]], /that/ [[file:img/fig2-32.png]], /sad/ [[file:img/fig2-33.png]], /mask/ [[file:img/fig2-34.png]], /cast/ [[file:img/fig2-35.png]], /charge/ [[file:img/fig2-36.png]], /god/ [[file:img/fig2-37.png]], /good/ [[file:img/fig2-38.png]], /block/ [[file:img/fig2-39.png]], /clock/ [[file:img/fig2-40.png]], etc.
 
 **** At the end of a word
-Wowels may be written either above or below, to the right or to the left.
+Vowels may be written either above or below, to the right or to the left.
 
 *Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
 
@@ -192,7 +192,7 @@ The following examples will illustrate this rule.
 **** When a word begins with a vowel
 Begin with the little semi-circle and place the consonant-sign that follows, to the right or above, in accordance with the rule enunciated in Lesson 2, 2, a.
 
-*Ex*: /echo/ [[file:img/fig3-3.png]], /ebb/ [[file:img/fig3-4.png]], /elm/ [[file:img/fig3-5.png]], /elbow/ [[file:img/fig3-6.png]], /if/ [[file:img/fig3-7.png]], /it/ [[file:img/fig3-8.png]], /is/ [[file:img/fig3-9.png]], /ill/ [[file:img/fig3-10.png]], /elk/ [[file:img/fig3-11.png]], /elf/ [[file:img/fig3-12.png]], /effort/ [[file:img/fig3-13.png]], /error/ [[file:img/fig3-14.png]], /Italy/ [[file:img/fig3-15.png]], /idiot/ [[file:img/fig3-16.png]], /essay/ [[file:img/fig3-17.png]], /ember/ [[file:img/fig3-18.png]], /else/ [[file:img/fig3-19.png]], /ell/ [[file:img/fig3-20.png]], /egg/ [[file:img/fig3-21.png]], /embark/ [[file:img/fig3-22.png]], /ignore/ [[file:img/fig3-23.png]], /imp/ [[file:img/fig3-24.png]], /etch/ [[file:img/fig3-25.png]], /livery/ [[file:img/fig3-26.png]], /irratable/ [[file:img/fig3-27.png]], /image/ [[file:img/fig3-28.png]], etc.
+*Ex*: /echo/ [[file:img/fig3-3.png]], /ebb/ [[file:img/fig3-4.png]], /elm/ [[file:img/fig3-5.png]], /elbow/ [[file:img/fig3-6.png]], /if/ [[file:img/fig3-7.png]], /it/ [[file:img/fig3-8.png]], /is/ [[file:img/fig3-9.png]], /ill/ [[file:img/fig3-10.png]], /elk/ [[file:img/fig3-11.png]], /elf/ [[file:img/fig3-12.png]], /effort/ [[file:img/fig3-13.png]], /error/ [[file:img/fig3-14.png]], /Italy/ [[file:img/fig3-15.png]], /idiot/ [[file:img/fig3-16.png]], /essay/ [[file:img/fig3-17.png]], /ember/ [[file:img/fig3-18.png]], /else/ [[file:img/fig3-19.png]], /ell/ [[file:img/fig3-20.png]], /egg/ [[file:img/fig3-21.png]], /embark/ [[file:img/fig3-22.png]], /ignore/ [[file:img/fig3-23.png]], /imp/ [[file:img/fig3-24.png]], /etch/ [[file:img/fig3-25.png]], /livery/ [[file:img/fig3-26.png]], /irritable/ [[file:img/fig3-27.png]], /image/ [[file:img/fig3-28.png]], etc.
 
 Of the for equivalent signs [[file:img/fig3-29.png]] choose the one that can be used without forming an angle, e.g. in joining ‘e’ to ‘b’ if forms an angle, viz [[file:img/fig3-30.png]]; nor no. 2 [[file:img/fig3-31.png]], or no. 4 [[file:img/fig3-32.png]]; but with no. 3 there is no angle formed: [[file:img/fig3-33.png]].
 
@@ -279,4 +279,6 @@ The nasals AN ON EN IN UN
 
 #  LocalWords:  alia pagebreak Méthode Sténographie Duployé Duployan Stonyhurst
 #  LocalWords:  collaborateur’s eF eM eL ahRe eu ahre eS suh puh se pe Buh Fuh
-#  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve
+#  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve Zh GN GH lk tm sg rg chr rch sd
+#  LocalWords:  dj lp thm mth nr rth thr rsh md ps dn shp mn nm jm nj njm js gj
+#  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju
