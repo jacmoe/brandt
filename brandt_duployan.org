@@ -126,19 +126,27 @@ It is better to avoid forming an angle between two consonants, wherever is is op
 Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]], /nj/ [[file:img/fig1-81.png]], /njm/ [[file:img/fig1-82.png]], /js/ [[file:img/fig1-83.png]], /gj/ [[file:img/fig1-84.png]].
 
 *** Consonants
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+--------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | B                       | G                       | J                        | D                       | TH                            | V                       | R                            | R                            | Z                        | ZH                       | N                       | NG                       | W                       |
 | [[file:img/alphabet_b.png]] | [[file:img/alphabet_g.png]] | [[file:img/alphabet_j.png]]  | [[file:img/alphabet_d.png]] | [[file:img/alphabet_th_hard.png]] | [[file:img/alphabet_v.png]] | [[file:img/alphabet_r_hard.png]] | [[file:img/alphabet_r_soft.png]] | [[file:img/alphabet_z.png]]  | [[file:img/alphabet_zh.png]] | [[file:img/alphabet_n.png]] | [[file:img/alphabet_ng.png]] | [[file:img/alphabet_w.png]] |
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+--------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | P                       | K                       | CH                       | T                       | TH                            | F                       | L                            | S                            | SH                       | M                        | Y                       |                          |                         |
-| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_f.png]] | [[file:img/alphabet_l.png]]      | [[file:img/alphabet_s.png]]      | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]]  | [[file:img/alphabet_y.png]]                        |                          |                         |
+| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_f.png]] | [[file:img/alphabet_l.png]]      | [[file:img/alphabet_s.png]]      | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]]  | [[file:img/alphabet_y.png]] |                          |                         |
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+--------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 2 - Vowels 1
 *** The vowels A O OO UH (short)
-| A       | æ      | a     | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
-| O       | ɑː      | ä     | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
-| OO      | ʊ      | u     | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
+|---------+-------+-------+--------------------------------------------------------+---------------------|
+| A       | æ     | a     | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
+|---------+-------+-------+--------------------------------------------------------+---------------------|
+| O       | ɑː     | ä      | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
+|---------+-------+-------+--------------------------------------------------------+---------------------|
+| OO      | ʊ     | u     | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
+|---------+-------+-------+--------------------------------------------------------+---------------------|
 | UH / ER | ʌ / ɝː | ə /ər | as sounded in /nut/ or /urn/ is represented by a dot       | [[file:img/fig2-4.png]] |
+|---------+-------+-------+--------------------------------------------------------+---------------------|
 *** The joining of vowels and consonants
 **** In the beginning of words
 Join the vowel in such a way that the consonant sign shall be either to the *right* or *above*. The reason for this will appear later. We may tabulate this rule thus:
@@ -159,10 +167,15 @@ Vowels may be written either above or below, to the right or to the left.
 *Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
 
 *** The vowels O AH AW OO (long)
+|----+----+---+------+----------------------|
 | O  | oʊ | ō | /code/ | [[file:img/fig2-48.png]] |
-| AH | ɑː  | ä | /arm/  | [[file:img/fig2-53.png]] |
+|----+----+---+------+----------------------|
+| AH | ɑː  | ä  | /arm/  | [[file:img/fig2-53.png]] |
+|----+----+---+------+----------------------|
 | AW | ɔ   | ȯ | /all/  | [[file:img/fig2-54.png]] |
-| OO | uː  | ü | /food/ | [[file:img/fig2-55.png]] |
+|----+----+---+------+----------------------|
+| OO | uː  | ü  | /food/ | [[file:img/fig2-55.png]] |
+|----+----+---+------+----------------------|
 **** O
 Represented by a large circle with a dot, [[file:img/fig2-48.png]].
 
@@ -176,8 +189,11 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 
 ** Lesson 3 - Vowels 2
 *** The vowels EH and I
+|----+---+---+------+---------------------|
 | EH | ɛ  | e | /net/  | [[file:img/fig3-1.png]] |
+|----+---+---+------+---------------------|
 | I  | ɪ  | i | /knit/ | [[file:img/fig3-2.png]] |
+|----+---+---+------+---------------------|
 The short vowel /Eh/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:img/fig3-1.png]].
 
 For the short vowel /i/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:img/fig3-2.png]].
@@ -202,8 +218,11 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 *Ex*: /bill/ [[file:img/fig3-34.png]], /bell/ [[file:img/fig3-35.png]], /sell/ [[file:img/fig3-36.png]], /sill/ [[file:img/fig3-37.png]], /mill/ [[file:img/fig3-38.png]], /melt/ [[file:img/fig3-39.png]], /effect/ [[file:img/fig3-40.png]], /this/ [[file:img/fig3-41.png]], /else/ [[file:img/fig3-42.png]], /ell/ [[file:img/fig3-43.png]], /elder/ [[file:img/fig3-44.png]], /egg/ [[file:img/fig3-45.png]], /best/ [[file:img/fig3-46.png]], /practice/ [[file:img/fig3-47.png]], /tell/ [[file:img/fig3-48.png]], /till/ [[file:img/fig3-49.png]], /chest/ [[file:img/fig3-50.png]], /dip/ [[file:img/fig3-51.png]], /up/ [[file:img/fig3-52.png]], /cellar/ [[file:img/fig3-53.png]], /fellow/ [[file:img/fig3-54.png]], /bellow/ [[file:img/fig3-55.png]], /below/ [[file:img/fig3-56.png]], /jest/ [[file:img/fig3-57.png]], /skip/ [[file:img/fig3-58.png]], /whip/ [[file:img/fig3-59.png]], /rest/ [[file:img/fig3-60.png]], /mistress/ [[file:img/fig3-61.png]], /nest/ [[file:img/fig3-62.png]], /gel/ [[file:img/fig3-63.png]], /give/ [[file:img/fig3-64.png]], /jet/ [[file:img/fig3-65.png]], /gelid/ [[file:img/fig3-66.png]], /people/ [[file:img/fig3-67.png]].
 
 *** The vowels Eh and EE
+|----+---+---+-------+---|
 | Eh | eɪ | ā | /eight/ |   |
+|----+---+---+-------+---|
 | EE | iː | ē | /deep/  |   |
+|----+---+---+-------+---|
 ** Lesson 4 - Diphthongs
 *** The diphthong I
 aɪ ī
@@ -229,37 +248,66 @@ The nasals AN ON EN IN UN
 \pagebreak
 #+end_export
 ** Duployan Shorthand
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 | *Wovels*     |    |   |    |      |                                |      |    |    |    |        |                               |
 | Short      |    |   |    |      |                                | Long |    |    |    |        |                               |
-|            | AH | æ | a  | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH | ɑː  | ä  | /father/ | [[file:img/alphabet_ah_long.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
+|            | AH | æ | a  | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH | ɑː  | ä   | /father/ | [[file:img/alphabet_ah_long.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | AW | ɑː | a  | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]] |
-|            | OO | ʊ | u  | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO | uː  | ü  | /food/   | [[file:img/alphabet_oo_long.png]] |
-|            | UH | ʌ | ə  | /nut/  | [[file:img/alphabet_uh_short.png]] |      |    |    |    |        |                               |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
+|            | OO | ʊ | u  | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO | uː  | ü   | /food/   | [[file:img/alphabet_oo_long.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
+|            | UH | ʌ  | ə  | /nut/  | [[file:img/alphabet_uh_short.png]] |      |    |    |    |        |                               |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | UR | ɝː | ər | /urn/  | [[file:img/alphabet_uh_short.png]] |      |    |    |    |        |                               |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            |    |   |    |      |                                |      | O  | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]  |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | EH | ɛ  | e  | /net/  | [[file:img/alphabet_eh_short.png]] |      | EH | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | I  | ɪ  | i  | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 | *Diphthongs* |    |   |    |      |                                |      |    |    |    |        |                               |
 |            | I  | aɪ | ī  |      | [[file:img/alphabet_i_diph.png]]   |      | OW | aʊ | au |        | [[file:img/alphabet_ow_diph.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | OI | ɔɪ | ȯi |      | [[file:img/alphabet_oi_diph.png]]  |      | U  |    |    |        | [[file:img/alphabet_u_diph.png]]  |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 | *Nasals*     |    |   |    |      |                                |      |    |    |    |        |                               |
 |            | AN |   |    |      | [[file:img/alphabet_an.png]]       |      | IN |    |    |        | [[file:img/alphabet_in.png]]      |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | ON |   |    |      | [[file:img/alphabet_on.png]]       |      | UN |    |    |        | [[file:img/alphabet_un.png]]      |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | EN |   |    |      | [[file:img/alphabet_en.png]]       |      |    |    |    |        |                               |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 | *Consonants* |    |   |    |      |                                |      |    |    |    |        |                               |
 |            | P  |   |    |      | [[file:img/alphabet_p.png]]        |      | B  |    |    |        | [[file:img/alphabet_b.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | K  |   |    |      | [[file:img/alphabet_k.png]]        |      | G  |    |    |        | [[file:img/alphabet_g.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | CH |   |    |      | [[file:img/alphabet_ch.png]]       |      | J  |    |    |        | [[file:img/alphabet_j.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | T  |   |    |      | [[file:img/alphabet_t.png]]        |      | D  |    |    |        | [[file:img/alphabet_d.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | TH |   |    |      | [[file:img/alphabet_th_hard.png]]  |      | TH |    |    |        | [[file:img/alphabet_th_soft.png]] |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | F  |   |    |      | [[file:img/alphabet_f.png]]        |      | V  |    |    |        | [[file:img/alphabet_v.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | L  |   |    |      | [[file:img/alphabet_l.png]]        |      | R  |    |    |        | [[file:img/alphabet_r_hard.png]]  |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            |    |   |    |      |                                |      | R  |    |    |        | [[file:img/alphabet_r_soft.png]]  |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | S  |   |    |      | [[file:img/alphabet_s.png]]        |      | Z  |    |    |        | [[file:img/alphabet_z.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | SH |   |    |      | [[file:img/alphabet_sh.png]]       |      | ZH |    |    |        | [[file:img/alphabet_zh.png]]      |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | M  |   |    |      | [[file:img/alphabet_m.png]]        |      | N  |    |    |        | [[file:img/alphabet_n.png]]       |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            |    |   |    |      |                                |      | NG |    |    |        | [[file:img/alphabet_ng.png]]      |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 |            | Y  |   |    |      | [[file:img/alphabet_y.png]]        |      | W  |    |    |        | [[file:img/alphabet_w.png]]       |
+|            |    |   |    |      |                                |      |    |    |    |        |                               |
+|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+-------------------------------|
 #+begin_export LaTeX
 \pagebreak
 #+end_export
