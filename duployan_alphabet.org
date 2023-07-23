@@ -1,0 +1,17 @@
+#+PROPERTY: ANKI_DECK Brandt-Duployan-Alphabet
+
+* Brandt Duployan
+:PROPERTIES:
+:ANKI_DECK: Brandt-Duployan-Alphabet
+:END:
+** Alphabet
+*** letter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_letter.png]]
+**** Back
+letter

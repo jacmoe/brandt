@@ -1,0 +1,17 @@
+#+PROPERTY: ANKI_DECK Brandt-Duployan-Words
+
+* Brandt Duployan
+:PROPERTIES:
+:ANKI_DECK: Brandt-Duployan-Words
+:END:
+** Words
+*** word
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+**** Front
+Words
+
+[[file:words/word.png]]
+**** Back
+word
