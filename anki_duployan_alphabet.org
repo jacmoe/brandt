@@ -1,17 +1,249 @@
 #+PROPERTY: ANKI_DECK Brandt-Duployan-Alphabet
 
-* Brandt Duployan
+* Brandt-Duployan-Alphabet
 :PROPERTIES:
 :ANKI_DECK: Brandt-Duployan-Alphabet
 :END:
 ** Alphabet
-*** letter
+*** B
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233188403
 :END:
 **** Front
 Alphabet
 
-[[file:img/alphabet_letter.png]]
+[[file:img/alphabet_b.png]]
 **** Back
-letter
+B
+*** D
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233188944
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_d.png]]
+**** Back
+D
+*** F
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233189431
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_f.png]]
+**** Back
+F
+*** G
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233190061
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_g.png]]
+**** Back
+G
+*** J
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233190589
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_j.png]]
+**** Back
+J
+*** K
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233191016
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_k.png]]
+**** Back
+K
+*** L
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233191457
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_l.png]]
+**** Back
+L
+*** M
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233192033
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_m.png]]
+**** Back
+M
+*** N
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233192492
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_n.png]]
+**** Back
+N
+*** P
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233192906
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_p.png]]
+**** Back
+P
+*** RHard
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233193516
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_r_hard.png]]
+**** Back
+R
+*** RSoft
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233193964
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_r_soft.png]]
+**** Back
+R
+*** S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233194389
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_s.png]]
+**** Back
+S
+*** T
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233194979
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_t.png]]
+**** Back
+T
+*** THHard
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233195392
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_th_hard.png]]
+**** Back
+TH
+*** THSoft
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233195906
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_th_soft.png]]
+**** Back
+TH
+*** V
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233196355
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_v.png]]
+**** Back
+V
+*** W
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233196925
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_w.png]]
+**** Back
+W
+*** Y
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233197432
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_y.png]]
+**** Back
+Y
+*** Z
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233197905
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_z.png]]
+**** Back
+Z
+*** SH
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233546014
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_sh.png]]
+**** Back
+SH
+*** ZH
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690233546482
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_zh.png]]
+**** Back
+ZH
