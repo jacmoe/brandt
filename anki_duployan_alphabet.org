@@ -233,7 +233,7 @@ W
 **** Front
 Alphabet
 
-[[file:img/alphabet_y_arrow.png]]
+[[file:img/alphabet_y_fixed.png]]
 **** Back
 Y
 *** Z
