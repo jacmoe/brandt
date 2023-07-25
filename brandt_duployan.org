@@ -138,15 +138,15 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 #+end_export
 ** Lesson 2 - Vowels 1
 *** The vowels A O OO UH (short)
-|---------+-------+-------+--------------------------------------------------------+---------------------|
-| A       | æ     | a     | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
-|---------+-------+-------+--------------------------------------------------------+---------------------|
-| O       | ɑː     | ä      | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
-|---------+-------+-------+--------------------------------------------------------+---------------------|
-| OO      | ʊ     | u     | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
-|---------+-------+-------+--------------------------------------------------------+---------------------|
-| UH / ER | ʌ / ɝː | ə /ər | as sounded in /nut/ or /urn/ is represented by a dot       | [[file:img/fig2-4.png]] |
-|---------+-------+-------+--------------------------------------------------------+---------------------|
+|----+--------+-------+--------------------------------------------------------+---------------------|
+| AH | æ      | a     | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
+|----+--------+-------+--------------------------------------------------------+---------------------|
+| AW | ɑː      | ä     | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
+|----+--------+-------+--------------------------------------------------------+---------------------|
+| OO | ʊ      | u     | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
+|----+--------+-------+--------------------------------------------------------+---------------------|
+| ER | ʌ / ɝː | ə /ər | as sounded in /nut/ or /urn/ is represented by a dot       | [[file:img/fig2-4.png]] |
+|----+--------+-------+--------------------------------------------------------+---------------------|
 *** The joining of vowels and consonants
 **** In the beginning of words
 Join the vowel in such a way that it is either to the *left* or *below*. The reason for this will appear later. We may tabulate this rule thus:
@@ -188,15 +188,15 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 *Ex*: /awl, all/ [[file:img/fig2-56.png]], /bawl/ [[file:img/fig2-57.png]], /dawn/ [[file:img/fig2-58.png]], /walk/ [[file:img/fig2-59.png]], /caught/ [[file:img/fig2-60.png]], /bought/ [[file:img/fig2-61.png]], /lawn/ [[file:img/fig2-62.png]], /fought/ [[file:img/fig2-63.png]], /laugh/ [[file:img/fig2-64.png]], /palm/ [[file:img/fig2-65.png]], /jar/ [[file:img/fig2-66.png]], /art/ [[file:img/fig2-67.png]], /farm/ [[file:img/fig2-68.png]], /star/ [[file:img/fig2-69.png]], /father/ [[file:img/fig2-70.png]], /arm/ [[file:img/fig2-71.png]], /food/ [[file:img/fig2-72.png]], /flute/ [[file:img/fig2-73.png]], /prove/ [[file:img/fig2-74.png]], /fool/ [[file:img/fig2-75.png]], /poor/ [[file:img/fig2-76.png]], /tooth/ [[file:img/fig2-77.png]], /room/ [[file:img/fig2-78.png]], /suit/ [[file:img/fig2-79.png]], /tool/ [[file:img/fig2-80.png]].
 
 ** Lesson 3 - Vowels 2
-*** The vowels EH and I
+*** The vowels EH and EE
 |----+---+---+------+---------------------|
 | EH | ɛ  | e | /net/  | [[file:img/fig3-1.png]] |
 |----+---+---+------+---------------------|
-| I  | ɪ  | i | /knit/ | [[file:img/fig3-2.png]] |
+| EE | ɪ  | i | /knit/ | [[file:img/fig3-2.png]] |
 |----+---+---+------+---------------------|
-The short vowel /Eh/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:img/fig3-1.png]].
+The short vowel /EH/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:img/fig3-1.png]].
 
-For the short vowel /i/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:img/fig3-2.png]].
+For the short vowel /EE/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:img/fig3-2.png]].
 
 *** The method of joining these signs to others
 It is important to clearly understand and faithfully follow this rule, viz. /“In joining these signs to others you must _avoid_ in so doing _forming an angle_. From a consonant to a vowel an angle must never be formed. Nor from a vowel to a consonant, when at the beginning of a word.”/
@@ -217,20 +217,20 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 
 *Ex*: /bill/ [[file:img/fig3-34.png]], /bell/ [[file:img/fig3-35.png]], /sell/ [[file:img/fig3-36.png]], /sill/ [[file:img/fig3-37.png]], /mill/ [[file:img/fig3-38.png]], /melt/ [[file:img/fig3-39.png]], /effect/ [[file:img/fig3-40.png]], /this/ [[file:img/fig3-41.png]], /else/ [[file:img/fig3-42.png]], /ell/ [[file:img/fig3-43.png]], /elder/ [[file:img/fig3-44.png]], /egg/ [[file:img/fig3-45.png]], /best/ [[file:img/fig3-46.png]], /practice/ [[file:img/fig3-47.png]], /tell/ [[file:img/fig3-48.png]], /till/ [[file:img/fig3-49.png]], /chest/ [[file:img/fig3-50.png]], /dip/ [[file:img/fig3-51.png]], /rip/ [[file:img/fig3-52.png]], /cellar/ [[file:img/fig3-53.png]], /fellow/ [[file:img/fig3-54.png]], /bellow/ [[file:img/fig3-55.png]], /below/ [[file:img/fig3-56.png]], /jest/ [[file:img/fig3-57.png]], /skip/ [[file:img/fig3-58.png]], /whip/ [[file:img/fig3-59.png]], /rest/ [[file:img/fig3-60.png]], /mistress/ [[file:img/fig3-61.png]], /nest/ [[file:img/fig3-62.png]], /get/ [[file:img/fig3-63.png]], /give/ [[file:img/fig3-64.png]], /jet/ [[file:img/fig3-65.png]], /gelid/ [[file:img/fig3-66.png]], /people/ [[file:img/fig3-67.png]].
 
-*** The vowels Eh and EE
+*** The vowels EY and EE
 |----+---+---+-------+---|
-| Eh | eɪ | ā | /eight/ |   |
+| EY | eɪ | ā | /eight/ |   |
 |----+---+---+-------+---|
 | EE | iː | ē | /deep/  |   |
 |----+---+---+-------+---|
 ** Lesson 4 - Diphthongs
-*** The diphthong I
+*** The diphthong AI
 aɪ ī
-*** The diphthong OW
+*** The diphthong OU
 aʊ au
 *** The diphthong OI
 ɔɪ ȯi
-*** The diphthong U
+*** The diphthong URE
 juː
 ** Lesson 5 - Nasals
 The nasals AN ON EN IN UN
@@ -248,36 +248,36 @@ The nasals AN ON EN IN UN
 \pagebreak
 #+end_export
 ** Duployan Shorthand
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-| *Vowels*     |    |   |    |      |                                |      |    |    |    |        |                                |   |
-| Short      |    |   |    |      |                                | Long |    |    |    |        |                                |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | AH | æ | a  | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH | ɑː  | ä   | /father/ | [[file:img/alphabet_ah_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | AW | ɑː | a  | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            |    |   |    |      |                                |      | O  | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]   |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | OO | ʊ | u  | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO | uː  | ü   | /food/   | [[file:img/alphabet_oo_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | UH | ʌ  | ə  | /nut/  | [[file:img/alphabet_uh_short.png]] |      | UR | ɝː  | ər | /urn/  | [[file:img/alphabet_uh_short.png]] |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | EH | ɛ  | e  | /net/  | [[file:img/alphabet_eh_short.png]] |      | EH | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | I  | ɪ  | i  | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-| *Diphthongs* |    |   |    |      |                                |      |    |    |    |        |                                |   |
-|            | I  | aɪ | ī  |      | [[file:img/alphabet_i_diph.png]]   |      | OW | aʊ | au |        | [[file:img/alphabet_ow_diph.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | OI | ɔɪ | ȯi |      | [[file:img/alphabet_oi_diph.png]]  |      | U  |    |    |        | [[file:img/alphabet_u_diph.png]]   |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-| *Nasals*     |    |   |    |      |                                |      |    |    |    |        |                                |   |
-|            | AN |   |    |      | [[file:img/alphabet_an.png]]       |      | IN |    |    |        | [[file:img/alphabet_in.png]]       |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | ON |   |    |      | [[file:img/alphabet_on.png]]       |      | UN |    |    |        | [[file:img/alphabet_un.png]]       |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|            | EN |   |    |      | [[file:img/alphabet_en.png]]       |      |    |    |    |        |                                |   |
-|------------+----+---+----+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+| *Vowels*     |    |   |    |      |                                |      |     |    |    |        |                                |   |
+| Short      |    |   |    |      |                                | Long |     |    |    |        |                                |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | AH | æ | a  | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH  | ɑː  | ä  | /father/ | [[file:img/alphabet_ah_long.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | AW | ɑː | a  | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW  | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            |    |   |    |      |                                |      | O   | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]   |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | OO | ʊ | u  | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO  | uː  | ü  | /food/   | [[file:img/alphabet_oo_long.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | ER | ʌ | ə  | /nut/  | [[file:img/alphabet_uh_short.png]] |      | UR  | ɝː  | ər | /urn/    | [[file:img/alphabet_uh_short.png]] |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | EH | ɛ  | e  | /net/  | [[file:img/alphabet_eh_short.png]] |      | EY  | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | EE | ɪ  | i  | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE  | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+| *Diphthongs* |    |   |    |      |                                |      |     |    |    |        |                                |   |
+|            | AI | aɪ | ī  |      | [[file:img/alphabet_i_diph.png]]   |      | OU  | aʊ | au |        | [[file:img/alphabet_ow_diph.png]]  |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | OI | ɔɪ | ȯi |      | [[file:img/alphabet_oi_diph.png]]  |      | URE |    |    |        | [[file:img/alphabet_u_diph.png]]   |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+| *Nasals*     |    |   |    |      |                                |      |     |    |    |        |                                |   |
+|            | AN |   |    |      | [[file:img/alphabet_an.png]]       |      | IN  |    |    |        | [[file:img/alphabet_in.png]]       |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | ON |   |    |      | [[file:img/alphabet_on.png]]       |      | UN  |    |    |        | [[file:img/alphabet_un.png]]       |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+|            | EN |   |    |      | [[file:img/alphabet_en.png]]       |      |     |    |    |        |                                |   |
+|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
 *Consonants*
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+--------------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------|
 | P                       | K                       | CH                       | T                       | TH                            | F                              | L                            |                              | S                       | SH                       | M                       |                               | Y                       |
