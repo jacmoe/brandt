@@ -269,3 +269,234 @@ Alphabet
 [[file:img/alphabet_zh.png]]
 **** Back
 ZH
+*** AH_S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313449286
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_ah_short.png]]
+**** Back
+AH_Short
+*** AW_S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313449737
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_aw_short.png]]
+**** Back
+AW_Short
+*** OO_S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313450137
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_oo_short.png]]
+**** Back
+OO_Short
+*** UH_UR
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313450647
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_uh_short.png]]
+**** Back
+UH / UR
+*** EH
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313451310
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_eh_short.png]]
+**** Back
+EH
+*** EE_S
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313451761
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_i_short.png]]
+**** Back
+EE
+*** AH_L
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313452192
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_ah_long.png]]
+**** Back
+AH_Long
+*** AW_L
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313452644
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_aw_long.png]]
+**** Back
+AW_Long
+*** O
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313453287
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_o_long.png]]
+**** Back
+O
+*** OO_L
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313453744
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_oo_long.png]]
+**** Back
+OO_Long
+*** EY
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313454171
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_eh_long.png]]
+**** Back
+EY
+*** EE_L
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313454638
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_ee_long.png]]
+**** Back
+EE_Long
+*** AI
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313455294
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_i_diph.png]]
+**** Back
+AI
+*** OI
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313455736
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_oi_diph.png]]
+**** Back
+OI
+*** AU
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313456171
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_ow_diph.png]]
+**** Back
+AU
+*** URE
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313456569
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_u_diph.png]]
+**** Back
+URE
+*** AN
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313457212
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_an.png]]
+**** Back
+AN
+*** ON
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313457744
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_on.png]]
+**** Back
+ON
+*** EN
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313458130
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_en.png]]
+**** Back
+EN
+*** IN
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313458569
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_in.png]]
+**** Back
+IN
+*** UN
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690313459147
+:END:
+**** Front
+Alphabet
+
+[[file:img/alphabet_un.png]]
+**** Back
+UN
