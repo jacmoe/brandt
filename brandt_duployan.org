@@ -166,7 +166,7 @@ Vowels may be written either above or below, to the right or to the left.
 
 *Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
 
-*** The vowels AH AW OO OU (long)
+*** The vowels AH AW OO O (long)
 |----+----+---+------+----------------------|
 | AH | ɑː  | ä | /arm/  | [[file:img/fig2-53.png]] |
 |----+----+---+------+----------------------|
