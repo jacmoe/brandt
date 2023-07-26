@@ -259,7 +259,28 @@ The phonetic /U/ (URE juː), as sounded in /use/ and /view/, is represented by a
 *Ex*: /wish/ X, /with/ X, /wig/ X, /wife/ X, /we/ X.
 
 ** Lesson 5 - Nasals
-The nasals AN ON EN IN UN
+The sounds /AN ON EN IN UN/ are such as are found in /pan/, /pond/, /pen/, /pin/, and /pun/. They are combinations of the short vowels /a/, /o/, /e/, /i/, and /u/, with the nasal /n/.
+
+If, however, such combinations produce _long sounds_ such as /mane/, /bone/, /green/, /soon/, the above remarks do not apply.
+
+The short nasal sounds /an, on, en, in, un/ are of such frequent occurrence that both speed and legibility is gained by expressing them by a short, simple sign.
+
+They are then always represented by anyone of the four quadrants of a small circle, viz. X. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
+
+In order to distinquish the signs for these various nasal sounds we make use of an acute and grave accent, written either above or below the quadrant.
+
+The following table will illustrate the method of writing them.
+| AN | X | with an Acute above. |
+| ON | X | with an Acute below. |
+| EN | X | without any accent.  |
+| IN | X | with a Grave above.  |
+| UN | X | with a Grave below.  |
+
+*Ex*: /done/ X, /son/ X, /print/ X, /sent/ X, /dent/ X, /grant/ X, /month/ X, /money/ X, /funny/ X, /tenth/ X, /thin/ X, /front/ X, /channel/ X, /chance/ X, /man/ X, /men/ X, /until/ X, /lunch/ X, /many/ X, /none/ X, /sentry/ X, /spunge/ X, /woman/ X, /women/ X, /land/ X, /Sunday/ X, /winter/ X, /appearance/ X, /phonography/ X, /bondage/ X, /fancy/ X, /condense/ X, /pontiff/ X.
+
+*N.B.* When the nasal /n/ is preceded by the long vowel sounds /AH/, /AW/, /OO/, /O/, /EY/, /EE/, it must be written out in full.
+
+*Ex*: /moon/ X, /brain/ X, /dean/ X, /pain/ X, /mean/ X, /groan/ X, /stone/ X, /own/ X, /stain/ X, /lawn/ X, /pawn/ X, /meanful/ X, /known/ X, /soon/ X, /fawn/ X, /painter/ X.
 
 ** Lesson 6 - H Aspirate
 
@@ -300,10 +321,10 @@ The nasals AN ON EN IN UN
 | ī                            | au                            | ȯi                            |                              |
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 *Nasals*
-|--------------------------+--------------------------+--------------------------+--------------------------+----|
-| AN                       | IN                       | UN                       | ON                       | EN |
-| [[file:img/alphabet_an.png]] | [[file:img/alphabet_in.png]] | [[file:img/alphabet_un.png]] | [[file:img/alphabet_on.png]] | [[file:img/alphabet_en.png]]   |
-|--------------------------+--------------------------+--------------------------+--------------------------+----|
+|--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
+| AN                       | ON                       | EN                       | IN                       | UN                       |
+| [[file:img/alphabet_an.png]] | [[file:img/alphabet_on.png]] | [[file:img/alphabet_en.png]] | [[file:img/alphabet_in.png]] | [[file:img/alphabet_un.png]] |
+|--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
 *Consonants*
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | P                       | K                       | CH                       | T                       | TH                            | F                       | L                            |                              | S                       | SH                       | M                       |                          | W                       |
