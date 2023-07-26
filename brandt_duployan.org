@@ -267,7 +267,7 @@ The short nasal sounds /an, on, en, in, un/ are of such frequent occurrence that
 
 They are then always represented by anyone of the four quadrants of a small circle, viz. X. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
 
-In order to distinquish the signs for these various nasal sounds we make use of an acute and grave accent, written either above or below the quadrant.
+In order to distinguish the signs for these various nasal sounds we make use of an acute and grave accent, written either above or below the quadrant.
 
 The following table will illustrate the method of writing them.
 | AN | X | with an Acute above. |
@@ -276,7 +276,7 @@ The following table will illustrate the method of writing them.
 | IN | X | with a Grave above.  |
 | UN | X | with a Grave below.  |
 
-*Ex*: /done/ X, /son/ X, /print/ X, /sent/ X, /dent/ X, /grant/ X, /month/ X, /money/ X, /funny/ X, /tenth/ X, /thin/ X, /front/ X, /channel/ X, /chance/ X, /man/ X, /men/ X, /until/ X, /lunch/ X, /many/ X, /none/ X, /sentry/ X, /spunge/ X, /woman/ X, /women/ X, /land/ X, /Sunday/ X, /winter/ X, /appearance/ X, /phonography/ X, /bondage/ X, /fancy/ X, /condense/ X, /pontiff/ X.
+*Ex*: /done/ X, /son/ X, /print/ X, /sent/ X, /dent/ X, /grant/ X, /month/ X, /money/ X, /funny/ X, /tenth/ X, /thin/ X, /front/ X, /channel/ X, /chance/ X, /man/ X, /men/ X, /until/ X, /lunch/ X, /many/ X, /none/ X, /sentry/ X, /sponge/ X, /woman/ X, /women/ X, /land/ X, /Sunday/ X, /winter/ X, /appearance/ X, /phonography/ X, /bondage/ X, /fancy/ X, /condense/ X, /pontiff/ X.
 
 *N.B.* When the nasal /n/ is preceded by the long vowel sounds /AH/, /AW/, /OO/, /O/, /EY/, /EE/, it must be written out in full.
 
@@ -284,13 +284,47 @@ The following table will illustrate the method of writing them.
 
 ** Lesson 6 - H Aspirate
 
-** Lesson 7 - More on nasals
+*** At the beginning of a word
+Vowel signs, diphthongs, and the short nasal sounds may be joined to a following consonant sign at the beginning of a word in one of two ways, viz. either by being written forwards or backwards (See Lesson 2-2 and 3-1).
 
+They are written forwards for X.
+
+They are written backwards for X.
+
+Now, to show an aspiration at the beginning of words write the vowel in the opposite way, that is to say, if “at” is written thus X, then by transposing the vowel in this way X, the “H” aspirate (“hat”) is indicated. Therefore, trace upwards or forwards for a simple vowel, downwards or backwards for an aspirate.
+
+*Ex*: /at/ X, /hat/ X, /all/ X, /hall/ X, /it/ X, /hit/ X, /is/ X, /his/ X, /as/ X, /has/ X, /air/ X, /hair/ X, /and/ X, /hand/ X, /ale/ X, /hale/ X, /arrow/ X, /harrow/ X, /aft/ X, /haft/ X, /am/ X, /ham/ X, /altar/ X, /halter/ X, /ark/ X, /hark/ X, /arm/ X, /harm/ X, /earl/ X, /hurl/ X or X & X, /art/ X, /heart/ X, /eel/ X, /heel/ X, /eve/ X, /heave/ X, /edge/ X, /hedge/ X, /elm/ X, /helm/ X, /ire/ X, /hire/ X, /old/ X, /hold/ X.
+
+*** In the body of a word
+When “H” aspirate is sounded in the body of a word, if it is a compound word as “overheard”, we may write separately the two words “over” & “heard” and indicate the aspirate in the latter word, in the manner described in no. 1. In order to show that the two signs represent one word they must be written close together.
+
+*Ex*: /tender-hearted/ X, /overhang/ X, /warehouse/ X, /shorthand/ X, /Stonyhurst/ X, /loophole/ X, /underhand/ X.
+*** Rule for non-compounded words and aspirated vowel-words
+The position of the aspirate in words which are not compounded, e.g. /behalf/ or /enhance/, or in aspirated vowel-words, e.g. /how/ or /who/, is indicated by a short horizontal dash written below the vowel.
+
+*Ex*: /behalf/ X, /behind/ X, /enhance/ X, /who/ X, /high/ X, /how/ X, /apprehension/ X.
+** Lesson 7 - More on nasals
+*** Nasal followed by G
+When the short nasal sounds are followed by “G” the pronunciation of the syllables will not be /an + g/, /on + g/, etc., but /a + ng/, /o + ng/, etc. Add therefore the short vowel sign to the consonant sign /ng/.
+
+*Ex*: /song/ X, /single/ X, /angle/ X, /lasting/ X, /bring/ X, /flung/ X, /bangle/ X, /sing/ X, /wrangle/ X, /long/ X, /thing/ X.
+*** NK
+The sound “NK” is made up of /ng/ + /k/ : X + X and is stenographically expressed by adding the “K” sign to “ng”: X.
+
+*Ex*: /bank/ X, /sank/ X, /brink/ X, /ink/ X, /wrinkle/ X, /link/ X, /wink/ X, /sink/ X.
+
+*N.B.* Although it is phonetically incorrect to express the sounds /ank/, /ink/, etc. by adding the “K” sign to the short nasal sign still it may be used as an abbreviated form of the sounds.
+
+*Ex*: /bank/ X, /sank/ X, /brink/ X, /ink/ X, /wrinkle/ X, /link/ X, /wink/ X, /sink/ X.
+*** Single vowels or nasal sounds
+Words expressed by single vowel or nasal sounds are always represented by the sign appropriate to each in the synoptical vowel table.
+
+*Ex*: /I, eye/ X, /high/ X, /he/ X, /eh/ X, /an/ X, /on/ X, /in/ X, /hen/ X, /you/ X, /hew/ X.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-** Notes on Part II
-
+** Note on Part II
+By means of the system explained in this elementary course, every word in the English language can be written without difficulty. Those, however, who have desired primarily a very rapid and brief method of writing, will find in the legibility of this system and the ease in acquiring it, a compensation for the want of elegance resulting from the long form of some of the stenographic word-signs. For those, however, who desire a more rapid system of writing we have drawn up in Part II a method of abbreviating which is at the same time easily acquired, written with facility, very legible and proved to give excellent results.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -355,4 +389,5 @@ The following table will illustrate the method of writing them.
 #  LocalWords:  collaborateur’s eF eM eL ahRe eu ahre eS suh puh se pe Buh Fuh
 #  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve Zh GN GH lk tm sg rg chr rch sd
 #  LocalWords:  dj lp thm mth nr rth thr rsh md ps dn shp mn nm jm nj njm js gj
-#  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju EY URE
+#  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju EY URE un meanful ng
+#  LocalWords:  NK ke ank
