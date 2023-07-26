@@ -225,6 +225,16 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 |----+---+---+-------+---|
 | EE | iː | ē | /deep/  |   |
 |----+---+---+-------+---|
+These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinquished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:img/fig3-68.png]], /EY/ [[file:img/fig3-69.png]].
+
+Also, /EE/ is distinquished from /long EE/ by the latter having the horizontal dash placed above it, e.g. /EE/ [[file:img/fig3-70.png]], /long EE/ [[file:img/fig3-71.png]].
+
+*Ex*: /eight/ [[file:img/fig3-72.png]], /late/ [[file:img/fig3-73.png]], /place/ [[file:img/fig3-74.png]], /maid/ [[file:img/fig3-75.png]], /afraid/ [[file:img/fig3-76.png]], /mislaid/ [[file:img/fig3-77.png]], /plate/ [[file:img/fig3-78.png]], /age/ [[file:img/fig3-79.png]], /chamber/ [[file:img/fig3-80.png]], /brief/ [[file:img/fig3-81.png]], /deep/ [[file:img/fig3-82.png]], /steep/ [[file:img/fig3-83.png]], /meat, meet/ [[file:img/fig3-84.png]], /feature/ [[file:img/fig3-85.png]], /leader/ [[file:img/fig3-86.png]], /seem/ [[file:img/fig3-87.png]], /believe/ [[file:img/fig3-88.png]], /green/ [[file:img/fig3-89.png]], /vain/ [[file:img/fig3-90.png]], /air/ [[file:img/fig3-91.png]], /see/ [[file:img/fig3-92.png]], /say/ [[file:img/fig3-93.png]], /thee/ [[file:img/fig3-94.png]].
+
+*N.B.* The consonant /Y/ is always represented by the small semi-circle but drawn downwards: [[file:img/fig3-95.png]].
+
+*Ex*: /year/ [[file:img/fig3-96.png]], /yard/ [[file:img/fig3-97.png]], /yoke/ [[file:img/fig3-98.png]], /Yorkshire/ [[file:img/fig3-99.png]], /yacht/ [[file:img/fig3-100.png]], /young/ [[file:img/fig3-101.png]], /yellow/ [[file:img/fig3-102.png]], /yawn/ [[file:img/fig3-103.png]], /yet/ [[file:img/fig3-104.png]], /yield/ [[file:img/fig3-105.png]], /yern/ [[file:img/fig3-106.png]], /youth/ [[file:img/fig3-107.png]].
+
 ** Lesson 4 - Diphthongs
 *** The diphthong AI
 aɪ ī
