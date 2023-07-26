@@ -27,13 +27,10 @@ In the second and third part there is explained, for those whose goal is the rep
 
 Part II deals with all common prefixes and suffixes abbreviated forms of common words, together with a novel and simple method of representing the auxiliary verbs. Part III, in a few pages expounds our completed system.
 
-I take this opportunity of expressing my thanks to the Rev. D.H. Thompson [Stonyhurst] for the help he has given me in framing this adaptation. If it meets with any success it will be owing to my collaborateur’s suggestions.
-
-~November 4th, 1901. C. B.~
+I take this opportunity of expressing my thanks to the Rev. D.H. Thompson [Stonyhurst] for the help he has given me in framing this adaptation. If it meets with any success it will be owing to my collaborateur’s suggestions. ~November 4th, 1901. C. B.~
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-
 * The Phonetic Principle
 :properties:
 :unnumbered: t
@@ -276,46 +273,46 @@ The nasals AN ON EN IN UN
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-** Duployan Shorthand
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-| *Vowels*     |    |   |    |      |                                |      |     |    |    |        |                                |   |
-| Short      |    |   |    |      |                                | Long |     |    |    |        |                                |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | AH | æ | a  | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH  | ɑː  | ä  | /father/ | [[file:img/alphabet_ah_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | AW | ɑː | a  | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW  | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            |    |   |    |      |                                |      | O   | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]   |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | OO | ʊ | u  | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO  | uː  | ü  | /food/   | [[file:img/alphabet_oo_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | UH | ʌ | ə  | /nut/  | [[file:img/alphabet_uh_short.png]] |      | UR  | ɝː  | ər | /urn/    | [[file:img/alphabet_uh_short.png]] |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | EH | ɛ  | e  | /net/  | [[file:img/alphabet_eh_short.png]] |      | EY  | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | EE | ɪ  | i  | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE  | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-| *Diphthongs* |    |   |    |      |                                |      |     |    |    |        |                                |   |
-|            | AI | aɪ | ī  |      | [[file:img/alphabet_i_diph.png]]   |      | AU  | aʊ | au |        | [[file:img/alphabet_ow_diph.png]]  |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | OI | ɔɪ | ȯi |      | [[file:img/alphabet_oi_diph.png]]  |      | URE |    |    |        | [[file:img/alphabet_u_diph.png]]   |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-| *Nasals*     |    |   |    |      |                                |      |     |    |    |        |                                |   |
-|            | AN |   |    |      | [[file:img/alphabet_an.png]]       |      | IN  |    |    |        | [[file:img/alphabet_in.png]]       |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | ON |   |    |      | [[file:img/alphabet_on.png]]       |      | UN  |    |    |        | [[file:img/alphabet_un.png]]       |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
-|            | EN |   |    |      | [[file:img/alphabet_en.png]]       |      |     |    |    |        |                                |   |
-|------------+----+---+----+------+--------------------------------+------+-----+----+----+--------+--------------------------------+---|
+** Summary of Brandt’s Duployan Shorthand
+*Vowels*
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+| Short |    |   |   |      |                                | Long |    |    |    |        |                                |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | AH | æ | a | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH | ɑː  | ä  | /father/ | [[file:img/alphabet_ah_long.png]]  |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | AW | ɑː | a | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]]  |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       |    |   |   |      |                                |      | O  | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]   |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | OO | ʊ | u | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO | uː  | ü  | /food/   | [[file:img/alphabet_oo_long.png]]  |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | UH | ʌ | ə | /nut/  | [[file:img/alphabet_uh_short.png]] |      | UR | ɝː  | ər | /urn/    | [[file:img/alphabet_uh_short.png]] |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | EH | ɛ  | e | /net/  | [[file:img/alphabet_eh_short.png]] |      | EY | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]]  |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|       | EE | ɪ  | i | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]]  |   |
+|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+*Diphthongs*
+|------------------------------+-------------------------------+-------------------------------+------------------------------|
+| AI                           | OW                            | OI                            | URE                          |
+| [[file:img/alphabet_i_diph.png]] | [[file:img/alphabet_ow_diph.png]] | [[file:img/alphabet_oi_diph.png]] | [[file:img/alphabet_u_diph.png]] |
+| aɪ                            | aʊ                            | ɔɪ                             |                              |
+| ī                            | au                            | ȯi                            |                              |
+|------------------------------+-------------------------------+-------------------------------+------------------------------|
+*Nasals*
+|--------------------------+--------------------------+--------------------------+--------------------------+----|
+| AN                       | IN                       | UN                       | ON                       | EN |
+| [[file:img/alphabet_an.png]] | [[file:img/alphabet_in.png]] | [[file:img/alphabet_un.png]] | [[file:img/alphabet_on.png]] | [[file:img/alphabet_en.png]]   |
+|--------------------------+--------------------------+--------------------------+--------------------------+----|
 *Consonants*
-|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+--------------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------|
-| P                       | K                       | CH                       | T                       | TH                            | F                              | L                            |                              | S                       | SH                       | M                       |                               | Y                       |
-| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_hard.png]] | [[file:img/alphabet_f.png]]        | [[file:img/alphabet_l.png]]      |                              | [[file:img/alphabet_s.png]] | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]] |                               | [[file:img/alphabet_y.png]] |
-|                         |                         |                          |                         |                               |                                |                              |                              |                         |                          |                         |                               |                         |
-|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+--------------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------|
-| B                       | G                       | J                        | D                       | TH                            | V                              | R                            | R                            | Z                       | ZH                       | N                       | NG                            | W                       |
-| [[file:img/alphabet_b.png]] | [[file:img/alphabet_g.png]] | [[file:img/alphabet_j.png]]  | [[file:img/alphabet_d.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_v.png]]        | [[file:img/alphabet_r_hard.png]] | [[file:img/alphabet_r_soft.png]] | [[file:img/alphabet_z.png]] | [[file:img/alphabet_zh.png]] | [[file:img/alphabet_n.png]] | [[file:img/alphabet_ng.png]]      | [[file:img/alphabet_w.png]] |
-|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+--------------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------|
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
+| P                       | K                       | CH                       | T                       | TH                            | F                       | L                            |                              | S                       | SH                       | M                       |                          | W                       |
+| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_hard.png]] | [[file:img/alphabet_f.png]] | [[file:img/alphabet_l.png]]      |                              | [[file:img/alphabet_s.png]] | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]] |                          | [[file:img/alphabet_w.png]] |
+|                         |                         |                          |                         |                               |                         |                              |                              |                         |                          |                         |                          |                         |
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
+| B                       | G                       | J                        | D                       | TH                            | V                       | R                            | R                            | Z                       | ZH                       | N                       | NG                       | Y                       |
+| [[file:img/alphabet_b.png]] | [[file:img/alphabet_g.png]] | [[file:img/alphabet_j.png]]  | [[file:img/alphabet_d.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_v.png]] | [[file:img/alphabet_r_hard.png]] | [[file:img/alphabet_r_soft.png]] | [[file:img/alphabet_z.png]] | [[file:img/alphabet_zh.png]] | [[file:img/alphabet_n.png]] | [[file:img/alphabet_ng.png]] | [[file:img/alphabet_y.png]] |
+|-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 #+begin_export LaTeX
 \pagebreak
 #+end_export
