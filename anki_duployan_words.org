@@ -5,13 +5,267 @@
 :ANKI_DECK: Brandt-Duployan-Words
 :END:
 ** Words
-*** word
+*** Back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373763732
 :END:
 **** Front
 Words
 
-[[file:words/word.png]]
+[[file:img/fig2-24.png]]
 **** Back
-word
+Back
+*** Dock
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373764174
+:END:
+**** Front
+Words
+
+[[file:img/fig2-25.png]]
+**** Back
+Dock
+*** Rob
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373764666
+:END:
+**** Front
+Words
+
+[[file:img/fig2-26.png]]
+**** Back
+Rob
+*** Top
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373765111
+:END:
+**** Front
+Words
+
+[[file:img/fig2-27.png]]
+**** Back
+Top
+*** Took
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373765611
+:END:
+**** Front
+Words
+
+[[file:img/fig2-28.png]]
+**** Back
+Took
+*** Foot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373766004
+:END:
+**** Front
+Words
+
+[[file:img/fig2-29.png]]
+**** Back
+Foot
+*** Full
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373766465
+:END:
+**** Front
+Words
+
+[[file:img/fig2-30.png]]
+**** Back
+Full
+*** Pull
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373766935
+:END:
+**** Front
+Words
+
+[[file:img/fig2-31.png]]
+**** Back
+Pull
+*** That
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373767365
+:END:
+**** Front
+Words
+
+[[file:img/fig2-32.png]]
+**** Back
+That
+*** Sad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373767954
+:END:
+**** Front
+Words
+
+[[file:img/fig2-33.png]]
+**** Back
+Sad
+*** Mask
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373768486
+:END:
+**** Front
+Words
+
+[[file:img/fig2-34.png]]
+**** Back
+Mask
+*** Cast
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373768915
+:END:
+**** Front
+Words
+
+[[file:img/fig2-35.png]]
+**** Back
+Cast
+*** Charge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373769336
+:END:
+**** Front
+Words
+
+[[file:img/fig2-36.png]]
+**** Back
+Charge
+*** God
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373769790
+:END:
+**** Front
+Words
+
+[[file:img/fig2-37.png]]
+**** Back
+God
+*** Good
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373770210
+:END:
+**** Front
+Words
+
+[[file:img/fig2-38.png]]
+**** Back
+Good
+*** Block
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373770654
+:END:
+**** Front
+Words
+
+[[file:img/fig2-39.png]]
+**** Back
+Block
+*** Clock
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373771034
+:END:
+**** Front
+Words
+
+[[file:img/fig2-40.png]]
+**** Back
+Clock
+*** Shadow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373771434
+:END:
+**** Front
+Words
+
+[[file:img/fig2-41.png]]
+**** Back
+Shadow
+*** Show
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373772036
+:END:
+**** Front
+Words
+
+[[file:img/fig2-42.png]]
+**** Back
+Show
+*** To
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373772466
+:END:
+**** Front
+Words
+
+[[file:img/fig2-43.png]]
+**** Back
+To
+*** Body
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373772885
+:END:
+**** Front
+Words
+
+[[file:img/fig2-44.png]]
+**** Back
+Body
+*** Army
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373773315
+:END:
+**** Front
+Words
+
+[[file:img/fig2-45.png]]
+**** Back
+Army
+*** Know
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373773780
+:END:
+**** Front
+Words
+
+[[file:img/fig2-46.png]]
+**** Back
+Know
+*** Blue
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690373774256
+:END:
+**** Front
+Words
+
+[[file:img/fig2-47.png]]
+**** Back
+Blue
