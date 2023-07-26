@@ -237,9 +237,17 @@ Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal d
 
 ** Lesson 4 - Diphthongs
 *** The diphthong AI
-aɪ ī
+The diphthong /AI/ (aɪ ī) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
+
+The rule laid down in Lesson 3-2 is here disregarded and exactly the opposite made use of, i.e. express the diphthong /AI/ by making the semi-circle form an angle.
+
+*Ex*: /tie/ X, /thigh/ X, /time/ X, /mile/ X, /file/ X, /fine/ X, /line/ X, /like/ X, /sigh/ X, /pie/ X, /right/ X, /while/ X, /choir/ X, /blithe/ X, /my/ X.
 *** The diphthong AU
-aʊ au
+The diphthong /AU/ (aʊ au) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ X and /OO/ X thus X.
+
+The formation of this sign both at the beginning and end of words, offers no difficulty. When it comes between two consonants the simplest and quickest way of writing it, is to trace it in the same direction as the following sign.
+
+*Ex*: /out/ X, /hour/ X, /ounce/ X, /cow/ X, /now/ X, /plough/ X, /bow/ X, /about/ X, /fowl/ X, /mouse/ X, /crowd/ X, /gout/ X, /growl/ X, /gown/ X, /mouth/ X, /spouse/ X, /rouse/ X, /spout/ X.
 *** The diphthong OI
 ɔɪ ȯi
 *** The diphthong URE
