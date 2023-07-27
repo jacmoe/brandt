@@ -282,22 +282,22 @@ If, however, such combinations produce _long sounds_ such as /mane/, /bone/, /gr
 
 The short nasal sounds /an, on, en, in, un/ are of such frequent occurrence that both speed and legibility is gained by expressing them by a short, simple sign.
 
-They are then always represented by anyone of the four quadrants of a small circle, viz. X. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
+They are then always represented by anyone of the four quadrants of a small circle, viz. [[file:img/fig5-1.png]]. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
 
 In order to distinguish the signs for these various nasal sounds we make use of an acute and grave accent, written either above or below the quadrant.
 
 The following table will illustrate the method of writing them.
-| AN | X | with an Acute above. |
-| ON | X | with an Acute below. |
-| EN | X | without any accent.  |
-| IN | X | with a Grave above.  |
-| UN | X | with a Grave below.  |
+| AN | [[file:img/fig5-2.png]] | with an Acute above. |
+| ON | [[file:img/fig5-3.png]] | with an Acute below. |
+| EN | [[file:img/fig5-4.png]] | without any accent.  |
+| IN | [[file:img/fig5-5.png]] | with a Grave above.  |
+| UN | [[file:img/fig5-6.png]] | with a Grave below.  |
 
-*Ex*: /done/ X, /son/ X, /print/ X, /sent/ X, /dent/ X, /grant/ X, /month/ X, /money/ X, /funny/ X, /tenth/ X, /thin/ X, /front/ X, /channel/ X, /chance/ X, /man/ X, /men/ X, /until/ X, /lunch/ X, /many/ X, /none/ X, /sentry/ X, /sponge/ X, /woman/ X, /women/ X, /land/ X, /Sunday/ X, /winter/ X, /appearance/ X, /phonography/ X, /bondage/ X, /fancy/ X, /condense/ X, /pontiff/ X.
+*Ex*: /done/ [[file:img/fig5-7.png]], /son/ [[file:img/fig5-8.png]], /print/ [[file:img/fig5-9.png]], /sent/ [[file:img/fig5-10.png]], /dent/ [[file:img/fig5-11.png]], /grant/ [[file:img/fig5-12.png]], /month/ [[file:img/fig5-13.png]], /money/ [[file:img/fig5-14.png]], /funny/ [[file:img/fig5-15.png]], /tenth/ [[file:img/fig5-16.png]], /thin/ [[file:img/fig5-17.png]], /front/ [[file:img/fig5-18.png]], /channel/ [[file:img/fig5-19.png]], /chance/ [[file:img/fig5-20.png]], /man/ [[file:img/fig5-21.png]], /men/ [[file:img/fig5-22.png]], /until/ [[file:img/fig5-23.png]], /lunch/ [[file:img/fig5-24.png]], /many/ [[file:img/fig5-25.png]], /none/ [[file:img/fig5-26.png]], /sentry/ [[file:img/fig5-27.png]], /sponge/ [[file:img/fig5-28.png]], /woman/ [[file:img/fig5-29.png]], /women/ [[file:img/fig5-30.png]], /land/ [[file:img/fig5-31.png]], /Sunday/ [[file:img/fig5-32.png]], /winter/ [[file:img/fig5-33.png]], /appearance/ [[file:img/fig5-34.png]], /phonography/ [[file:img/fig5-35.png]], /bondage/ [[file:img/fig5-36.png]], /fancy/ [[file:img/fig5-37.png]], /condense/ [[file:img/fig5-38.png]], /pontiff/ [[file:img/fig5-39.png]].
 
 *N.B.* When the nasal /n/ is preceded by the long vowel sounds /AH/, /AW/, /OO/, /O/, /EY/, /EE/, it must be written out in full.
 
-*Ex*: /moon/ X, /brain/ X, /dean/ X, /pain/ X, /mean/ X, /groan/ X, /stone/ X, /own/ X, /stain/ X, /lawn/ X, /pawn/ X, /meanful/ X, /known/ X, /soon/ X, /fawn/ X, /painter/ X.
+*Ex*: /moon/ [[file:img/fig5-40.png]], /brain/ [[file:img/fig5-41.png]], /dean/ [[file:img/fig5-42.png]], /pain/ [[file:img/fig5-43.png]], /mean/ [[file:img/fig5-44.png]], /groan/ [[file:img/fig5-45.png]], /stone/ [[file:img/fig5-46.png]], /own/ [[file:img/fig5-47.png]], /stain/ [[file:img/fig5-48.png]], /lawn/ [[file:img/fig5-49.png]], /pawn/ [[file:img/fig5-50.png]], /meanful/ [[file:img/fig5-51.png]], /known/ [[file:img/fig5-52.png]], /soon/ [[file:img/fig5-53.png]], /fawn/ [[file:img/fig5-54.png]], /painter/ [[file:img/fig5-55.png]].
 
 #+begin_export LaTeX
 \pagebreak
