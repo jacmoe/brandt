@@ -238,25 +238,25 @@ The diphthong /AI/ (aɪ ī) as sounded in /file/ and /my/ is represented by the 
 
 The rule laid down in Lesson 3-2 is here disregarded and exactly the opposite made use of, i.e. express the diphthong /AI/ by making the semi-circle form an angle.
 
-*Ex*: /tie/ X, /thigh/ X, /time/ X, /mile/ X, /file/ X, /fine/ X, /line/ X, /like/ X, /sigh/ X, /pie/ X, /right/ X, /while/ X, /choir/ X, /blithe/ X, /my/ X.
+*Ex*: /tie/ [[file:img/fig4-1.png]], /thigh/ [[file:img/fig4-2.png]], /time/ [[file:img/fig4-3.png]], /mile/ [[file:img/fig4-4.png]], /file/ [[file:img/fig4-5.png]], /fine/ [[file:img/fig4-6.png]], /line/ [[file:img/fig4-7.png]], /like/ [[file:img/fig4-8.png]], /sigh/ [[file:img/fig4-9.png]], /pie/ [[file:img/fig4-10.png]], /right/ [[file:img/fig4-11.png]], /while/ [[file:img/fig4-12.png]], /choir/ [[file:img/fig4-13.png]], /blithe/ [[file:img/fig4-14.png]], /my/ [[file:img/fig4-15.png]].
 *** The diphthong AU
-The diphthong /AU/ (aʊ au) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ X and /OO/ X thus X.
+The diphthong /AU/ (aʊ au) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ [[file:img/fig4-16.png]] and /OO/ [[file:img/fig4-17.png]] thus [[file:img/fig4-18.png]].
 
 The formation of this sign both at the beginning and end of words, offers no difficulty. When it comes between two consonants the simplest and quickest way of writing it, is to trace it in the same direction as the following sign.
 
-*Ex*: /out/ X, /hour/ X, /ounce/ X, /cow/ X, /now/ X, /plough/ X, /bow/ X, /about/ X, /fowl/ X, /mouse/ X, /crowd/ X, /gout/ X, /growl/ X, /gown/ X, /mouth/ X, /spouse/ X, /rouse/ X, /spout/ X.
+*Ex*: /out/ [[file:img/fig4-19.png]], /hour/ [[file:img/fig4-20.png]], /ounce/ [[file:img/fig4-21.png]], /cow/ [[file:img/fig4-22.png]], /now/ [[file:img/fig4-23.png]], /plough/ [[file:img/fig4-24.png]], /bow/ [[file:img/fig4-25.png]], /about/ [[file:img/fig4-26.png]], /fowl/ [[file:img/fig4-27.png]], /mouse/ [[file:img/fig4-28.png]], /crowd/ [[file:img/fig4-29.png]], /gout/ [[file:img/fig4-30.png]], /growl/ [[file:img/fig4-31.png]], /gown/ [[file:img/fig4-32.png]], /mouth/ [[file:img/fig4-33.png]], /spouse/ [[file:img/fig4-34.png]], /rouse/ [[file:img/fig4-35.png]], /spout/ [[file:img/fig4-36.png]].
 *** The diphthong OI
-This diphthong (ɔɪ ȯi) is formed by combining the vowel-signs /OH/ and /EE/, viz. X or X.
+This diphthong (ɔɪ ȯi) is formed by combining the vowel-signs /OH/ and /EE/, viz. [[file:img/fig4-37.png]] or [[file:img/fig4-38-a.png]] or [[file:img/fig4-38-b.png]].
 
-*Ex*: /boil/ X, /toil/ X, /joy/ X, /noise/ X or X, /boy/ X, /point/ X, /coin/ X, /toy/ X.
-*** The diphthong URE
-The phonetic /U/ (URE juː), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: X. Avoid an angular union wherever possible.
+*Ex*: /boil/ [[file:img/fig4-39.png]], /toil/ [[file:img/fig4-40.png]], /joy/ [[file:img/fig4-41.png]], /noise/ [[file:img/fig4-42.png]] or [[file:img/fig4-43.png]], /boy/ [[file:img/fig4-44.png]], /point/ [[file:img/fig4-45.png]], /coin/ [[file:img/fig4-46.png]], /toy/ [[file:img/fig4-47.png]].
+*** The diphthong JU
+The phonetic /U/ (JU juː), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: [[file:img/fig4-48.png]]. Avoid an angular union wherever possible.
 
-*Ex*: /use/ X, /music/ X, /view/ X, /knew/ X, /obscure/ X, /pure/ X, /duke/ X.
+*Ex*: /use/ [[file:img/fig4-49.png]], /music/ [[file:img/fig4-50.png]], /view/ [[file:img/fig4-51.png]], /knew/ [[file:img/fig4-52.png]], /obscure/ [[file:img/fig4-53.png]], /pure/ [[file:img/fig4-54.png]], /duke/ [[file:img/fig4-55.png]].
 
-*N.B.* The consonant /W/ likewise, represented by X, is always written *upwards*.
+*N.B.* The consonant /W/ likewise, represented by [[file:img/fig4-56.png]], is always written *upwards*.
 
-*Ex*: /wish/ X, /with/ X, /wig/ X, /wife/ X, /we/ X.
+*Ex*: /wish/ [[file:img/fig4-57.png]], /with/ [[file:img/fig4-58.png]], /wig/ [[file:img/fig4-59.png]], /wife/ [[file:img/fig4-60.png]], /we/ [[file:img/fig4-61.png]].
 
 ** Lesson 5 - Nasals
 The sounds /AN ON EN IN UN/ are such as are found in /pan/, /pond/, /pen/, /pin/, and /pun/. They are combinations of the short vowels /a/, /o/, /e/, /i/, and /u/, with the nasal /n/.
@@ -349,7 +349,7 @@ By means of the system explained in this elementary course, every word in the En
 |-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
 *Diphthongs*
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
-| AI                           | OW                            | OI                            | URE                          |
+| AI                           | OW                            | OI                            | JU                           |
 | [[file:img/alphabet_i_diph.png]] | [[file:img/alphabet_ow_diph.png]] | [[file:img/alphabet_oi_diph.png]] | [[file:img/alphabet_u_diph.png]] |
 | aɪ                            | aʊ                            | ɔɪ                             |                              |
 | ī                            | au                            | ȯi                            |                              |
