@@ -85,19 +85,19 @@ The following supplementary signs, chiefly used as diacritical or distinguishing
 | [[file:img/fig1-27.png]] | R [[file:img/fig1-28.png]] | L [[file:img/fig1-29.png]] | drawn upwards from left to right   |
 Observe that the soft and longer sounds B, D, G, V are expressed by the longer lines whilst their corresponding hard and shorter sounds P, T, K, F are expressed by the shorter ones.
 
-The consonant R has two distinct shades of sound, one hard or trill-sound as in /broil/, /zeal/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: [[file:img/fig1-30.png]].
+The consonant R has two distinct shades of sound, one hard or trill-sound as in /broil/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: [[file:img/fig1-30.png]].
 
 *** The Consonants formed from the Semi-circles
 
 | S [[file:img/fig1-31.png]]  | Z [[file:img/fig1-32.png]]                            | drawn from left to right | [[file:img/fig1-33.png]] |
 | Sh [[file:img/fig1-34.png]] | Zh [[file:img/fig1-35.png]]                           | drawn from left to right | [[file:img/fig1-36.png]] |
-| M [[file:img/fig1-37.png]]  | N [[file:img/fig1-38.png]] & GN [[file:img/fig1-39.png]] | drawn downwards          | [[file:img/fig1-40.png]] |
-It will be noticed that the soft sounds Z and ZH as in /zeal/, /as/, /vision/, are distinguished from their corresponding hard sounds by a dot. The difference between the two nasals N and GN is also indicated by a dot.
+| M [[file:img/fig1-37.png]]  | N [[file:img/fig1-38.png]] & NG [[file:img/fig1-39.png]] | drawn downwards          | [[file:img/fig1-40.png]] |
+It will be noticed that the soft sounds Z and ZH as in /zeal/, /as/, /vision/, are distinguished from their corresponding hard sounds by a dot. The difference between the two nasals N and NG is also indicated by a dot.
 
-*** The Consonants GH J TH hard TH soft
-The true sound-value of the consonant GH is found in the words /church/, /chariot/, /chess/, etc.
+*** The Consonants CH J TH hard TH soft
+The true sound-value of the consonant CH is found in the words /church/, /chariot/, /chess/, etc.
 
-The corresponding soft sound is J as in /jerk/, /giant/, /jest/, etc. GH is formed from two quadrants of a small circle [[file:img/fig1-41.png]] written in the same direction as the sign for K viz [[file:img/fig1-42.png]].
+The corresponding soft sound is J as in /jerk/, /giant/, /jest/, etc. CH is formed from two quadrants of a small circle [[file:img/fig1-41.png]] written in the same direction as the sign for K viz [[file:img/fig1-42.png]].
 
 J is written the same way but two quadrants of a large circle are used viz [[file:img/fig1-43.png]].
 
