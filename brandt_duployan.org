@@ -61,11 +61,13 @@ Any want of clearness in the above explanation will be dispelled by noting the a
 \pagebreak
 #+end_export
 
-* Part I
+* Part I - Elementary Course
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 1 - The Signs of the System
+[[file:img/lesson1.png]]
+
 The signs of this System are formed from the two simplest of geometrical figures, namely the Straight Line and the Circle.
 
 The straight line both full length and half length takes the following directions indicated by the arrow: [[file:img/fig1-1.png]]
@@ -134,6 +136,7 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 \pagebreak
 #+end_export
 ** Lesson 2 - Vowels 1
+[[file:img/lesson2.png]]
 *** The vowels AH AW OO UH (short)
 |----+---+---+--------------------------------------------------------+---------------------|
 | AH | æ | a | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
@@ -191,6 +194,7 @@ Represented by a large circle with a dot, [[file:img/fig2-48.png]].
 \pagebreak
 #+end_export
 ** Lesson 3 - Vowels 2
+[[file:img/lesson3.png]]
 *** The vowels EH and EE
 |----+---+---+------+---------------------|
 | EH | ɛ  | e | /net/  | [[file:img/fig3-1.png]] |
@@ -240,6 +244,7 @@ Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal d
 \pagebreak
 #+end_export
 ** Lesson 4 - Diphthongs
+[[file:img/lesson4.png]]
 *** The diphthong AI
 The diphthong /AI/ (aɪ ī) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
 
@@ -269,6 +274,8 @@ The phonetic /U/ (JU juː), as sounded in /use/ and /view/, is represented by a 
 \pagebreak
 #+end_export
 ** Lesson 5 - Nasals
+[[file:img/lesson5.png]]
+
 The sounds /AN ON EN IN UN/ are such as are found in /pan/, /pond/, /pen/, /pin/, and /pun/. They are combinations of the short vowels /a/, /o/, /e/, /i/, and /u/, with the nasal /n/.
 
 If, however, such combinations produce _long sounds_ such as /mane/, /bone/, /green/, /soon/, the above remarks do not apply.
@@ -296,7 +303,7 @@ The following table will illustrate the method of writing them.
 \pagebreak
 #+end_export
 ** Lesson 6 - H Aspirate
-
+[[file:img/lesson6.png]]
 *** At the beginning of a word
 Vowel signs, diphthongs, and the short nasal sounds may be joined to a following consonant sign at the beginning of a word in one of two ways, viz. either by being written forwards or backwards (See Lesson 2-2 and 3-1).
 
@@ -320,6 +327,7 @@ The position of the aspirate in words which are not compounded, e.g. /behalf/ or
 \pagebreak
 #+end_export
 ** Lesson 7 - More on nasals
+[[file:img/lesson7.png]]
 *** Nasal followed by G
 When the short nasal sounds are followed by “G” the pronunciation of the syllables will not be /an + g/, /on + g/, etc., but /a + ng/, /o + ng/, etc. Add therefore the short vowel sign to the consonant sign /ng/.
 
@@ -345,6 +353,8 @@ By means of the system explained in this elementary course, every word in the En
 \pagebreak
 #+end_export
 ** Summary of Brandt’s Duployan Shorthand
+[[file:img/duployan-shorthand.png]]
+
 *Vowels*
 |-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
 | Short |    |   |   |      |                                | Long |    |    |    |        |                                |   |
@@ -367,8 +377,8 @@ By means of the system explained in this elementary course, every word in the En
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 | AI                           | OW                            | OI                            | JU                           |
 | [[file:img/alphabet_i_diph.png]] | [[file:img/alphabet_ow_diph.png]] | [[file:img/alphabet_oi_diph.png]] | [[file:img/alphabet_u_diph.png]] |
-| aɪ                            | aʊ                            | ɔɪ                             |                              |
-| ī                            | au                            | ȯi                            |                              |
+| aɪ                            | aʊ                            | ɔɪ                             | juː                           |
+| ī                            | au                            | ȯi                            | yü                           |
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 *Nasals*
 |--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
@@ -388,7 +398,7 @@ By means of the system explained in this elementary course, every word in the En
 \pagebreak
 #+end_export
 
-* Part II
+* Part II - Basic Method of Abbreviation
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -396,7 +406,7 @@ By means of the system explained in this elementary course, every word in the En
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Part III
+* Part III - Reporting Techniques
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -406,4 +416,4 @@ By means of the system explained in this elementary course, every word in the En
 #  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve Zh GN GH lk tm sg rg chr rch sd
 #  LocalWords:  dj lp thm mth nr rth thr rsh md ps dn shp mn nm jm nj njm js gj
 #  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju EY URE un meanful ng
-#  LocalWords:  NK ke ank
+#  LocalWords:  NK ke ank yü
