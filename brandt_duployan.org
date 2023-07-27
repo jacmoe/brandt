@@ -186,6 +186,10 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 Represented by a large circle with a dot, [[file:img/fig2-48.png]].
 
 *Ex*: /foal/ [[file:img/fig2-49.png]], /pole/ [[file:img/fig2-50.png]], /soap/ [[file:img/fig2-51.png]], /shoal/ [[file:img/fig2-52.png]], etc.
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 3 - Vowels 2
 *** The vowels EH and EE
 |----+---+---+------+---------------------|
@@ -232,6 +236,9 @@ Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal d
 
 *Ex*: /year/ [[file:img/fig3-96.png]], /yard/ [[file:img/fig3-97.png]], /yoke/ [[file:img/fig3-98.png]], /Yorkshire/ [[file:img/fig3-99.png]], /yacht/ [[file:img/fig3-100.png]], /young/ [[file:img/fig3-101.png]], /yellow/ [[file:img/fig3-102.png]], /yawn/ [[file:img/fig3-103.png]], /yet/ [[file:img/fig3-104.png]], /yield/ [[file:img/fig3-105.png]], /yearn/ [[file:img/fig3-106.png]], /youth/ [[file:img/fig3-107.png]].
 
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 4 - Diphthongs
 *** The diphthong AI
 The diphthong /AI/ (aɪ ī) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
@@ -258,6 +265,9 @@ The phonetic /U/ (JU juː), as sounded in /use/ and /view/, is represented by a 
 
 *Ex*: /wish/ [[file:img/fig4-57.png]], /with/ [[file:img/fig4-58.png]], /wig/ [[file:img/fig4-59.png]], /wife/ [[file:img/fig4-60.png]], /we/ [[file:img/fig4-61.png]].
 
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 5 - Nasals
 The sounds /AN ON EN IN UN/ are such as are found in /pan/, /pond/, /pen/, /pin/, and /pun/. They are combinations of the short vowels /a/, /o/, /e/, /i/, and /u/, with the nasal /n/.
 
@@ -282,6 +292,9 @@ The following table will illustrate the method of writing them.
 
 *Ex*: /moon/ X, /brain/ X, /dean/ X, /pain/ X, /mean/ X, /groan/ X, /stone/ X, /own/ X, /stain/ X, /lawn/ X, /pawn/ X, /meanful/ X, /known/ X, /soon/ X, /fawn/ X, /painter/ X.
 
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 6 - H Aspirate
 
 *** At the beginning of a word
@@ -303,6 +316,9 @@ When “H” aspirate is sounded in the body of a word, if it is a compound word
 The position of the aspirate in words which are not compounded, e.g. /behalf/ or /enhance/, or in aspirated vowel-words, e.g. /how/ or /who/, is indicated by a short horizontal dash written below the vowel.
 
 *Ex*: /behalf/ X, /behind/ X, /enhance/ X, /who/ X, /high/ X, /how/ X, /apprehension/ X.
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 7 - More on nasals
 *** Nasal followed by G
 When the short nasal sounds are followed by “G” the pronunciation of the syllables will not be /an + g/, /on + g/, etc., but /a + ng/, /o + ng/, etc. Add therefore the short vowel sign to the consonant sign /ng/.
