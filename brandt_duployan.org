@@ -411,7 +411,17 @@ By means of the system explained in this elementary course, every word in the En
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-
+** A Psalm of Life
+| Tell | me   | not  | in   | mournful | numbers,  | Life     | is  | but    | an  | empty | dream! |      |       |
+| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      |      |       |
+| For  | the  | soul | is   | dead     | that      | slumbers | and | things | are | not   | what   | they | seem. |
+| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      | X    | X     |
+| Life | is   | real | life | is       | earnest   | and      | the | grave  | is  | not   | its    | goal | :     |
+| Dust | thou | art  | to   | dust     | returnest | was      | not | spoken | of  | the   | soul   |      |       |
+| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      |      |       |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 * Part II - Basic Method of Abbreviation
 #+begin_export LaTeX
 \pagebreak
