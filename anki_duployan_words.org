@@ -269,3 +269,333 @@ Words
 [[file:img/fig2-47.png]]
 **** Back
 Blue
+*** Foal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532344315
+:END:
+**** Front
+Words
+
+[[file:img/fig2-49.png]]
+**** Back
+Foal
+*** Pole
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532344947
+:END:
+**** Front
+Words
+
+[[file:img/fig2-50.png]]
+**** Back
+Pole
+*** Soap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532345447
+:END:
+**** Front
+Words
+
+[[file:img/fig2-51.png]]
+**** Back
+Soap
+*** Shoal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532345894
+:END:
+**** Front
+Words
+
+[[file:img/fig2-52.png]]
+**** Back
+Shoal
+*** Awl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532346308
+:END:
+**** Front
+Words
+
+[[file:img/fig2-56.png]]
+**** Back
+Awl
+*** All
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532346891
+:END:
+**** Front
+Words
+
+[[file:img/fig2-56.png]]
+**** Back
+All
+*** Bawl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532641721
+:END:
+**** Front
+Words
+
+[[file:img/fig2-57.png]]
+**** Back
+Bawl
+*** Dawn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532347539
+:END:
+**** Front
+Words
+
+[[file:img/fig2-58.png]]
+**** Back
+Dawn
+*** Walk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532347963
+:END:
+**** Front
+Words
+
+[[file:img/fig2-59.png]]
+**** Back
+Walk
+*** Caught
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532348591
+:END:
+**** Front
+Words
+
+[[file:img/fig2-60.png]]
+**** Back
+Caught
+*** Bought
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532349039
+:END:
+**** Front
+Words
+
+[[file:img/fig2-61.png]]
+**** Back
+Bought
+*** Lawn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532349474
+:END:
+**** Front
+Words
+
+[[file:img/fig2-62.png]]
+**** Back
+Lawn
+*** Fought
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690532349900
+:END:
+**** Front
+Words
+
+[[file:img/fig2-63.png]]
+**** Back
+Fought
+*** Laugh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533382672
+:END:
+**** Front
+Words
+
+[[file:img/fig2-64.png]]
+**** Back
+Laugh
+*** Palm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533383272
+:END:
+**** Front
+Words
+
+[[file:img/fig2-65.png]]
+**** Back
+Palm
+*** Jar
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533383788
+:END:
+**** Front
+Words
+
+[[file:img/fig2-66.png]]
+**** Back
+Jar
+*** Art
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533384396
+:END:
+**** Front
+Words
+
+[[file:img/fig2-67.png]]
+**** Back
+Art
+*** Farm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533384816
+:END:
+**** Front
+Words
+
+[[file:img/fig2-68.png]]
+**** Back
+Farm
+*** Star
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533385273
+:END:
+**** Front
+Words
+
+[[file:img/fig2-69.png]]
+**** Back
+Star
+*** Father
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533385748
+:END:
+**** Front
+Words
+
+[[file:img/fig2-70.png]]
+**** Back
+Father
+*** Arm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533386188
+:END:
+**** Front
+Words
+
+[[file:img/fig2-71.png]]
+**** Back
+Arm
+*** Food
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533386797
+:END:
+**** Front
+Words
+
+[[file:img/fig2-72.png]]
+**** Back
+Food
+*** Flute
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533387248
+:END:
+**** Front
+Words
+
+[[file:img/fig2-73.png]]
+**** Back
+Flute
+*** Prove
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533387690
+:END:
+**** Front
+Words
+
+[[file:img/fig2-74.png]]
+**** Back
+Prove
+*** Fool
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533388140
+:END:
+**** Front
+Words
+
+[[file:img/fig2-75.png]]
+**** Back
+Fool
+*** Poor
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533388747
+:END:
+**** Front
+Words
+
+[[file:img/fig2-76.png]]
+**** Back
+Poor
+*** Tooth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533389215
+:END:
+**** Front
+Words
+
+[[file:img/fig2-77.png]]
+**** Back
+Tooth
+*** Room
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533389672
+:END:
+**** Front
+Words
+
+[[file:img/fig2-78.png]]
+**** Back
+Room
+*** Suit
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533390097
+:END:
+**** Front
+Words
+
+[[file:img/fig2-79.png]]
+**** Back
+Suit
+*** Tool
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690533390696
+:END:
+**** Front
+Words
+
+[[file:img/fig2-80.png]]
+**** Back
+Tool
