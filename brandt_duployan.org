@@ -321,22 +321,22 @@ The following table will illustrate the method of writing them.
 *** At the beginning of a word
 Vowel signs, diphthongs, and the short nasal sounds may be joined to a following consonant sign at the beginning of a word in one of two ways, viz. either by being written forwards or backwards (See Lesson 2-2 and 3-1).
 
-They are written forwards for X.
+They are written forwards for [[file:img/fig6-1.png]].
 
-They are written backwards for X.
+They are written backwards for [[file:img/fig6-2.png]].
 
-Now, to show an aspiration at the beginning of words write the vowel in the opposite way, that is to say, if “at” is written thus X, then by transposing the vowel in this way X, the “H” aspirate (“hat”) is indicated. Therefore, trace upwards or forwards for a simple vowel, downwards or backwards for an aspirate.
+Now, to show an aspiration at the beginning of words write the vowel in the opposite way, that is to say, if “at” is written thus [[file:img/fig6-3.png]], then by transposing the vowel in this way [[file:img/fig6-4.png]], the “H” aspirate (“hat”) is indicated. Therefore, trace upwards or forwards for a simple vowel, downwards or backwards for an aspirate.
 
-*Ex*: /at/ X, /hat/ X, /all/ X, /hall/ X, /it/ X, /hit/ X, /is/ X, /his/ X, /as/ X, /has/ X, /air/ X, /hair/ X, /and/ X, /hand/ X, /ale/ X, /hale/ X, /arrow/ X, /harrow/ X, /aft/ X, /haft/ X, /am/ X, /ham/ X, /altar/ X, /halter/ X, /ark/ X, /hark/ X, /arm/ X, /harm/ X, /earl/ X, /hurl/ X or X & X, /art/ X, /heart/ X, /eel/ X, /heel/ X, /eve/ X, /heave/ X, /edge/ X, /hedge/ X, /elm/ X, /helm/ X, /ire/ X, /hire/ X, /old/ X, /hold/ X.
+*Ex*: /at/ [[file:img/fig6-5.png]], /hat/ [[file:img/fig6-6.png]], /all/ [[file:img/fig6-7.png]], /hall/ [[file:img/fig6-8.png]], /it/ [[file:img/fig6-9.png]], /hit/ [[file:img/fig6-10.png]], /is/ [[file:img/fig6-11.png]], /his/ [[file:img/fig6-12.png]], /as/ [[file:img/fig6-13.png]], /has/ [[file:img/fig6-14.png]], /air/ [[file:img/fig6-15.png]], /hair/ [[file:img/fig6-16.png]], /and/ [[file:img/fig6-17.png]], /hand/ [[file:img/fig6-18.png]], /ale/ [[file:img/fig6-19.png]], /hale/ [[file:img/fig6-20.png]], /arrow/ [[file:img/fig6-21.png]], /harrow/ [[file:img/fig6-22.png]], /aft/ [[file:img/fig6-23.png]], /haft/ [[file:img/fig6-24.png]], /am/ [[file:img/fig6-25.png]], /ham/ [[file:img/fig6-26.png]], /altar/ [[file:img/fig6-27.png]], /halter/ [[file:img/fig6-28.png]], /ark/ [[file:img/fig6-29.png]], /hark/ [[file:img/fig6-30.png]], /arm/ [[file:img/fig6-31.png]], /harm/ [[file:img/fig6-32.png]], /earl/ [[file:img/fig6-33.png]], /hurl/ [[file:img/fig6-34.png]] or [[file:img/fig6-35.png]] & [[file:img/fig6-36.png]], /art/ [[file:img/fig6-37.png]], /heart/ [[file:img/fig6-38.png]], /eel/ [[file:img/fig6-39.png]], /heel/ [[file:img/fig6-40.png]], /eve/ [[file:img/fig6-41.png]], /heave/ [[file:img/fig6-42.png]], /edge/ [[file:img/fig6-43.png]], /hedge/ [[file:img/fig6-44.png]], /elm/ [[file:img/fig6-45.png]], /helm/ [[file:img/fig6-46.png]], /ire/ [[file:img/fig6-47.png]], /hire/ [[file:img/fig6-48.png]], /old/ [[file:img/fig6-49.png]], /hold/ [[file:img/fig6-50.png]].
 
 *** In the body of a word
 When “H” aspirate is sounded in the body of a word, if it is a compound word as “overheard”, we may write separately the two words “over” & “heard” and indicate the aspirate in the latter word, in the manner described in no. 1. In order to show that the two signs represent one word they must be written close together.
 
-*Ex*: /tender-hearted/ X, /overhang/ X, /warehouse/ X, /shorthand/ X, /Stonyhurst/ X, /loophole/ X, /underhand/ X.
+*Ex*: /tender-hearted/ [[file:img/fig6-51.png]], /overhang/ [[file:img/fig6-52.png]], /warehouse/ [[file:img/fig6-53.png]], /shorthand/ [[file:img/fig6-54.png]], /Stonyhurst/ [[file:img/fig6-55.png]], /loophole/ [[file:img/fig6-56.png]], /underhand/ [[file:img/fig6-57-a.png]], /upheave/ [[file:img/fig6-57-b.png]]
 *** Rule for non-compounded words and aspirated vowel-words
 The position of the aspirate in words which are not compounded, e.g. /behalf/ or /enhance/, or in aspirated vowel-words, e.g. /how/ or /who/, is indicated by a short horizontal dash written below the vowel.
 
-*Ex*: /behalf/ X, /behind/ X, /enhance/ X, /who/ X, /high/ X, /how/ X, /apprehension/ X.
+*Ex*: /behalf/ [[file:img/fig6-58.png]], /behind/ [[file:img/fig6-59.png]], /enhance/ [[file:img/fig6-60.png]], /who/ [[file:img/fig6-61.png]], /high/ [[file:img/fig6-62.png]], /how/ [[file:img/fig6-63.png]], /apprehension/ [[file:img/fig6-64.png]].
 #+begin_export LaTeX
 \pagebreak
 #+end_export
