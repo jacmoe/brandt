@@ -398,7 +398,7 @@ Bought
 **** Front
 Words
 
-[[file:img/fig2-62.png]]
+[[file:img/fig2-62-fixed.png]]
 **** Back
 Lawn
 *** Fought
