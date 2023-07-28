@@ -345,19 +345,19 @@ The position of the aspirate in words which are not compounded, e.g. /behalf/ or
 *** Nasal followed by G
 When the short nasal sounds are followed by “G” the pronunciation of the syllables will not be /an + g/, /on + g/, etc., but /a + ng/, /o + ng/, etc. Add therefore the short vowel sign to the consonant sign /ng/.
 
-*Ex*: /song/ X, /single/ X, /angle/ X, /lasting/ X, /bring/ X, /flung/ X, /bangle/ X, /sing/ X, /wrangle/ X, /long/ X, /thing/ X.
+*Ex*: /song/ [[file:img/fig7-1.png]], /single/ [[file:img/fig7-2.png]], /angle/ [[file:img/fig7-3.png]], /lasting/ [[file:img/fig7-4.png]], /bring/ [[file:img/fig7-5.png]], /flung/ [[file:img/fig7-6.png]], /bangle/ [[file:img/fig7-7.png]], /sing/ [[file:img/fig7-8.png]], /wrangle/ [[file:img/fig7-9.png]], /long/ [[file:img/fig7-10.png]], /thing/ [[file:img/fig7-11.png]].
 *** NK
-The sound “NK” is made up of /ng/ + /k/ : X + X and is stenographically expressed by adding the “K” sign to “ng”: X.
+The sound “NK” is made up of /ng/ + /k/ : [[file:img/fig7-12.png]] + [[file:img/fig7-13.png]] and is stenographically expressed by adding the “K” sign to “ng”: [[file:img/fig7-14.png]].
 
-*Ex*: /bank/ X, /sank/ X, /brink/ X, /ink/ X, /wrinkle/ X, /link/ X, /wink/ X, /sink/ X.
+*Ex*: /bank/ [[file:img/fig7-15.png]], /sank/ [[file:img/fig7-16.png]], /brink/ [[file:img/fig7-17.png]], /ink/ [[file:img/fig7-18.png]], /wrinkle/ [[file:img/fig7-19.png]], /link/ [[file:img/fig7-20.png]], /wink/ [[file:img/fig7-21.png]], /sink/ [[file:img/fig7-22.png]].
 
 *N.B.* Although it is phonetically incorrect to express the sounds /ank/, /ink/, etc. by adding the “K” sign to the short nasal sign still it may be used as an abbreviated form of the sounds.
 
-*Ex*: /bank/ X, /sank/ X, /brink/ X, /ink/ X, /wrinkle/ X, /link/ X, /wink/ X, /sink/ X.
+*Ex*: /bank/ [[file:img/fig7-23.png]], /sank/ [[file:img/fig7-24.png]], /brink/ [[file:img/fig7-25-a.png]], /ink/ [[file:img/fig7-25-b.png]], /wrinkle/ [[file:img/fig7-26.png]], /link/ [[file:img/fig7-27.png]], /wink/ [[file:img/fig7-28.png]], /sink/ [[file:img/fig7-29.png]].
 *** Single vowels or nasal sounds
 Words expressed by single vowel or nasal sounds are always represented by the sign appropriate to each in the synoptical vowel table.
 
-*Ex*: /I, eye/ X, /high/ X, /he/ X, /eh/ X, /an/ X, /on/ X, /in/ X, /hen/ X, /you/ X, /hew/ X.
+*Ex*: /I, eye/ [[file:img/fig7-30.png]], /high/ [[file:img/fig7-31.png]], /he/ [[file:img/fig7-32.png]], /eh/ [[file:img/fig7-33.png]], /an/ [[file:img/fig7-34.png]], /on/ [[file:img/fig7-35.png]], /in/ [[file:img/fig7-36.png]], /hen/ [[file:img/fig7-37.png]], /you/ [[file:img/fig7-38.png]], /hew/ [[file:img/fig7-39.png]].
 #+begin_export LaTeX
 \pagebreak
 #+end_export
