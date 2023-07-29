@@ -412,25 +412,89 @@ By means of the system explained in this elementary course, every word in the En
 \pagebreak
 #+end_export
 ** A Psalm of Life
-| [[file:img/psalm-1.png]]  | [[file:img/psalm-2.png]]  | [[file:img/psalm-3.png]]  | [[file:img/psalm-4.png]]  | [[file:img/psalm-5.png]]  |                       |                       |   |
-| [[file:img/psalm-6.png]]  | [[file:img/psalm-7.png]]  | [[file:img/psalm-8.png]]  | [[file:img/psalm-9.png]]  |                       |                       |                       |   |
-|                       |                       |                       |                       |                       |                       |                       |   |
-| Tell                  | me                    | not                   | in                    | mournful              | numbers,              |                       |   |
-| [[file:img/psalm-10.png]] | [[file:img/psalm-11.png]] | [[file:img/psalm-12.png]] | [[file:img/psalm-13.png]] | [[file:img/psalm-14.png]] | [[file:img/psalm-15.png]] |                       |   |
-| Life                  | is                    | but                   | an                    | empty                 | dream!                |                       |   |
-| [[file:img/psalm-16.png]] | [[file:img/psalm-17.png]] | [[file:img/psalm-18.png]] | [[file:img/psalm-19.png]] | [[file:img/psalm-20.png]] | [[file:img/psalm-21.png]] |                       |   |
-| For                   | the                   | soul                  | is                    | dead                  | that                  | slumbers              |   |
-| [[file:img/psalm-22.png]] | [[file:img/psalm-23.png]] | [[file:img/psalm-24.png]] | [[file:img/psalm-25.png]] | [[file:img/psalm-26.png]] | [[file:img/psalm-27.png]] | [[file:img/psalm-28.png]] |   |
-| and                   | things                | are                   | not                   | what                  | they                  | seem.                 |   |
-| [[file:img/psalm-29.png]] | [[file:img/psalm-30.png]] | [[file:img/psalm-31.png]] | [[file:img/psalm-32.png]] | [[file:img/psalm-33.png]] | [[file:img/psalm-34.png]] | [[file:img/psalm-35.png]] |   |
-| Life                  | is                    | real                  | life                  | is                    | earnest               |                       |   |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
-| and                   | the                   | grave                 | is                    | not                   | its                   | goal:                 |   |
-| X                     | X                     | X                     | X                     | X                     | X                     | X                     |   |
-| Dust                  | thou                  | art                   | to                    | dust                  | returnest             |                       |   |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
-| was                   | not                   | spoken                | of                    | the                   | soul                  |                       |   |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
+| [[file:img/psalm-1.png]]  | [[file:img/psalm-2.png]]  | [[file:img/psalm-3.png]]  | [[file:img/psalm-4.png]]  | [[file:img/psalm-5.png]]  |                       |                       |            |
+| [[file:img/psalm-6.png]]  | [[file:img/psalm-7.png]]  | [[file:img/psalm-8.png]]  | [[file:img/psalm-9.png]]  |                       |                       |                       |            |
+|                       |                       |                       |                       |                       |                       |                       |            |
+| Tell                  | me                    | not                   | in                    | mournful              | numbers,              |                       |            |
+| [[file:img/psalm-10.png]] | [[file:img/psalm-11.png]] | [[file:img/psalm-12.png]] | [[file:img/psalm-13.png]] | [[file:img/psalm-14.png]] | [[file:img/psalm-15.png]] |                       |            |
+| “Life                 | is                    | but                   | an                    | empty                 | dream!”               |                       |            |
+| [[file:img/psalm-16.png]] | [[file:img/psalm-17.png]] | [[file:img/psalm-18.png]] | [[file:img/psalm-19.png]] | [[file:img/psalm-20.png]] | [[file:img/psalm-21.png]] |                       |            |
+| For                   | the                   | soul                  | is                    | dead                  | that                  | slumbers,             |            |
+| [[file:img/psalm-22.png]] | [[file:img/psalm-23.png]] | [[file:img/psalm-24.png]] | [[file:img/psalm-25.png]] | [[file:img/psalm-26.png]] | [[file:img/psalm-27.png]] | [[file:img/psalm-28.png]] |            |
+| and                   | things                | are                   | not                   | what                  | they                  | seem.                 |            |
+| [[file:img/psalm-29.png]] | [[file:img/psalm-30.png]] | [[file:img/psalm-31.png]] | [[file:img/psalm-32.png]] | [[file:img/psalm-33.png]] | [[file:img/psalm-34.png]] | [[file:img/psalm-35.png]] |            |
+| Life                  | is                    | real                  | life                  | is                    | earnest               |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| and                   | the                   | grave                 | is                    | not                   | its                   | goal:                 |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| “Dust                 | thou                  | art                   | to                    | dust                  | returnest”            |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| was                   | not                   | spoken                | of                    | the                   | soul                  |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| Not                   | enjoyment             | and                   | not                   | sorrow,               |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| is                    | our                   | destined              | end                   | or                    | way                   |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| But                   | to                    | act,                  | that                  | each                  | to-morrow             |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| finds                 | us                    | further               | than                  | to-day.               |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+| Art                   | is                    | long                  | and                   | time                  | is                    | fleeting              |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| and                   | our                   | hearts                | though                | stout                 | and                   | brave,                |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| Still,                | like                  | muffled               | drums                 | are                   | beating               |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| funeral               | marches               | to                    | the                   | grave                 |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| In                    | the                   | world’s               | broad                 | field                 | of                    | battle                |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| in                    | the                   | bivouac               | of                    | life,                 |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| Be                    | not                   | like                  | dumb,                 | driven                | cattle                |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| be                    | a                     | hero                  | in                    | the                   | strife!               |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| Trust                 | no                    | future,               | howe’er               | pleasant!             |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| let                   | the                   | dead                  | past                  | bury                  | its                   | dead                  |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| Act - act             | in                    | the                   | living                | present!              |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| heart                 | within                | and                   | God                   | o’er                  | head!                 |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| Lives                 | of                    | great                 | men                   | all                   | remind                | us                    |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| we                    | can                   | make                  | our                   | lives                 | sublime;              |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| And,                  | departing,            | leave                 | behind                | us                    |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| foot-prints           | on                    | the                   | sands                 | of                    | time:                 |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+| Footprints            | that                  | perhaps               | another,              |                       |                       |                       |            |
+| X                     | X                     | X                     | X                     |                       |                       |                       |            |
+| sailing               | o’er                  | Life’s                | solemn                | main                  |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| A                     | forlorn               | and                   | shipwrecked           | brother,              |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| seeing,               | shall                 | take                  | heart                 | again.                |                       |                       |            |
+| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| Let                   | us                    | then                  | be                    | up                    | and                   | doing,                |            |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| with                  | a                     | heart                 | for                   | any                   | fate;                 |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| Still                 | achieving,            | still                 | pursuing, -           |                       |                       |                       |            |
+| X                     | X                     | X                     | X                     |                       |                       |                       |            |
+| learn                 | to                    | labour                | and                   | to                    | wait!                 |                       |            |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+|                       |                       |                       |                       |                       | Henry                 | W.                    | Longfellow |
+|                       |                       |                       |                       |                       | X                     | X                     | X          |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -452,4 +516,4 @@ By means of the system explained in this elementary course, every word in the En
 #  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve Zh GN GH lk tm sg rg chr rch sd
 #  LocalWords:  dj lp thm mth nr rth thr rsh md ps dn shp mn nm jm nj njm js gj
 #  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju EY URE un meanful ng
-#  LocalWords:  NK ke ank yü
+#  LocalWords:  NK ke ank yü upheave returnest howe’er
