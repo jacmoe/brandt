@@ -443,13 +443,13 @@ By means of the system explained in this elementary course, every word in the En
 | finds                 | us                    | further               | than                  | to-day.               |                       |                       |            |
 | [[file:img/psalm-78.png]]                     | [[file:img/psalm-79.png]]                     | [[file:img/psalm-80.png]]                     | [[file:img/psalm-81.png]]                     | [[file:img/psalm-82.png]]                     |                       |                       |            |
 | Art                   | is                    | long                  | and                   | time                  | is                    | fleeting              |            |
-| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| [[file:img/psalm-83.png]]                     | [[file:img/psalm-84.png]]                     | [[file:img/psalm-85.png]]                     | [[file:img/psalm-86.png]]                     | [[file:img/psalm-87.png]]                     | [[file:img/psalm-88.png]]                     | [[file:img/psalm-89.png]]                     |            |
 | and                   | our                   | hearts                | though                | stout                 | and                   | brave,                |            |
-| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+| [[file:img/psalm-90.png]]                     | [[file:img/psalm-91.png]]                     | [[file:img/psalm-92.png]]                     | [[file:img/psalm-93.png]]                     | [[file:img/psalm-94.png]]                     | [[file:img/psalm-95.png]]                     | [[file:img/psalm-96.png]]                     |            |
 | Still,                | like                  | muffled               | drums                 | are                   | beating               |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
+| [[file:img/psalm-97.png]]                     | [[file:img/psalm-98.png]]                     | [[file:img/psalm-99.png]]                     | [[file:img/psalm-100.png]]                     | [[file:img/psalm-101.png]]                     | [[file:img/psalm-102.png]]                     |                       |            |
 | funeral               | marches               | to                    | the                   | grave                 |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| [[file:img/psalm-103.png]]                     | [[file:img/psalm-104.png]]                     | [[file:img/psalm-105.png]]                     | [[file:img/psalm-106.png]]                     | [[file:img/psalm-107.png]]                     |                       |                       |            |
 | In                    | the                   | world’s               | broad                 | field                 | of                    | battle                |            |
 | X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
 | in                    | the                   | bivouac               | of                    | life,                 |                       |                       |            |
@@ -462,6 +462,9 @@ By means of the system explained in this elementary course, every word in the En
 | X                     | X                     | X                     | X                     | X                     |                       |                       |            |
 | let                   | the                   | dead                  | past                  | bury                  | its                   | dead                  |            |
 | X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 | Act - act             | in                    | the                   | living                | present!              |                       |                       |            |
 | X                     | X                     | X                     | X                     | X                     |                       |                       |            |
 | heart                 | within                | and                   | God                   | o’er                  | head!                 |                       |            |
@@ -474,9 +477,6 @@ By means of the system explained in this elementary course, every word in the En
 | X                     | X                     | X                     | X                     | X                     |                       |                       |            |
 | foot-prints           | on                    | the                   | sands                 | of                    | time:                 |                       |            |
 | X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-#+begin_export LaTeX
-\pagebreak
-#+end_export
 | Footprints            | that                  | perhaps               | another,              |                       |                       |                       |            |
 | X                     | X                     | X                     | X                     |                       |                       |                       |            |
 | sailing               | o’er                  | Life’s                | solemn                | main                  |                       |                       |            |
