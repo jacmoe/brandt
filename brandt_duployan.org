@@ -1,8 +1,8 @@
 :HEADER:
 #+TITLE: Duployan Shorthand - adapted to English
 #+SUBTITLE: Fifth Edition
-#+AUTHOR:  C. Brandt
-#+DATE:
+#+AUTHOR:  C. Brandt, S. J.
+#+DATE: 1904
 #+OPTIONS: whn:nil toc:3
 #+LANGUAGE: en
 #+OPTIONS: html-postamble:nil
