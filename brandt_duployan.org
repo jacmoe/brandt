@@ -478,17 +478,20 @@ By means of the system explained in this elementary course, every word in the En
 | foot-prints                                     | on                     | the                    | sands                  | of                     | time:                  |                        |            |
 | [[file:img/psalm-183.png]]                                               | [[file:img/psalm-184.png]]                      | [[file:img/psalm-185.png]]                      | [[file:img/psalm-186.png]]                      | [[file:img/psalm-187.png]]                      | [[file:img/psalm-188.png]]                      |                        |            |
 | Footprints                                      | that                   | perhaps                | another,               |                        |                        |                        |            |
-| X                                               | X                      | X                      | X                      |                        |                        |                        |            |
+| [[file:img/psalm-189.png]]                                               | [[file:img/psalm-190.png]]                      | [[file:img/psalm-191.png]]                      | [[file:img/psalm-192.png]]                      |                        |                        |                        |            |
 | sailing                                         | o’er                   | Life’s                 | solemn                 | main                   |                        |                        |            |
-| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| [[file:img/psalm-193.png]]                                               | [[file:img/psalm-194.png]]                      | [[file:img/psalm-195.png]]                      | [[file:img/psalm-196.png]]                      | [[file:img/psalm-197.png]]                      |                        |                        |            |
 | A                                               | forlorn                | and                    | shipwrecked            | brother,               |                        |                        |            |
-| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| [[file:img/psalm-198.png]]                                               | [[file:img/psalm-199.png]]                      | [[file:img/psalm-200.png]]                      | [[file:img/psalm-201.png]]                      | [[file:img/psalm-202.png]]                      |                        |                        |            |
 | seeing,                                         | shall                  | take                   | heart                  | again.                 |                        |                        |            |
-| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| [[file:img/psalm-203.png]]                                               | [[file:img/psalm-204.png]]                      | [[file:img/psalm-205.png]]                      | [[file:img/psalm-206.png]]                      | [[file:img/psalm-207.png]]                      |                        |                        |            |
 | Let                                             | us                     | then                   | be                     | up                     | and                    | doing,                 |            |
 | X                                               | X                      | X                      | X                      | X                      | X                      | X                      |            |
 | with                                            | a                      | heart                  | for                    | any                    | fate;                  |                        |            |
 | X                                               | X                      | X                      | X                      | X                      | X                      |                        |            |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 | Still                                           | achieving,             | still                  | pursuing, -            |                        |                        |                        |            |
 | X                                               | X                      | X                      | X                      |                        |                        |                        |            |
 | learn                                           | to                     | labour                 | and                    | to                     | wait!                  |                        |            |
@@ -515,9 +518,15 @@ By means of the system explained in this elementary course, every word in the En
 **** The terminations -IVE and -ISE
 *** Consonant signs in miniature
 *** Consonant signs
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 2 - Compound Suffixes
 *** The preceding abbreviations
 *** The terminations -ERN and -RN
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 3 - Prefixes
 *** Common prefixes
 **** The principle of diacritical position
@@ -527,8 +536,17 @@ By means of the system explained in this elementary course, every word in the En
 **** Prefix combination
 **** The prefixes IN- and UN-
 **** The prefix UNIN-
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 4 - Signs and Grammalogues
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 ** Lesson 5 - The Auxiliary Verbs
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 * Part III - Reporting Techniques
 #+begin_export LaTeX
 \pagebreak
