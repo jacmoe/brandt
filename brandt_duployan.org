@@ -432,16 +432,16 @@ By means of the system explained in this elementary course, every word in the En
 | was                   | not                   | spoken                | of                    | the                   | soul                  |                       |            |
 | [[file:img/psalm-55.png]]                     | [[file:img/psalm-56.png]]                     | [[file:img/psalm-57.png]]                     | [[file:img/psalm-58.png]]                     | [[file:img/psalm-59.png]]                     | [[file:img/psalm-60.png]]                     |                       |            |
 | Not                   | enjoyment             | and                   | not                   | sorrow,               |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| [[file:img/psalm-61.png]]                     | [[file:img/psalm-62.png]]                     | [[file:img/psalm-63.png]]                     | [[file:img/psalm-64.png]]                     | [[file:img/psalm-65.png]]                     |                       |                       |            |
 | is                    | our                   | destined              | end                   | or                    | way                   |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| But                   | to                    | act,                  | that                  | each                  | to-morrow             |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| finds                 | us                    | further               | than                  | to-day.               |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
+| [[file:img/psalm-66.png]]                     | [[file:img/psalm-67.png]]                     | [[file:img/psalm-68.png]]                     | [[file:img/psalm-69.png]]                     | [[file:img/psalm-70.png]]                     | [[file:img/psalm-71.png]]                     |                       |            |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
+| But                   | to                    | act,                  | that                  | each                  | to-morrow             |                       |            |
+| [[file:img/psalm-72.png]]                     | [[file:img/psalm-73.png]]                     | [[file:img/psalm-74.png]]                     | [[file:img/psalm-75.png]]                     | [[file:img/psalm-76.png]]                     | [[file:img/psalm-77.png]]                     |                       |            |
+| finds                 | us                    | further               | than                  | to-day.               |                       |                       |            |
+| [[file:img/psalm-78.png]]                     | [[file:img/psalm-79.png]]                     | [[file:img/psalm-80.png]]                     | [[file:img/psalm-81.png]]                     | [[file:img/psalm-82.png]]                     |                       |                       |            |
 | Art                   | is                    | long                  | and                   | time                  | is                    | fleeting              |            |
 | X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
 | and                   | our                   | hearts                | though                | stout                 | and                   | brave,                |            |
