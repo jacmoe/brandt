@@ -506,6 +506,29 @@ By means of the system explained in this elementary course, every word in the En
 #+begin_export LaTeX
 \pagebreak
 #+end_export
+** Lesson 1 - Common Terminations
+*** The diacritical position
+**** The terminations -OUR and -OUS
+**** The terminations -EE and -AI
+**** The terminations -LY and -LESS
+**** The terminations -TED and -DED
+**** The terminations -IVE and -ISE
+*** Consonant signs in miniature
+*** Consonant signs
+** Lesson 2 - Compound Suffixes
+*** The preceding abbreviations
+*** The terminations -ERN and -RN
+** Lesson 3 - Prefixes
+*** Common prefixes
+**** The principle of diacritical position
+**** The prefix BE
+**** Common prefix list
+*** Compound prefixes
+**** Prefix combination
+**** The prefixes IN- and UN-
+**** The prefix UNIN-
+** Lesson 4 - Signs and Grammalogues
+** Lesson 5 - The Auxiliary Verbs
 * Part III - Reporting Techniques
 #+begin_export LaTeX
 \pagebreak
@@ -516,4 +539,5 @@ By means of the system explained in this elementary course, every word in the En
 #  LocalWords:  Luh Muh Ruh Tuh ee ai De Ke Ve Zh GN GH lk tm sg rg chr rch sd
 #  LocalWords:  dj lp thm mth nr rth thr rsh md ps dn shp mn nm jm nj njm js gj
 #  LocalWords:  NG OO ag ar od ath oth ang ur ut ug au ju EY URE un meanful ng
-#  LocalWords:  NK ke ank yü upheave returnest howe’er
+#  LocalWords:  NK ke ank yü upheave returnest howe’er OUS LY DED IVE ISE ERN
+#  LocalWords:  UNIN
