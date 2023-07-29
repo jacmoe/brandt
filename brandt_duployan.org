@@ -412,13 +412,25 @@ By means of the system explained in this elementary course, every word in the En
 \pagebreak
 #+end_export
 ** A Psalm of Life
-| Tell | me   | not  | in   | mournful | numbers,  | Life     | is  | but    | an  | empty | dream! |      |       |
-| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      |      |       |
-| For  | the  | soul | is   | dead     | that      | slumbers | and | things | are | not   | what   | they | seem. |
-| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      | X    | X     |
-| Life | is   | real | life | is       | earnest   | and      | the | grave  | is  | not   | its    | goal | :     |
-| Dust | thou | art  | to   | dust     | returnest | was      | not | spoken | of  | the   | soul   |      |       |
-| X    | X    | X    | X    | X        | X         | X        | X   | X      | X   | X     | X      |      |       |
+| [[file:img/psalm-1.png]]  | [[file:img/psalm-2.png]]  | [[file:img/psalm-3.png]]  | [[file:img/psalm-4.png]]  | [[file:img/psalm-5.png]]  |                       |                       |   |
+| [[file:img/psalm-6.png]]  | [[file:img/psalm-7.png]]  | [[file:img/psalm-8.png]]  | [[file:img/psalm-9.png]]  |                       |                       |                       |   |
+|                       |                       |                       |                       |                       |                       |                       |   |
+| Tell                  | me                    | not                   | in                    | mournful              | numbers,              |                       |   |
+| [[file:img/psalm-10.png]] | [[file:img/psalm-11.png]] | [[file:img/psalm-12.png]] | [[file:img/psalm-13.png]] | [[file:img/psalm-14.png]] | [[file:img/psalm-15.png]] |                       |   |
+| Life                  | is                    | but                   | an                    | empty                 | dream!                |                       |   |
+| [[file:img/psalm-16.png]] | [[file:img/psalm-17.png]] | [[file:img/psalm-18.png]] | [[file:img/psalm-19.png]] | [[file:img/psalm-20.png]] | [[file:img/psalm-21.png]] |                       |   |
+| For                   | the                   | soul                  | is                    | dead                  | that                  | slumbers              |   |
+| [[file:img/psalm-22.png]] | [[file:img/psalm-23.png]] | [[file:img/psalm-24.png]] | [[file:img/psalm-25.png]] | [[file:img/psalm-26.png]] | [[file:img/psalm-27.png]] | [[file:img/psalm-28.png]] |   |
+| and                   | things                | are                   | not                   | what                  | they                  | seem.                 |   |
+| [[file:img/psalm-29.png]] | [[file:img/psalm-30.png]] | [[file:img/psalm-31.png]] | [[file:img/psalm-32.png]] | [[file:img/psalm-33.png]] | [[file:img/psalm-34.png]] | [[file:img/psalm-35.png]] |   |
+| Life                  | is                    | real                  | life                  | is                    | earnest               |                       |   |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
+| and                   | the                   | grave                 | is                    | not                   | its                   | goal:                 |   |
+| X                     | X                     | X                     | X                     | X                     | X                     | X                     |   |
+| Dust                  | thou                  | art                   | to                    | dust                  | returnest             |                       |   |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
+| was                   | not                   | spoken                | of                    | the                   | soul                  |                       |   |
+| X                     | X                     | X                     | X                     | X                     | X                     |                       |   |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
