@@ -465,36 +465,36 @@ By means of the system explained in this elementary course, every word in the En
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-| Act - act             | in                    | the                   | living                | present!              |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
-| heart                 | within                | and                   | God                   | o’er                  | head!                 |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| Lives                 | of                    | great                 | men                   | all                   | remind                | us                    |            |
-| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
-| we                    | can                   | make                  | our                   | lives                 | sublime;              |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| And,                  | departing,            | leave                 | behind                | us                    |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
-| foot-prints           | on                    | the                   | sands                 | of                    | time:                 |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| Footprints            | that                  | perhaps               | another,              |                       |                       |                       |            |
-| X                     | X                     | X                     | X                     |                       |                       |                       |            |
-| sailing               | o’er                  | Life’s                | solemn                | main                  |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
-| A                     | forlorn               | and                   | shipwrecked           | brother,              |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
-| seeing,               | shall                 | take                  | heart                 | again.                |                       |                       |            |
-| X                     | X                     | X                     | X                     | X                     |                       |                       |            |
-| Let                   | us                    | then                  | be                    | up                    | and                   | doing,                |            |
-| X                     | X                     | X                     | X                     | X                     | X                     | X                     |            |
-| with                  | a                     | heart                 | for                   | any                   | fate;                 |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-| Still                 | achieving,            | still                 | pursuing, -           |                       |                       |                       |            |
-| X                     | X                     | X                     | X                     |                       |                       |                       |            |
-| learn                 | to                    | labour                | and                   | to                    | wait!                 |                       |            |
-| X                     | X                     | X                     | X                     | X                     | X                     |                       |            |
-|                       |                       |                       |                       |                       | Henry                 | W.                    | Longfellow |
-|                       |                       |                       |                       |                       | X                     | X                     | X          |
+| Act - act                                       | in                     | the                    | living                 | present!               |                        |                        |            |
+| [[file:img/psalm-144.png]] - [[file:img/psalm-144.png]] | [[file:img/psalm-145.png]] | [[file:img/psalm-146.png]] | [[file:img/psalm-147.png]] | [[file:img/psalm-148.png]] |                        |                        |            |
+| heart                                           | within                 | and                    | God                    | o’er                   | head!                  |                        |            |
+| [[file:img/psalm-149.png]]                          | [[file:img/psalm-150.png]] | [[file:img/psalm-151.png]] | [[file:img/psalm-152.png]] | [[file:img/psalm-153.png]] | [[file:img/psalm-154.png]] |                        |            |
+| Lives                                           | of                     | great                  | men                    | all                    | remind                 | us                     |            |
+| [[file:img/psalm-155.png]]                          | [[file:img/psalm-156.png]] | [[file:img/psalm-157.png]] | [[file:img/psalm-158.png]] | [[file:img/psalm-159.png]] | [[file:img/psalm-160.png]] | [[file:img/psalm-161.png]] |            |
+| we                                              | can                    | make                   | our                    | lives                  | sublime;               |                        |            |
+| [[file:img/psalm-162.png]]                          | [[file:img/psalm-163.png]] | [[file:img/psalm-164.png]] | [[file:img/psalm-165.png]] | [[file:img/psalm-166.png]] | [[file:img/psalm-167.png]] |                        |            |
+| And,                                            | departing,             | leave                  | behind                 | us                     |                        |                        |            |
+| [[file:img/psalm-177.png]]                          | [[file:img/psalm-178.png]] | [[file:img/psalm-180.png]] | [[file:img/psalm-181.png]] | [[file:img/psalm-182.png]] |                        |                        |            |
+| foot-prints                                     | on                     | the                    | sands                  | of                     | time:                  |                        |            |
+| [[file:img/psalm-183.png]]                                               | [[file:img/psalm-184.png]]                      | [[file:img/psalm-185.png]]                      | [[file:img/psalm-186.png]]                      | [[file:img/psalm-187.png]]                      | [[file:img/psalm-188.png]]                      |                        |            |
+| Footprints                                      | that                   | perhaps                | another,               |                        |                        |                        |            |
+| X                                               | X                      | X                      | X                      |                        |                        |                        |            |
+| sailing                                         | o’er                   | Life’s                 | solemn                 | main                   |                        |                        |            |
+| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| A                                               | forlorn                | and                    | shipwrecked            | brother,               |                        |                        |            |
+| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| seeing,                                         | shall                  | take                   | heart                  | again.                 |                        |                        |            |
+| X                                               | X                      | X                      | X                      | X                      |                        |                        |            |
+| Let                                             | us                     | then                   | be                     | up                     | and                    | doing,                 |            |
+| X                                               | X                      | X                      | X                      | X                      | X                      | X                      |            |
+| with                                            | a                      | heart                  | for                    | any                    | fate;                  |                        |            |
+| X                                               | X                      | X                      | X                      | X                      | X                      |                        |            |
+| Still                                           | achieving,             | still                  | pursuing, -            |                        |                        |                        |            |
+| X                                               | X                      | X                      | X                      |                        |                        |                        |            |
+| learn                                           | to                     | labour                 | and                    | to                     | wait!                  |                        |            |
+| X                                               | X                      | X                      | X                      | X                      | X                      |                        |            |
+|                                                 |                        |                        |                        |                        | Henry                  | W.                     | Longfellow |
+|                                                 |                        |                        |                        |                        | X                      | X                      | X          |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
