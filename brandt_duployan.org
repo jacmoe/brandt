@@ -486,18 +486,68 @@ By means of the system explained in this elementary course, every word in the En
 | seeing,                                         | shall                  | take                   | heart                  | again.                 |                        |                        |            |
 | [[file:img/psalm-203.png]]                                               | [[file:img/psalm-204.png]]                      | [[file:img/psalm-205.png]]                      | [[file:img/psalm-206.png]]                      | [[file:img/psalm-207.png]]                      |                        |                        |            |
 | Let                                             | us                     | then                   | be                     | up                     | and                    | doing,                 |            |
-| X                                               | X                      | X                      | X                      | X                      | X                      | X                      |            |
+| [[file:img/psalm-208.png]]                                               | [[file:img/psalm-209.png]]                      | [[file:img/psalm-210.png]]                      | [[file:img/psalm-211.png]]                      | [[file:img/psalm-212.png]]                      | [[file:img/psalm-213.png]]                      | [[file:img/psalm-214.png]]                      |            |
 | with                                            | a                      | heart                  | for                    | any                    | fate;                  |                        |            |
-| X                                               | X                      | X                      | X                      | X                      | X                      |                        |            |
+| [[file:img/psalm-215.png]]                                               | [[file:img/psalm-216.png]]                      | [[file:img/psalm-217.png]]                      | [[file:img/psalm-218.png]]                      | [[file:img/psalm-219.png]]                      | [[file:img/psalm-220.png]]                      |                        |            |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 | Still                                           | achieving,             | still                  | pursuing, -            |                        |                        |                        |            |
-| X                                               | X                      | X                      | X                      |                        |                        |                        |            |
+| [[file:img/psalm-221.png]]                                               | [[file:img/psalm-222.png]]                      | [[file:img/psalm-223.png]]                      | [[file:img/psalm-224.png]]                      |                        |                        |                        |            |
 | learn                                           | to                     | labour                 | and                    | to                     | wait!                  |                        |            |
-| X                                               | X                      | X                      | X                      | X                      | X                      |                        |            |
+| [[file:img/psalm-225.png]]                                               | [[file:img/psalm-226.png]]                      | [[file:img/psalm-227.png]]                      | [[file:img/psalm-228.png]]                      | [[file:img/psalm-226.png]]                      | [[file:img/psalm-230.png]]                      |                        |            |
 |                                                 |                        |                        |                        |                        | Henry                  | W.                     | Longfellow |
-|                                                 |                        |                        |                        |                        | X                      | X                      | X          |
+|                                                 |                        |                        |                        |                        | [[file:img/psalm-231.png]]                      | [[file:img/psalm-232.png]]                      | [[file:img/psalm-233.png]]          |
+[[file:img/psalm-234.png]]
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+** A Psalm of Life - without key
+| [[file:img/psalm-6.png]]   | [[file:img/psalm-7.png]]   | [[file:img/psalm-8.png]]   | [[file:img/psalm-9.png]]   |                        |                        |                       |   |
+|                        |                        |                        |                        |                        |                        |                       |   |
+| [[file:img/psalm-10.png]]  | [[file:img/psalm-11.png]]  | [[file:img/psalm-12.png]]  | [[file:img/psalm-13.png]]  | [[file:img/psalm-14.png]]  | [[file:img/psalm-15.png]]  |                       |   |
+| [[file:img/psalm-16.png]]  | [[file:img/psalm-17.png]]  | [[file:img/psalm-18.png]]  | [[file:img/psalm-19.png]]  | [[file:img/psalm-20.png]]  | [[file:img/psalm-21.png]]  |                       |   |
+| [[file:img/psalm-22.png]]  | [[file:img/psalm-23.png]]  | [[file:img/psalm-24.png]]  | [[file:img/psalm-25.png]]  | [[file:img/psalm-26.png]]  | [[file:img/psalm-27.png]]  | [[file:img/psalm-28.png]] |   |
+| [[file:img/psalm-29.png]]  | [[file:img/psalm-30.png]]  | [[file:img/psalm-31.png]]  | [[file:img/psalm-32.png]]  | [[file:img/psalm-33.png]]  | [[file:img/psalm-34.png]]  | [[file:img/psalm-35.png]] |   |
+| [[file:img/psalm-36.png]]  | [[file:img/psalm-37.png]]  | [[file:img/psalm-38.png]]  | [[file:img/psalm-39.png]]  | [[file:img/psalm-40.png]]  | [[file:img/psalm-41.png]]  |                       |   |
+| [[file:img/psalm-42.png]]  | [[file:img/psalm-43.png]]  | [[file:img/psalm-44.png]]  | [[file:img/psalm-45.png]]  | [[file:img/psalm-46.png]]  | [[file:img/psalm-47.png]]  | [[file:img/psalm-48.png]] |   |
+| [[file:img/psalm-49.png]]  | [[file:img/psalm-50.png]]  | [[file:img/psalm-51.png]]  | [[file:img/psalm-52.png]]  | [[file:img/psalm-53.png]]  | [[file:img/psalm-54.png]]  |                       |   |
+| [[file:img/psalm-55.png]]  | [[file:img/psalm-56.png]]  | [[file:img/psalm-57.png]]  | [[file:img/psalm-58.png]]  | [[file:img/psalm-59.png]]  | [[file:img/psalm-60.png]]  |                       |   |
+| [[file:img/psalm-61.png]]  | [[file:img/psalm-62.png]]  | [[file:img/psalm-63.png]]  | [[file:img/psalm-64.png]]  | [[file:img/psalm-65.png]]  |                        |                       |   |
+| [[file:img/psalm-66.png]]  | [[file:img/psalm-67.png]]  | [[file:img/psalm-68.png]]  | [[file:img/psalm-69.png]]  | [[file:img/psalm-70.png]]  | [[file:img/psalm-71.png]]  |                       |   |
+| [[file:img/psalm-72.png]]  | [[file:img/psalm-73.png]]  | [[file:img/psalm-74.png]]  | [[file:img/psalm-75.png]]  | [[file:img/psalm-76.png]]  | [[file:img/psalm-77.png]]  |                       |   |
+| [[file:img/psalm-78.png]]  | [[file:img/psalm-79.png]]  | [[file:img/psalm-80.png]]  | [[file:img/psalm-81.png]]  | [[file:img/psalm-82.png]]  |                        |                       |   |
+| [[file:img/psalm-83.png]]  | [[file:img/psalm-84.png]]  | [[file:img/psalm-85.png]]  | [[file:img/psalm-86.png]]  | [[file:img/psalm-87.png]]  | [[file:img/psalm-88.png]]  | [[file:img/psalm-89.png]] |   |
+| [[file:img/psalm-90.png]]  | [[file:img/psalm-91.png]]  | [[file:img/psalm-92.png]]  | [[file:img/psalm-93.png]]  | [[file:img/psalm-94.png]]  | [[file:img/psalm-95.png]]  | [[file:img/psalm-96.png]] |   |
+| [[file:img/psalm-97.png]]  | [[file:img/psalm-98.png]]  | [[file:img/psalm-99.png]]  | [[file:img/psalm-100.png]] | [[file:img/psalm-101.png]] | [[file:img/psalm-102.png]] |                       |   |
+| [[file:img/psalm-103.png]] | [[file:img/psalm-104.png]] | [[file:img/psalm-105.png]] | [[file:img/psalm-106.png]] | [[file:img/psalm-107.png]] |                        |                       |   |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+| [[file:img/psalm-108.png]]                          | [[file:img/psalm-109.png]] | [[file:img/psalm-110.png]] | [[file:img/psalm-111.png]] | [[file:img/psalm-112.png]] | [[file:img/psalm-113.png]] | [[file:img/psalm-114.png]] |   |
+| [[file:img/psalm-115.png]]                          | [[file:img/psalm-116.png]] | [[file:img/psalm-117.png]] | [[file:img/psalm-118.png]] | [[file:img/psalm-119.png]] |                        |                        |   |
+| [[file:img/psalm-120.png]]                          | [[file:img/psalm-121.png]] | [[file:img/psalm-122.png]] | [[file:img/psalm-123.png]] | [[file:img/psalm-124.png]] | [[file:img/psalm-125.png]] |                        |   |
+| [[file:img/psalm-126.png]]                          | [[file:img/psalm-127.png]] | [[file:img/psalm-128.png]] | [[file:img/psalm-129.png]] | [[file:img/psalm-130.png]] | [[file:img/psalm-131.png]] |                        |   |
+| [[file:img/psalm-132.png]]                          | [[file:img/psalm-133.png]] | [[file:img/psalm-134.png]] | [[file:img/psalm-135.png]] | [[file:img/psalm-136.png]] |                        |                        |   |
+| [[file:img/psalm-137.png]]                          | [[file:img/psalm-138.png]] | [[file:img/psalm-139.png]] | [[file:img/psalm-140.png]] | [[file:img/psalm-141.png]] | [[file:img/psalm-142.png]] | [[file:img/psalm-143.png]] |   |
+| [[file:img/psalm-144.png]] - [[file:img/psalm-144.png]] | [[file:img/psalm-145.png]] | [[file:img/psalm-146.png]] | [[file:img/psalm-147.png]] | [[file:img/psalm-148.png]] |                        |                        |   |
+| [[file:img/psalm-149.png]]                          | [[file:img/psalm-150.png]] | [[file:img/psalm-151.png]] | [[file:img/psalm-152.png]] | [[file:img/psalm-153.png]] | [[file:img/psalm-154.png]] |                        |   |
+| [[file:img/psalm-155.png]]                          | [[file:img/psalm-156.png]] | [[file:img/psalm-157.png]] | [[file:img/psalm-158.png]] | [[file:img/psalm-159.png]] | [[file:img/psalm-160.png]] | [[file:img/psalm-161.png]] |   |
+| [[file:img/psalm-162.png]]                          | [[file:img/psalm-163.png]] | [[file:img/psalm-164.png]] | [[file:img/psalm-165.png]] | [[file:img/psalm-166.png]] | [[file:img/psalm-167.png]] |                        |   |
+| [[file:img/psalm-177.png]]                          | [[file:img/psalm-178.png]] | [[file:img/psalm-180.png]] | [[file:img/psalm-181.png]] | [[file:img/psalm-182.png]] |                        |                        |   |
+| [[file:img/psalm-183.png]]                          | [[file:img/psalm-184.png]] | [[file:img/psalm-185.png]] | [[file:img/psalm-186.png]] | [[file:img/psalm-187.png]] | [[file:img/psalm-188.png]] |                        |   |
+| [[file:img/psalm-189.png]]                          | [[file:img/psalm-190.png]] | [[file:img/psalm-191.png]] | [[file:img/psalm-192.png]] |                        |                        |                        |   |
+| [[file:img/psalm-193.png]]                          | [[file:img/psalm-194.png]] | [[file:img/psalm-195.png]] | [[file:img/psalm-196.png]] | [[file:img/psalm-197.png]] |                        |                        |   |
+| [[file:img/psalm-198.png]]                          | [[file:img/psalm-199.png]] | [[file:img/psalm-200.png]] | [[file:img/psalm-201.png]] | [[file:img/psalm-202.png]] |                        |                        |   |
+| [[file:img/psalm-203.png]]                          | [[file:img/psalm-204.png]] | [[file:img/psalm-205.png]] | [[file:img/psalm-206.png]] | [[file:img/psalm-207.png]] |                        |                        |   |
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+| [[file:img/psalm-208.png]]                          | [[file:img/psalm-209.png]] | [[file:img/psalm-210.png]] | [[file:img/psalm-211.png]] | [[file:img/psalm-212.png]] | [[file:img/psalm-213.png]] | [[file:img/psalm-214.png]] |   |
+| [[file:img/psalm-215.png]]                          | [[file:img/psalm-216.png]] | [[file:img/psalm-217.png]] | [[file:img/psalm-218.png]] | [[file:img/psalm-219.png]] | [[file:img/psalm-220.png]] |                        |   |
+| [[file:img/psalm-225.png]]                                               | [[file:img/psalm-226.png]]                      | [[file:img/psalm-227.png]]                      | [[file:img/psalm-228.png]]                      | [[file:img/psalm-226.png]]                      | [[file:img/psalm-230.png]]                      |                        |            |
+|                                                 |                        |                        |                        |                        | [[file:img/psalm-231.png]]                      | [[file:img/psalm-232.png]]                      | [[file:img/psalm-233.png]]          |
+[[file:img/psalm-234.png]]
 #+begin_export LaTeX
 \pagebreak
 #+end_export
