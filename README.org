@@ -1,3 +1,7 @@
 #+title: Brandt’s Duployan Shorthand - adapted to English, fifth edition
 
 Transcribed into electronic format for easy reading
+
+The original, hand-written manuscript -> [[https://archive.org/details/brandt5thedn][Brandt's Duployan adapted for English, Fifth Edition, 1904]]
+
+Plus Anki decks for training of alphabet, grammalogues, and words.
