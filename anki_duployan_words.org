@@ -13,7 +13,7 @@
 **** Front
 Words
 
-[[file:img/fig2-24.png]]
+[[file:words1/back.png]]
 **** Back
 Back
 *** Dock
@@ -24,7 +24,7 @@ Back
 **** Front
 Words
 
-[[file:img/fig2-25.png]]
+[[file:words1/dock.png]]
 **** Back
 Dock
 *** Rob
@@ -35,7 +35,7 @@ Dock
 **** Front
 Words
 
-[[file:img/fig2-26.png]]
+[[file:words1/rob.png]]
 **** Back
 Rob
 *** Top
@@ -46,7 +46,7 @@ Rob
 **** Front
 Words
 
-[[file:img/fig2-27.png]]
+[[file:words1/top.png]]
 **** Back
 Top
 *** Took
@@ -57,7 +57,7 @@ Top
 **** Front
 Words
 
-[[file:img/fig2-28.png]]
+[[file:words1/took.png]]
 **** Back
 Took
 *** Foot
@@ -68,7 +68,7 @@ Took
 **** Front
 Words
 
-[[file:img/fig2-29.png]]
+[[file:words1/foot.png]]
 **** Back
 Foot
 *** Full
@@ -79,7 +79,7 @@ Foot
 **** Front
 Words
 
-[[file:img/fig2-30.png]]
+[[file:words1/full.png]]
 **** Back
 Full
 *** Pull
@@ -90,7 +90,7 @@ Full
 **** Front
 Words
 
-[[file:img/fig2-31.png]]
+[[file:words1/pull.png]]
 **** Back
 Pull
 *** That
@@ -101,7 +101,7 @@ Pull
 **** Front
 Words
 
-[[file:img/fig2-32.png]]
+[[file:words1/that.png]]
 **** Back
 That
 *** Sad
@@ -112,7 +112,7 @@ That
 **** Front
 Words
 
-[[file:img/fig2-33.png]]
+[[file:words1/sad.png]]
 **** Back
 Sad
 *** Mask
@@ -123,7 +123,7 @@ Sad
 **** Front
 Words
 
-[[file:img/fig2-34.png]]
+[[file:words1/mask.png]]
 **** Back
 Mask
 *** Cast
@@ -134,7 +134,7 @@ Mask
 **** Front
 Words
 
-[[file:img/fig2-35.png]]
+[[file:words1/cast.png]]
 **** Back
 Cast
 *** Charge
@@ -145,7 +145,7 @@ Cast
 **** Front
 Words
 
-[[file:img/fig2-36.png]]
+[[file:words1/charge.png]]
 **** Back
 Charge
 *** God
@@ -156,7 +156,7 @@ Charge
 **** Front
 Words
 
-[[file:img/fig2-37.png]]
+[[file:words1/god.png]]
 **** Back
 God
 *** Good
@@ -167,7 +167,7 @@ God
 **** Front
 Words
 
-[[file:img/fig2-38.png]]
+[[file:words1/good.png]]
 **** Back
 Good
 *** Block
@@ -178,7 +178,7 @@ Good
 **** Front
 Words
 
-[[file:img/fig2-39.png]]
+[[file:words1/block.png]]
 **** Back
 Block
 *** Clock
@@ -189,7 +189,7 @@ Block
 **** Front
 Words
 
-[[file:img/fig2-40.png]]
+[[file:words1/clock.png]]
 **** Back
 Clock
 *** Shadow
@@ -200,7 +200,7 @@ Clock
 **** Front
 Words
 
-[[file:img/fig2-41.png]]
+[[file:words1/shadow.png]]
 **** Back
 Shadow
 *** Show
@@ -211,7 +211,7 @@ Shadow
 **** Front
 Words
 
-[[file:img/fig2-42.png]]
+[[file:words1/show.png]]
 **** Back
 Show
 *** To
@@ -222,7 +222,7 @@ Show
 **** Front
 Words
 
-[[file:img/fig2-43.png]]
+[[file:words1/to.png]]
 **** Back
 To
 *** Body
@@ -233,7 +233,7 @@ To
 **** Front
 Words
 
-[[file:img/fig2-44.png]]
+[[file:words1/body.png]]
 **** Back
 Body
 *** Army
@@ -244,7 +244,7 @@ Body
 **** Front
 Words
 
-[[file:img/fig2-45.png]]
+[[file:words1/army.png]]
 **** Back
 Army
 *** Know
@@ -255,7 +255,7 @@ Army
 **** Front
 Words
 
-[[file:img/fig2-46.png]]
+[[file:words1/know.png]]
 **** Back
 Know
 *** Blue
@@ -266,7 +266,7 @@ Know
 **** Front
 Words
 
-[[file:img/fig2-47.png]]
+[[file:words1/blue.png]]
 **** Back
 Blue
 *** Foal
@@ -277,7 +277,7 @@ Blue
 **** Front
 Words
 
-[[file:img/fig2-49.png]]
+[[file:words1/foal.png]]
 **** Back
 Foal
 *** Pole
@@ -288,7 +288,7 @@ Foal
 **** Front
 Words
 
-[[file:img/fig2-50.png]]
+[[file:words1/pole.png]]
 **** Back
 Pole
 *** Soap
@@ -299,7 +299,7 @@ Pole
 **** Front
 Words
 
-[[file:img/fig2-51.png]]
+[[file:words1/soap.png]]
 **** Back
 Soap
 *** Shoal
@@ -310,31 +310,20 @@ Soap
 **** Front
 Words
 
-[[file:img/fig2-52.png]]
+[[file:words1/shoal.png]]
 **** Back
 Shoal
-*** Awl
+*** AllAwl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1690532346308
+:ANKI_NOTE_ID: 1690754877368
 :END:
 **** Front
 Words
 
-[[file:img/fig2-56.png]]
+[[file:words1/all.png]]
 **** Back
-Awl
-*** All
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Basic
-:ANKI_NOTE_ID: 1690532346891
-:END:
-**** Front
-Words
-
-[[file:img/fig2-56.png]]
-**** Back
-All
+All / Awl
 *** Bawl
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -343,7 +332,7 @@ All
 **** Front
 Words
 
-[[file:img/fig2-57.png]]
+[[file:words1/bawl.png]]
 **** Back
 Bawl
 *** Dawn
@@ -354,7 +343,7 @@ Bawl
 **** Front
 Words
 
-[[file:img/fig2-58.png]]
+[[file:words1/dawn.png]]
 **** Back
 Dawn
 *** Walk
@@ -365,7 +354,7 @@ Dawn
 **** Front
 Words
 
-[[file:img/fig2-59.png]]
+[[file:words1/walk.png]]
 **** Back
 Walk
 *** Caught
@@ -376,7 +365,7 @@ Walk
 **** Front
 Words
 
-[[file:img/fig2-60.png]]
+[[file:words1/caught.png]]
 **** Back
 Caught
 *** Bought
@@ -387,7 +376,7 @@ Caught
 **** Front
 Words
 
-[[file:img/fig2-61.png]]
+[[file:words1/bought.png]]
 **** Back
 Bought
 *** Lawn
@@ -398,7 +387,7 @@ Bought
 **** Front
 Words
 
-[[file:img/fig2-62-fixed.png]]
+[[file:words1/lawn.png]]
 **** Back
 Lawn
 *** Fought
@@ -409,7 +398,7 @@ Lawn
 **** Front
 Words
 
-[[file:img/fig2-63.png]]
+[[file:words1/fought.png]]
 **** Back
 Fought
 *** Laugh
@@ -420,7 +409,7 @@ Fought
 **** Front
 Words
 
-[[file:img/fig2-64.png]]
+[[file:words1/laugh.png]]
 **** Back
 Laugh
 *** Palm
@@ -431,7 +420,7 @@ Laugh
 **** Front
 Words
 
-[[file:img/fig2-65.png]]
+[[file:words1/palm.png]]
 **** Back
 Palm
 *** Jar
@@ -442,7 +431,7 @@ Palm
 **** Front
 Words
 
-[[file:img/fig2-66.png]]
+[[file:words1/jar.png]]
 **** Back
 Jar
 *** Art
@@ -453,7 +442,7 @@ Jar
 **** Front
 Words
 
-[[file:img/fig2-67.png]]
+[[file:words1/art.png]]
 **** Back
 Art
 *** Farm
@@ -464,7 +453,7 @@ Art
 **** Front
 Words
 
-[[file:img/fig2-68.png]]
+[[file:words1/farm.png]]
 **** Back
 Farm
 *** Star
@@ -475,7 +464,7 @@ Farm
 **** Front
 Words
 
-[[file:img/fig2-69.png]]
+[[file:words1/star.png]]
 **** Back
 Star
 *** Father
@@ -486,7 +475,7 @@ Star
 **** Front
 Words
 
-[[file:img/fig2-70.png]]
+[[file:words1/father.png]]
 **** Back
 Father
 *** Arm
@@ -497,7 +486,7 @@ Father
 **** Front
 Words
 
-[[file:img/fig2-71.png]]
+[[file:words1/arm.png]]
 **** Back
 Arm
 *** Food
@@ -508,7 +497,7 @@ Arm
 **** Front
 Words
 
-[[file:img/fig2-72.png]]
+[[file:words1/food.png]]
 **** Back
 Food
 *** Flute
@@ -519,7 +508,7 @@ Food
 **** Front
 Words
 
-[[file:img/fig2-73.png]]
+[[file:words1/flute.png]]
 **** Back
 Flute
 *** Prove
@@ -530,7 +519,7 @@ Flute
 **** Front
 Words
 
-[[file:img/fig2-74.png]]
+[[file:words1/prove.png]]
 **** Back
 Prove
 *** Fool
@@ -541,7 +530,7 @@ Prove
 **** Front
 Words
 
-[[file:img/fig2-75.png]]
+[[file:words1/fool.png]]
 **** Back
 Fool
 *** Poor
@@ -552,7 +541,7 @@ Fool
 **** Front
 Words
 
-[[file:img/fig2-76.png]]
+[[file:words1/poor.png]]
 **** Back
 Poor
 *** Tooth
@@ -563,7 +552,7 @@ Poor
 **** Front
 Words
 
-[[file:img/fig2-77.png]]
+[[file:words1/tooth.png]]
 **** Back
 Tooth
 *** Room
@@ -574,7 +563,7 @@ Tooth
 **** Front
 Words
 
-[[file:img/fig2-78.png]]
+[[file:words1/room.png]]
 **** Back
 Room
 *** Suit
@@ -585,7 +574,7 @@ Room
 **** Front
 Words
 
-[[file:img/fig2-79.png]]
+[[file:words1/suit.png]]
 **** Back
 Suit
 *** Tool
@@ -596,6 +585,6 @@ Suit
 **** Front
 Words
 
-[[file:img/fig2-80.png]]
+[[file:words1/tool.png]]
 **** Back
 Tool
