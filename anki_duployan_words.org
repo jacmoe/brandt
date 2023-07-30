@@ -962,3 +962,256 @@ Words
 [[file:words1/this.png]]
 **** Back
 This
+*** Elder
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758384414
+:END:
+**** Front
+Words
+
+[[file:words1/elder.png]]
+**** Back
+Elder
+*** Best
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758385090
+:END:
+**** Front
+Words
+
+[[file:words1/best.png]]
+**** Back
+Best
+*** Practice
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758385771
+:END:
+**** Front
+Words
+
+[[file:words1/practice.png]]
+**** Back
+Practice
+*** Tell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758386339
+:END:
+**** Front
+Words
+
+[[file:words1/tell.png]]
+**** Back
+Tell
+*** Tilt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758386919
+:END:
+**** Front
+Words
+
+[[file:words1/tilt.png]]
+**** Back
+Tilt
+*** Chest
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758387669
+:END:
+**** Front
+Words
+
+[[file:words1/chest.png]]
+**** Back
+Chest
+*** Dip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758388144
+:END:
+**** Front
+Words
+
+[[file:words1/dip.png]]
+**** Back
+Dip
+*** Rip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758388643
+:END:
+**** Front
+Words
+
+[[file:words1/rip.png]]
+**** Back
+Rip
+*** Cellar
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758389144
+:END:
+**** Front
+Words
+
+[[file:words1/cellar.png]]
+**** Back
+Cellar
+*** Fellow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758389794
+:END:
+**** Front
+Words
+
+[[file:words1/fellow.png]]
+**** Back
+Fellow
+*** Bellow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758390344
+:END:
+**** Front
+Words
+
+[[file:words1/bellow.png]]
+**** Back
+Bellow
+*** Below
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758390814
+:END:
+**** Front
+Words
+
+[[file:words1/below.png]]
+**** Back
+Below
+*** Jest
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758391311
+:END:
+**** Front
+Words
+
+[[file:words1/jest.png]]
+**** Back
+Jest
+*** Skip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758391839
+:END:
+**** Front
+Words
+
+[[file:words1/skip.png]]
+**** Back
+Skip
+*** Whip
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758392518
+:END:
+**** Front
+Words
+
+[[file:words1/whip.png]]
+**** Back
+Whip
+*** Rest
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758393014
+:END:
+**** Front
+Words
+
+[[file:words1/rest.png]]
+**** Back
+Rest
+*** Mistress
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758393489
+:END:
+**** Front
+Words
+
+[[file:words1/mistress.png]]
+**** Back
+Mistress
+*** Nest
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758393964
+:END:
+**** Front
+Words
+
+[[file:words1/nest.png]]
+**** Back
+Nest
+*** Get
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758394648
+:END:
+**** Front
+Words
+
+[[file:words1/get.png]]
+**** Back
+Get
+*** Give
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758395142
+:END:
+**** Front
+Words
+
+[[file:words1/give.png]]
+**** Back
+Give
+*** Jet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758395614
+:END:
+**** Front
+Words
+
+[[file:words1/jet.png]]
+**** Back
+Jet
+*** Gelid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758396114
+:END:
+**** Front
+Words
+
+[[file:words1/gelid.png]]
+**** Back
+Gelid
+*** People
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690758396769
+:END:
+**** Front
+Words
+
+[[file:words1/people.png]]
+**** Back
+People
