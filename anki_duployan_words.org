@@ -588,3 +588,190 @@ Words
 [[file:words1/tool.png]]
 **** Back
 Tool
+*** Echo
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756632622
+:END:
+**** Front
+Words
+
+[[file:words1/echo.png]]
+**** Back
+Echo
+*** Ebb
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756633071
+:END:
+**** Front
+Words
+
+[[file:words1/ebb.png]]
+**** Back
+Ebb
+*** Elm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756633511
+:END:
+**** Front
+Words
+
+[[file:words1/elm.png]]
+**** Back
+Elm
+*** Elbow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756634019
+:END:
+**** Front
+Words
+
+[[file:words1/elbow.png]]
+**** Back
+Elbow
+*** If
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756634669
+:END:
+**** Front
+Words
+
+[[file:words1/if.png]]
+**** Back
+If
+*** It
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756635086
+:END:
+**** Front
+Words
+
+[[file:words1/it.png]]
+**** Back
+It
+*** Is
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756635522
+:END:
+**** Front
+Words
+
+[[file:words1/is.png]]
+**** Back
+Is
+*** Ill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756636297
+:END:
+**** Front
+Words
+
+[[file:words1/ill.png]]
+**** Back
+Ill
+*** Elk
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756636760
+:END:
+**** Front
+Words
+
+[[file:words1/elk.png]]
+**** Back
+Elk
+*** Elf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756637221
+:END:
+**** Front
+Words
+
+[[file:words1/elf.png]]
+**** Back
+Elf
+*** Effort
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756637712
+:END:
+**** Front
+Words
+
+[[file:words1/effort.png]]
+**** Back
+Effort
+*** Error
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756638211
+:END:
+**** Front
+Words
+
+[[file:words1/error.png]]
+**** Back
+Error
+*** Italy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756638666
+:END:
+**** Front
+Words
+
+[[file:words1/italy.png]]
+**** Back
+Italy
+*** Idiot
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756639096
+:END:
+**** Front
+Words
+
+[[file:words1/idiot.png]]
+**** Back
+Idiot
+*** essay
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756639766
+:END:
+**** Front
+Words
+
+[[file:words1/essay.png]]
+**** Back
+Essay
+*** Ember
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756640236
+:END:
+**** Front
+Words
+
+[[file:words1/ember.png]]
+**** Back
+Ember
+*** Else
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690756640690
+:END:
+**** Front
+Words
+
+[[file:words1/else.png]]
+**** Back
+Else
