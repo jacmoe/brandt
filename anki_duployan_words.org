@@ -775,3 +775,190 @@ Words
 [[file:words1/else.png]]
 **** Back
 Else
+*** Ell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757263392
+:END:
+**** Front
+Words
+
+[[file:words1/ell.png]]
+**** Back
+Ell
+*** Egg
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757263861
+:END:
+**** Front
+Words
+
+[[file:words1/egg.png]]
+**** Back
+Egg
+*** Embark
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757264343
+:END:
+**** Front
+Words
+
+[[file:words1/embark.png]]
+**** Back
+Embark
+*** Ignore
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757265018
+:END:
+**** Front
+Words
+
+[[file:words1/ignore.png]]
+**** Back
+Ignore
+*** Imp
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757265466
+:END:
+**** Front
+Words
+
+[[file:words1/imp.png]]
+**** Back
+Imp
+*** Etch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757265951
+:END:
+**** Front
+Words
+
+[[file:words1/etch.png]]
+**** Back
+Etch
+*** Livery
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757266417
+:END:
+**** Front
+Words
+
+[[file:words1/livery.png]]
+**** Back
+Livery
+*** Irritable
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757267070
+:END:
+**** Front
+Words
+
+[[file:words1/irritable.png]]
+**** Back
+Irritable
+*** Image
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757267519
+:END:
+**** Front
+Words
+
+[[file:words1/image.png]]
+**** Back
+Image
+*** Bill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757267983
+:END:
+**** Front
+Words
+
+[[file:words1/bill.png]]
+**** Back
+Bill
+*** Bell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757268392
+:END:
+**** Front
+Words
+
+[[file:words1/bell.png]]
+**** Back
+Bell
+*** Sell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757268987
+:END:
+**** Front
+Words
+
+[[file:words1/sell.png]]
+**** Back
+Sell
+*** Sill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757269444
+:END:
+**** Front
+Words
+
+[[file:words1/sill.png]]
+**** Back
+Sill
+*** Mill
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757270010
+:END:
+**** Front
+Words
+
+[[file:words1/mill.png]]
+**** Back
+Mill
+*** Melt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757270460
+:END:
+**** Front
+Words
+
+[[file:words1/melt.png]]
+**** Back
+Melt
+*** Effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757271143
+:END:
+**** Front
+Words
+
+[[file:words1/effect.png]]
+**** Back
+Effect
+*** This
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690757271617
+:END:
+**** Front
+Words
+
+[[file:words1/this.png]]
+**** Back
+This
