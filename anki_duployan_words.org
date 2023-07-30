@@ -1215,3 +1215,388 @@ Words
 [[file:words1/people.png]]
 **** Back
 People
+*** Eight
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759713711
+:END:
+**** Front
+Words
+
+[[file:words1/eight.png]]
+**** Back
+Eight
+*** Late
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759714261
+:END:
+**** Front
+Words
+
+[[file:words1/late.png]]
+**** Back
+Late
+*** Place
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759714737
+:END:
+**** Front
+Words
+
+[[file:words1/place.png]]
+**** Back
+Place
+*** Maid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759715268
+:END:
+**** Front
+Words
+
+[[file:words1/maid.png]]
+**** Back
+Maid
+*** Afraid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759715929
+:END:
+**** Front
+Words
+
+[[file:words1/afraid.png]]
+**** Back
+Afraid
+*** Mislaid
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759716435
+:END:
+**** Front
+Words
+
+[[file:words1/mislaid.png]]
+**** Back
+Mislaid
+*** Plate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759716928
+:END:
+**** Front
+Words
+
+[[file:words1/plate.png]]
+**** Back
+Plate
+*** Age
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759717469
+:END:
+**** Front
+Words
+
+[[file:words1/age.png]]
+**** Back
+Age
+*** Chamber
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759718117
+:END:
+**** Front
+Words
+
+[[file:words1/chamber.png]]
+**** Back
+Chamber
+*** Brief
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759718654
+:END:
+**** Front
+Words
+
+[[file:words1/brief.png]]
+**** Back
+Brief
+*** Deep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759719193
+:END:
+**** Front
+Words
+
+[[file:words1/deep.png]]
+**** Back
+Deep
+*** Steep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759719736
+:END:
+**** Front
+Words
+
+[[file:words1/steep.png]]
+**** Back
+Steep
+*** MeatMeet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759720293
+:END:
+**** Front
+Words
+
+[[file:words1/meet.png]]
+**** Back
+Meat / Meet
+*** Feature
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759721018
+:END:
+**** Front
+Words
+
+[[file:words1/feature.png]]
+**** Back
+Feature
+*** Leader
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759721662
+:END:
+**** Front
+Words
+
+[[file:words1/leader.png]]
+**** Back
+Leader
+*** Seem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759722160
+:END:
+**** Front
+Words
+
+[[file:words1/seem.png]]
+**** Back
+Seem
+*** Believe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759722662
+:END:
+**** Front
+Words
+
+[[file:words1/believe.png]]
+**** Back
+Believe
+*** Green
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759723394
+:END:
+**** Front
+Words
+
+[[file:words1/green.png]]
+**** Back
+Green
+*** Vain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759723918
+:END:
+**** Front
+Words
+
+[[file:words1/vain.png]]
+**** Back
+Vain
+*** Air
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759724393
+:END:
+**** Front
+Words
+
+[[file:words1/air.png]]
+**** Back
+Air
+*** See
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759724963
+:END:
+**** Front
+Words
+
+[[file:words1/see.png]]
+**** Back
+See
+*** Say
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759725443
+:END:
+**** Front
+Words
+
+[[file:words1/say.png]]
+**** Back
+Say
+*** Thee
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759726220
+:END:
+**** Front
+Words
+
+[[file:words1/thee.png]]
+**** Back
+Thee
+*** Year
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759726744
+:END:
+**** Front
+Words
+
+[[file:words1/year.png]]
+**** Back
+Year
+*** Yard
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759727294
+:END:
+**** Front
+Words
+
+[[file:words1/yard.png]]
+**** Back
+Yard
+*** Yoke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759727819
+:END:
+**** Front
+Words
+
+[[file:words1/yoke.png]]
+**** Back
+Yoke
+*** Yorkshire
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759728569
+:END:
+**** Front
+Words
+
+[[file:words1/yorkshire.png]]
+**** Back
+Yorkshire
+*** Yacht
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759729093
+:END:
+**** Front
+Words
+
+[[file:words1/yacht.png]]
+**** Back
+Yacht
+*** Young
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759729588
+:END:
+**** Front
+Words
+
+[[file:words1/young.png]]
+**** Back
+Young
+*** Yellow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759730087
+:END:
+**** Front
+Words
+
+[[file:words1/yellow.png]]
+**** Back
+Yellow
+*** Yawn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759730570
+:END:
+**** Front
+Words
+
+[[file:words1/yawn.png]]
+**** Back
+Yawn
+*** Yet
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759731212
+:END:
+**** Front
+Words
+
+[[file:words1/yet.png]]
+**** Back
+Yet
+*** Yield
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759731763
+:END:
+**** Front
+Words
+
+[[file:words1/yield.png]]
+**** Back
+Yield
+*** Yearn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759732320
+:END:
+**** Front
+Words
+
+[[file:words1/yearn.png]]
+**** Back
+Yearn
+*** Youth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690759732863
+:END:
+**** Front
+Words
+
+[[file:words1/youth.png]]
+**** Back
+Youth
