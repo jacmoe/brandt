@@ -1600,3 +1600,366 @@ Words
 [[file:words1/youth.png]]
 **** Back
 Youth
+*** Tie
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839111939
+:END:
+**** Front
+Words
+
+[[file:words1/tie.png]]
+**** Back
+Tie
+*** Thigh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839112408
+:END:
+**** Front
+Words
+
+[[file:words1/thigh.png]]
+**** Back
+Thigh
+*** Time
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839112869
+:END:
+**** Front
+Words
+
+[[file:words1/time.png]]
+**** Back
+Time
+*** Mile
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839113366
+:END:
+**** Front
+Words
+
+[[file:words1/mile.png]]
+**** Back
+Mile
+*** File
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839113989
+:END:
+**** Front
+Words
+
+[[file:words1/file.png]]
+**** Back
+File
+*** Fine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839114589
+:END:
+**** Front
+Words
+
+[[file:words1/fine.png]]
+**** Back
+Fine
+*** Line
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839115139
+:END:
+**** Front
+Words
+
+[[file:words1/line.png]]
+**** Back
+Line
+*** Like
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839115643
+:END:
+**** Front
+Words
+
+[[file:words1/like.png]]
+**** Back
+Like
+*** Sigh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839116288
+:END:
+**** Front
+Words
+
+[[file:words1/sigh.png]]
+**** Back
+Sigh
+*** Pie
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839116739
+:END:
+**** Front
+Words
+
+[[file:words1/pie.png]]
+**** Back
+Pie
+*** Right
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839117145
+:END:
+**** Front
+Words
+
+[[file:words1/right.png]]
+**** Back
+Right
+*** While
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839117570
+:END:
+**** Front
+Words
+
+[[file:words1/while.png]]
+**** Back
+While
+*** Choir
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839118008
+:END:
+**** Front
+Words
+
+[[file:words1/choir.png]]
+**** Back
+Choir
+*** Blithe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839118689
+:END:
+**** Front
+Words
+
+[[file:words1/blithe.png]]
+**** Back
+Blithe
+*** My
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839119183
+:END:
+**** Front
+Words
+
+[[file:words1/my.png]]
+**** Back
+My
+*** Out
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839119589
+:END:
+**** Front
+Words
+
+[[file:words1/out.png]]
+**** Back
+Out
+*** Hour
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839120009
+:END:
+**** Front
+Words
+
+[[file:words1/hour.png]]
+**** Back
+Hour
+*** Ounce
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839120639
+:END:
+**** Front
+Words
+
+[[file:words1/ounce.png]]
+**** Back
+Ounce
+*** Cow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839121070
+:END:
+**** Front
+Words
+
+[[file:words1/cow.png]]
+**** Back
+Cow
+*** Now
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839121489
+:END:
+**** Front
+Words
+
+[[file:words1/now.png]]
+**** Back
+Now
+*** Plough
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839121914
+:END:
+**** Front
+Words
+
+[[file:words1/plough.png]]
+**** Back
+Plough
+*** Bow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839122495
+:END:
+**** Front
+Words
+
+[[file:words1/bow.png]]
+**** Back
+Bow
+*** About
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839122928
+:END:
+**** Front
+Words
+
+[[file:words1/about.png]]
+**** Back
+About
+*** Fowl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839123334
+:END:
+**** Front
+Words
+
+[[file:words1/fowl.png]]
+**** Back
+Fowl
+*** Mouse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839123789
+:END:
+**** Front
+Words
+
+[[file:words1/mouse.png]]
+**** Back
+Mouse
+*** Crowd
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839124728
+:END:
+**** Front
+Words
+
+[[file:words1/crowd.png]]
+**** Back
+Crowd
+*** Gout
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839125170
+:END:
+**** Front
+Words
+
+[[file:words1/gout.png]]
+**** Back
+Gout
+*** Growl
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839125620
+:END:
+**** Front
+Words
+
+[[file:words1/growl.png]]
+**** Back
+Growl
+*** Gown
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839126039
+:END:
+**** Front
+Words
+
+[[file:words1/gown.png]]
+**** Back
+Gown
+*** Mouth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839126659
+:END:
+**** Front
+Words
+
+[[file:words1/mouth.png]]
+**** Back
+Mouth
+*** Spouse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839127109
+:END:
+**** Front
+Words
+
+[[file:words1/spouse.png]]
+**** Back
+Spouse
+*** Rouse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839127614
+:END:
+**** Front
+Words
+
+[[file:words1/rouse.png]]
+**** Back
+Rouse
+*** Spout
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690839128063
+:END:
+**** Front
+Words
+
+[[file:words1/spout.png]]
+**** Back
+Spout
