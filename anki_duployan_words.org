@@ -1963,3 +1963,234 @@ Words
 [[file:words1/spout.png]]
 **** Back
 Spout
+*** Boil
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842319888
+:END:
+**** Front
+Words
+
+[[file:words1/boil.png]]
+**** Back
+Boil
+*** Toil
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842320390
+:END:
+**** Front
+Words
+
+[[file:words1/toil.png]]
+**** Back
+Toil
+*** Joy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842320925
+:END:
+**** Front
+Words
+
+[[file:words1/joy.png]]
+**** Back
+Joy
+*** Noise
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842321556
+:END:
+**** Front
+Words
+
+[[file:words1/noise.png]]
+**** Back
+Noise
+*** Noise2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842322078
+:END:
+**** Front
+Words
+
+[[file:words1/noise2.png]]
+**** Back
+Noise
+*** Boy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842322589
+:END:
+**** Front
+Words
+
+[[file:words1/boy.png]]
+**** Back
+Boy
+*** Point
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842323056
+:END:
+**** Front
+Words
+
+[[file:words1/point.png]]
+**** Back
+Point
+*** Coin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842323714
+:END:
+**** Front
+Words
+
+[[file:words1/coin.png]]
+**** Back
+Coin
+*** Toy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842324214
+:END:
+**** Front
+Words
+
+[[file:words1/toy.png]]
+**** Back
+Toy
+*** Use
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842324689
+:END:
+**** Front
+Words
+
+[[file:words1/use.png]]
+**** Back
+Use
+*** Music
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842325140
+:END:
+**** Front
+Words
+
+[[file:words1/music.png]]
+**** Back
+Music
+*** View
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842325715
+:END:
+**** Front
+Words
+
+[[file:words1/view.png]]
+**** Back
+View
+*** Knew
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842326439
+:END:
+**** Front
+Words
+
+[[file:words1/knew.png]]
+**** Back
+Knew
+*** Obscure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842326982
+:END:
+**** Front
+Words
+
+[[file:words1/obscure.png]]
+**** Back
+Obscure
+*** Pure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842327456
+:END:
+**** Front
+Words
+
+[[file:words1/pure.png]]
+**** Back
+Pure
+*** Duke
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842327980
+:END:
+**** Front
+Words
+
+[[file:words1/duke.png]]
+**** Back
+Duke
+*** Wish
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842328639
+:END:
+**** Front
+Words
+
+[[file:words1/wish.png]]
+**** Back
+Wish
+*** With
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842329084
+:END:
+**** Front
+Words
+
+[[file:words1/with.png]]
+**** Back
+With
+*** Wig
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842329614
+:END:
+**** Front
+Words
+
+[[file:words1/wig.png]]
+**** Back
+Wig
+*** Wife
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842330163
+:END:
+**** Front
+Words
+
+[[file:words1/wife.png]]
+**** Back
+Wife
+*** We
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690842330888
+:END:
+**** Front
+Words
+
+[[file:words1/we.png]]
+**** Back
+We
