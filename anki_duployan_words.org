@@ -4482,6 +4482,424 @@ Words
 [[file:words1/bury.png]]
 **** Back
 Bury
+*** Living
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896789687
+:END:
+**** Front
+Words
+
+[[file:words1/living.png]]
+**** Back
+Living
+*** Present
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896790638
+:END:
+**** Front
+Words
+
+[[file:words1/present.png]]
+**** Back
+Present
+*** Within
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896791587
+:END:
+**** Front
+Words
+
+[[file:words1/within.png]]
+**** Back
+Within
+*** Head
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896792512
+:END:
+**** Front
+Words
+
+[[file:words1/head.png]]
+**** Back
+Head
+*** Lives
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896793437
+:END:
+**** Front
+Words
+
+[[file:words1/lives.png]]
+**** Back
+Lives
+*** Great
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896794412
+:END:
+**** Front
+Words
+
+[[file:words1/great.png]]
+**** Back
+Great
+*** Remind
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896795337
+:END:
+**** Front
+Words
+
+[[file:words1/remind.png]]
+**** Back
+Remind
+*** Can
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896796537
+:END:
+**** Front
+Words
+
+[[file:words1/can.png]]
+**** Back
+Can
+*** Make
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896797462
+:END:
+**** Front
+Words
+
+[[file:words1/make.png]]
+**** Back
+Make
+*** Sublime
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896798387
+:END:
+**** Front
+Words
+
+[[file:words1/sublime.png]]
+**** Back
+Sublime
+*** Departing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896799312
+:END:
+**** Front
+Words
+
+[[file:words1/departing.png]]
+**** Back
+Departing
+*** Leave
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896800287
+:END:
+**** Front
+Words
+
+[[file:words1/leave.png]]
+**** Back
+Leave
+*** Footprints
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896801213
+:END:
+**** Front
+Words
+
+[[file:words1/footprints.png]]
+**** Back
+Footprints
+*** Sands
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896802137
+:END:
+**** Front
+Words
+
+[[file:words1/sands.png]]
+**** Back
+Sands
+*** Perhaps
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896803587
+:END:
+**** Front
+Words
+
+[[file:words1/perhaps.png]]
+**** Back
+Perhaps
+*** Another
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896804537
+:END:
+**** Front
+Words
+
+[[file:words1/another.png]]
+**** Back
+Another
+*** Sailing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896805538
+:END:
+**** Front
+Words
+
+[[file:words1/sailing.png]]
+**** Back
+Sailing
+*** Solemn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896806587
+:END:
+**** Front
+Words
+
+[[file:words1/solemn.png]]
+**** Back
+Solemn
+*** Main
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896807537
+:END:
+**** Front
+Words
+
+[[file:words1/main.png]]
+**** Back
+Main
+*** Forlorn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896808462
+:END:
+**** Front
+Words
+
+[[file:words1/forlorn.png]]
+**** Back
+Forlorn
+*** Shipwrecked
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896809455
+:END:
+**** Front
+Words
+
+[[file:words1/shipwrecked.png]]
+**** Back
+Shipwrecked
+*** Brother
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896810687
+:END:
+**** Front
+Words
+
+[[file:words1/brother.png]]
+**** Back
+Brother
+*** Seeing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896811687
+:END:
+**** Front
+Words
+
+[[file:words1/seeing.png]]
+**** Back
+Seeing
+*** Shall
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896812637
+:END:
+**** Front
+Words
+
+[[file:words1/shall.png]]
+**** Back
+Shall
+*** Take
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896813562
+:END:
+**** Front
+Words
+
+[[file:words1/take.png]]
+**** Back
+Take
+*** Again
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896814537
+:END:
+**** Front
+Words
+
+[[file:words1/again.png]]
+**** Back
+Again
+*** Then
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896815431
+:END:
+**** Front
+Words
+
+[[file:words1/then.png]]
+**** Back
+Then
+*** Up
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896816637
+:END:
+**** Front
+Words
+
+[[file:words1/up.png]]
+**** Back
+Up
+*** Doing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896817612
+:END:
+**** Front
+Words
+
+[[file:words1/doing.png]]
+**** Back
+Doing
+*** Any
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896818562
+:END:
+**** Front
+Words
+
+[[file:words1/any.png]]
+**** Back
+Any
+*** Fate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896819482
+:END:
+**** Front
+Words
+
+[[file:words1/fate.png]]
+**** Back
+Fate
+*** Achieving
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896820487
+:END:
+**** Front
+Words
+
+[[file:words1/achieving.png]]
+**** Back
+Achieving
+*** Pursuing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896821462
+:END:
+**** Front
+Words
+
+[[file:words1/pursuing.png]]
+**** Back
+Pursuing
+*** Learn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896822412
+:END:
+**** Front
+Words
+
+[[file:words1/learn.png]]
+**** Back
+Learn
+*** Labour
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896823637
+:END:
+**** Front
+Words
+
+[[file:words1/labour.png]]
+**** Back
+Labour
+*** Wait
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896824587
+:END:
+**** Front
+Words
+
+[[file:words1/wait.png]]
+**** Back
+Wait
+*** Henry
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896825537
+:END:
+**** Front
+Words
+
+[[file:words1/henry.png]]
+**** Back
+Henry
+*** Longfellow
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690896826537
+:END:
+**** Front
+Words
+
+[[file:words1/longfellow.png]]
+**** Back
+Longfellow
 
 #  LocalWords:  ANKI Duployan AllAwl MeatMeet Spunge Meanful TenderHearted EyeI
 #  LocalWords:  Stonyhurst Upheave Returnest
