@@ -3118,3 +3118,168 @@ Words
 [[file:words1/hold.png]]
 **** Back
 Hold
+*** TenderHearted
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878163409
+:END:
+**** Front
+Words
+
+[[file:words1/tender-hearted.png]]
+**** Back
+Tender-hearted
+*** Overhang
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878164056
+:END:
+**** Front
+Words
+
+[[file:words1/overhang.png]]
+**** Back
+Overhang
+*** Warehouse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878164735
+:END:
+**** Front
+Words
+
+[[file:words1/warehouse.png]]
+**** Back
+Warehouse
+*** Shorthand
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878165434
+:END:
+**** Front
+Words
+
+[[file:words1/shorthand.png]]
+**** Back
+Shorthand
+*** Stonyhurst
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878166237
+:END:
+**** Front
+Words
+
+[[file:words1/stonyhurst.png]]
+**** Back
+Stonyhurst
+*** Loophole
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878167087
+:END:
+**** Front
+Words
+
+[[file:words1/loophole.png]]
+**** Back
+Loophole
+*** Underhand
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878167686
+:END:
+**** Front
+Words
+
+[[file:words1/underhand.png]]
+**** Back
+Underhand
+*** Upheave
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878168338
+:END:
+**** Front
+Words
+
+[[file:words1/upheave.png]]
+**** Back
+Upheave
+*** Behalf
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878169062
+:END:
+**** Front
+Words
+
+[[file:words1/behalf.png]]
+**** Back
+Behalf
+*** Behind
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878169737
+:END:
+**** Front
+Words
+
+[[file:words1/behind.png]]
+**** Back
+Behind
+*** Enhance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878170655
+:END:
+**** Front
+Words
+
+[[file:words1/enhance.png]]
+**** Back
+Enhance
+*** Who
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878171284
+:END:
+**** Front
+Words
+
+[[file:words1/who.png]]
+**** Back
+Who
+*** High
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878171953
+:END:
+**** Front
+Words
+
+[[file:words1/high.png]]
+**** Back
+High
+*** How
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878172579
+:END:
+**** Front
+Words
+
+[[file:words1/how.png]]
+**** Back
+How
+*** Apprehension
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690878173411
+:END:
+**** Front
+Words
+
+[[file:words1/apprehension.png]]
+**** Back
+Apprehension
