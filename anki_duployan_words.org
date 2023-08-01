@@ -2557,3 +2557,168 @@ Words
 [[file:words1/pontiff.png]]
 **** Back
 Pontiff
+*** Moon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874957669
+:END:
+**** Front
+Words
+
+[[file:words1/moon.png]]
+**** Back
+Moon
+*** Brain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874958237
+:END:
+**** Front
+Words
+
+[[file:words1/brain.png]]
+**** Back
+Brain
+*** Dean
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874958720
+:END:
+**** Front
+Words
+
+[[file:words1/dean.png]]
+**** Back
+Dean
+*** Pain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874959212
+:END:
+**** Front
+Words
+
+[[file:words1/pain.png]]
+**** Back
+Pain
+*** Mean
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874959919
+:END:
+**** Front
+Words
+
+[[file:words1/mean.png]]
+**** Back
+Mean
+*** Groan
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874960412
+:END:
+**** Front
+Words
+
+[[file:words1/groan.png]]
+**** Back
+Groan
+*** Stone
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874960919
+:END:
+**** Front
+Words
+
+[[file:words1/stone.png]]
+**** Back
+Stone
+*** Own
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874961417
+:END:
+**** Front
+Words
+
+[[file:words1/own.png]]
+**** Back
+Own
+*** Stain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874962137
+:END:
+**** Front
+Words
+
+[[file:words1/stain.png]]
+**** Back
+Stain
+*** Pawn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874962612
+:END:
+**** Front
+Words
+
+[[file:words1/pawn.png]]
+**** Back
+Pawn
+*** Meanful
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874963111
+:END:
+**** Front
+Words
+
+[[file:words1/meanful.png]]
+**** Back
+Meanful
+*** Known
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874963643
+:END:
+**** Front
+Words
+
+[[file:words1/known.png]]
+**** Back
+Known
+*** Soon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874964187
+:END:
+**** Front
+Words
+
+[[file:words1/soon.png]]
+**** Back
+Soon
+*** Fawn
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874964887
+:END:
+**** Front
+Words
+
+[[file:words1/fawn.png]]
+**** Back
+Fawn
+*** Painter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874965393
+:END:
+**** Front
+Words
+
+[[file:words1/painter.png]]
+**** Back
+Painter
