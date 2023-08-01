@@ -2194,3 +2194,366 @@ Words
 [[file:words1/we.png]]
 **** Back
 We
+*** Done
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874163689
+:END:
+**** Front
+Words
+
+[[file:words1/done.png]]
+**** Back
+Done
+*** Son
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874164139
+:END:
+**** Front
+Words
+
+[[file:words1/son.png]]
+**** Back
+Son
+*** Print
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874164639
+:END:
+**** Front
+Words
+
+[[file:words1/print.png]]
+**** Back
+Print
+*** Sent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874165232
+:END:
+**** Front
+Words
+
+[[file:words1/sent.png]]
+**** Back
+Sent
+*** Dent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874165680
+:END:
+**** Front
+Words
+
+[[file:words1/dent.png]]
+**** Back
+Dent
+*** Grant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874166138
+:END:
+**** Front
+Words
+
+[[file:words1/grant.png]]
+**** Back
+Grant
+*** Month
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874166565
+:END:
+**** Front
+Words
+
+[[file:words1/month.png]]
+**** Back
+Month
+*** Money
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874167013
+:END:
+**** Front
+Words
+
+[[file:words1/money.png]]
+**** Back
+Money
+*** Funny
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874167612
+:END:
+**** Front
+Words
+
+[[file:words1/funny.png]]
+**** Back
+Funny
+*** Tenth
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874168062
+:END:
+**** Front
+Words
+
+[[file:words1/tenth.png]]
+**** Back
+Tenth
+*** Thin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874168440
+:END:
+**** Front
+Words
+
+[[file:words1/thin.png]]
+**** Back
+Thin
+*** Front
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874168862
+:END:
+**** Front
+Words
+
+[[file:words1/front.png]]
+**** Back
+Front
+*** Channel
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874169487
+:END:
+**** Front
+Words
+
+[[file:words1/channel.png]]
+**** Back
+Channel
+*** Chance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874169881
+:END:
+**** Front
+Words
+
+[[file:words1/chance.png]]
+**** Back
+Chance
+*** Man
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874170338
+:END:
+**** Front
+Words
+
+[[file:words1/man.png]]
+**** Back
+Man
+*** Men
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874170755
+:END:
+**** Front
+Words
+
+[[file:words1/men.png]]
+**** Back
+Men
+*** Until
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874171232
+:END:
+**** Front
+Words
+
+[[file:words1/until.png]]
+**** Back
+Until
+*** Lunch
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874171887
+:END:
+**** Front
+Words
+
+[[file:words1/lunch.png]]
+**** Back
+Lunch
+*** Many
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874172388
+:END:
+**** Front
+Words
+
+[[file:words1/many.png]]
+**** Back
+Many
+*** None
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874172889
+:END:
+**** Front
+Words
+
+[[file:words1/none.png]]
+**** Back
+None
+*** Sentry
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874173340
+:END:
+**** Front
+Words
+
+[[file:words1/sentry.png]]
+**** Back
+Sentry
+*** Spunge
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874174013
+:END:
+**** Front
+Words
+
+[[file:words1/spunge.png]]
+**** Back
+Spunge
+*** Woman
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874174500
+:END:
+**** Front
+Words
+
+[[file:words1/woman.png]]
+**** Back
+Woman
+*** Women
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874175007
+:END:
+**** Front
+Words
+
+[[file:words1/women.png]]
+**** Back
+Women
+*** Land
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874175608
+:END:
+**** Front
+Words
+
+[[file:words1/land.png]]
+**** Back
+Land
+*** Sunday
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874176212
+:END:
+**** Front
+Words
+
+[[file:words1/sunday.png]]
+**** Back
+Sunday
+*** Winter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874176715
+:END:
+**** Front
+Words
+
+[[file:words1/winter.png]]
+**** Back
+Winter
+*** Appearance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874177212
+:END:
+**** Front
+Words
+
+[[file:words1/appearance.png]]
+**** Back
+Appearance
+*** Phonography
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874177656
+:END:
+**** Front
+Words
+
+[[file:words1/phonography.png]]
+**** Back
+Phonography
+*** Bondage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874178131
+:END:
+**** Front
+Words
+
+[[file:words1/bondage.png]]
+**** Back
+Bondage
+*** Fancy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874178840
+:END:
+**** Front
+Words
+
+[[file:words1/fancy.png]]
+**** Back
+Fancy
+*** Condense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874179306
+:END:
+**** Front
+Words
+
+[[file:words1/condense.png]]
+**** Back
+Condense
+*** Pontiff
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690874182363
+:END:
+**** Front
+Words
+
+[[file:words1/pontiff.png]]
+**** Back
+Pontiff
