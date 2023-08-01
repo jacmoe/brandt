@@ -3283,3 +3283,377 @@ Words
 [[file:words1/apprehension.png]]
 **** Back
 Apprehension
+*** Song
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886321037
+:END:
+**** Front
+Words
+
+[[file:words1/song.png]]
+**** Back
+Song
+*** Single
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886321712
+:END:
+**** Front
+Words
+
+[[file:words1/single.png]]
+**** Back
+Single
+*** Angle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886322434
+:END:
+**** Front
+Words
+
+[[file:words1/angle.png]]
+**** Back
+Angle
+*** Lasting
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886323460
+:END:
+**** Front
+Words
+
+[[file:words1/lasting.png]]
+**** Back
+Lasting
+*** Bring
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886324164
+:END:
+**** Front
+Words
+
+[[file:words1/bring.png]]
+**** Back
+Bring
+*** Flung
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886324811
+:END:
+**** Front
+Words
+
+[[file:words1/flung.png]]
+**** Back
+Flung
+*** Bangle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886325438
+:END:
+**** Front
+Words
+
+[[file:words1/bangle.png]]
+**** Back
+Bangle
+*** Sing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886326135
+:END:
+**** Front
+Words
+
+[[file:words1/sing.png]]
+**** Back
+Sing
+*** Wrangle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886326812
+:END:
+**** Front
+Words
+
+[[file:words1/wrangle.png]]
+**** Back
+Wrangle
+*** Long
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886327712
+:END:
+**** Front
+Words
+
+[[file:words1/long.png]]
+**** Back
+Long
+*** Thing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886328337
+:END:
+**** Front
+Words
+
+[[file:words1/thing.png]]
+**** Back
+Thing
+*** Bank
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886328988
+:END:
+**** Front
+Words
+
+[[file:words1/bank.png]]
+**** Back
+Bank
+*** Sank
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886329637
+:END:
+**** Front
+Words
+
+[[file:words1/sank.png]]
+**** Back
+Sank
+*** Brink
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886330254
+:END:
+**** Front
+Words
+
+[[file:words1/brink.png]]
+**** Back
+Brink
+*** Ink
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886331212
+:END:
+**** Front
+Words
+
+[[file:words1/ink.png]]
+**** Back
+Ink
+*** Wrinkle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886332012
+:END:
+**** Front
+Words
+
+[[file:words1/wrinkle.png]]
+**** Back
+Wrinkle
+*** Link
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886332656
+:END:
+**** Front
+Words
+
+[[file:words1/link.png]]
+**** Back
+Link
+*** Wink
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886333287
+:END:
+**** Front
+Words
+
+[[file:words1/wink.png]]
+**** Back
+Wink
+*** Sink
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886333937
+:END:
+**** Front
+Words
+
+[[file:words1/sink.png]]
+**** Back
+Sink
+*** Bank2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886334586
+:END:
+**** Front
+Words
+
+[[file:words1/bank2.png]]
+**** Back
+Bank
+*** Sank2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886335462
+:END:
+**** Front
+Words
+
+[[file:words1/sank2.png]]
+**** Back
+Sank
+*** Wrinkle2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886336112
+:END:
+**** Front
+Words
+
+[[file:words1/wrinkle2.png]]
+**** Back
+Wrinkle
+*** Link2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886337466
+:END:
+**** Front
+Words
+
+[[file:words1/link2.png]]
+**** Back
+Link
+*** Wink2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886338228
+:END:
+**** Front
+Words
+
+[[file:words1/wink2.png]]
+**** Back
+Wink
+*** Sink2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886339168
+:END:
+**** Front
+Words
+
+[[file:words1/sink2.png]]
+**** Back
+Sink
+*** EyeI
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886340763
+:END:
+**** Front
+Words
+
+[[file:words1/eye.png]]
+**** Back
+Eye / I
+*** He
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886341530
+:END:
+**** Front
+Words
+
+[[file:words1/he.png]]
+**** Back
+He
+*** Eh
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886342187
+:END:
+**** Front
+Words
+
+[[file:words1/eh.png]]
+**** Back
+Eh
+*** An
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886343464
+:END:
+**** Front
+Words
+
+[[file:words1/an.png]]
+**** Back
+An
+*** On
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886344205
+:END:
+**** Front
+Words
+
+[[file:words1/on.png]]
+**** Back
+On
+*** In
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886344905
+:END:
+**** Front
+Words
+
+[[file:words1/in.png]]
+**** Back
+In
+*** Hen
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886345903
+:END:
+**** Front
+Words
+
+[[file:words1/hen.png]]
+**** Back
+Hen
+*** You
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886346590
+:END:
+**** Front
+Words
+
+[[file:words1/you.png]]
+**** Back
+You
+*** Hew
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1690886347287
+:END:
+**** Front
+Words
+
+[[file:words1/hew.png]]
+**** Back
+Hew
