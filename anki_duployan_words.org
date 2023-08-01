@@ -178,7 +178,7 @@ Good
 **** Front
 Words
 
-[[file:words1/block.png]]
+[[file:words1/block-fixed.png]]
 **** Back
 Block
 *** Clock
