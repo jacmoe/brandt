@@ -629,7 +629,7 @@ Elm
 **** Front
 Words
 
-[[file:words1/elbow.png]]
+[[file:words1/elbow-fixed.png]]
 **** Back
 Elbow
 *** If
