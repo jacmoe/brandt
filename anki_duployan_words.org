@@ -1006,7 +1006,7 @@ Words
 [[file:words1/tell.png]]
 **** Back
 Tell
-*** Tilt
+*** Till
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1690758386919
@@ -1014,9 +1014,9 @@ Tell
 **** Front
 Words
 
-[[file:words1/tilt.png]]
+[[file:words1/till.png]]
 **** Back
-Tilt
+Till
 *** Chest
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
