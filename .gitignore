@@ -5,3 +5,4 @@ words_processed.txt
 words.txt
 words_out.txt
 /*.apkg
+/errors/

@@ -66,103 +66,103 @@ Any want of clearness in the above explanation will be dispelled by noting the a
 \pagebreak
 #+end_export
 ** Lesson 1 - The Signs of the System
-[[file:img/lesson1.png]]
+[[file:1img/lesson1.png]]
 
 The signs of this System are formed from the two simplest of geometrical figures, namely the Straight Line and the Circle.
 
-The straight line both full length and half length takes the following directions indicated by the arrow: [[file:img/fig1-1.png]]
+The straight line both full length and half length takes the following directions indicated by the arrow: [[file:1img/fig1-1.png]]
 
-A large and small circle are used, the latter being about half the size of the former: [[file:img/fig1-2.png]]
+A large and small circle are used, the latter being about half the size of the former: [[file:1img/fig1-2.png]]
 
-These circles are now divided first by a line drawn through them Vertically [[file:img/fig1-3.png]] thereby giving us these four signs: [[file:img/fig1-4.png]]. Next by a line dividing them Horizontally [[file:img/fig1-5.png]] and giving us the following signs: [[file:img/fig1-6.png]] i.e. [[file:img/fig1-7.png]]. And lastly, the circles are cut into quadrants: [[file:img/fig1-8.png]] = [[file:img/fig1-9.png]] = [[file:img/fig1-10.png]]
+These circles are now divided first by a line drawn through them Vertically [[file:1img/fig1-3.png]] thereby giving us these four signs: [[file:1img/fig1-4.png]]. Next by a line dividing them Horizontally [[file:1img/fig1-5.png]] and giving us the following signs: [[file:1img/fig1-6.png]] i.e. [[file:1img/fig1-7.png]]. And lastly, the circles are cut into quadrants: [[file:1img/fig1-8.png]] = [[file:1img/fig1-9.png]] = [[file:1img/fig1-10.png]]
 
-The following supplementary signs, chiefly used as diacritical or distinguishing marks, are also made use of: a dot [[file:img/fig1-11.png]], a dash [[file:img/fig1-12.png]], and the acute [[file:img/fig1-13.png]], and grave [[file:img/fig1-14.png]] accents.
+The following supplementary signs, chiefly used as diacritical or distinguishing marks, are also made use of: a dot [[file:1img/fig1-11.png]], a dash [[file:1img/fig1-12.png]], and the acute [[file:1img/fig1-13.png]], and grave [[file:1img/fig1-14.png]] accents.
 
 *** The Consonants formed from the Straight line
 
-| [[file:img/fig1-15.png]] | B [[file:img/fig1-16.png]] | P [[file:img/fig1-17.png]] | drawn straight downwards           |
-| [[file:img/fig1-18.png]] | D [[file:img/fig1-19.png]] | T [[file:img/fig1-20.png]] | drawn from left to right           |
-| [[file:img/fig1-21.png]] | G [[file:img/fig1-22.png]] | K [[file:img/fig1-23.png]] | drawn obliquely from right to left |
-| [[file:img/fig1-24.png]] | V [[file:img/fig1-25.png]] | F [[file:img/fig1-26.png]] | drawn obliquely from left to right |
-| [[file:img/fig1-27.png]] | R [[file:img/fig1-28.png]] | L [[file:img/fig1-29.png]] | drawn upwards from left to right   |
+| [[file:1img/fig1-15.png]] | B [[file:1img/fig1-16.png]] | P [[file:1img/fig1-17.png]] | drawn straight downwards           |
+| [[file:1img/fig1-18.png]] | D [[file:1img/fig1-19.png]] | T [[file:1img/fig1-20.png]] | drawn from left to right           |
+| [[file:1img/fig1-21.png]] | G [[file:1img/fig1-22.png]] | K [[file:1img/fig1-23.png]] | drawn obliquely from right to left |
+| [[file:1img/fig1-24.png]] | V [[file:1img/fig1-25.png]] | F [[file:1img/fig1-26.png]] | drawn obliquely from left to right |
+| [[file:1img/fig1-27.png]] | R [[file:1img/fig1-28.png]] | L [[file:1img/fig1-29.png]] | drawn upwards from left to right   |
 Observe that the soft and longer sounds B, D, G, V are expressed by the longer lines whilst their corresponding hard and shorter sounds P, T, K, F are expressed by the shorter ones.
 
-The consonant R has two distinct shades of sound, one hard or trill-sound as in /broil/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: [[file:img/fig1-30.png]].
+The consonant R has two distinct shades of sound, one hard or trill-sound as in /broil/, /umbrella/; the other is a soft and frequently barely audible sound as in /door/, /fear/, /heart/, this latter may be distinguished from the former by a dash written in the middle of the sign: [[file:1img/fig1-30.png]].
 
 *** The Consonants formed from the Semi-circles
 
-| S [[file:img/fig1-31.png]]  | Z [[file:img/fig1-32.png]]                            | drawn from left to right | [[file:img/fig1-33.png]] |
-| Sh [[file:img/fig1-34.png]] | Zh [[file:img/fig1-35.png]]                           | drawn from left to right | [[file:img/fig1-36.png]] |
-| M [[file:img/fig1-37.png]]  | N [[file:img/fig1-38.png]] & NG [[file:img/fig1-39.png]] | drawn downwards          | [[file:img/fig1-40.png]] |
+| S [[file:1img/fig1-31.png]]  | Z [[file:1img/fig1-32.png]]                            | drawn from left to right | [[file:1img/fig1-33.png]] |
+| Sh [[file:1img/fig1-34.png]] | Zh [[file:1img/fig1-35.png]]                           | drawn from left to right | [[file:1img/fig1-36.png]] |
+| M [[file:1img/fig1-37.png]]  | N [[file:1img/fig1-38.png]] & NG [[file:1img/fig1-39.png]] | drawn downwards          | [[file:1img/fig1-40.png]] |
 It will be noticed that the soft sounds Z and ZH as in /zeal/, /as/, /vision/, are distinguished from their corresponding hard sounds by a dot. The difference between the two nasals N and NG is also indicated by a dot.
 
 *** The Consonants CH J TH hard TH soft
 The true sound-value of the consonant CH is found in the words /church/, /chariot/, /chess/, etc.
 
-The corresponding soft sound is J as in /jerk/, /giant/, /jest/, etc. CH is formed from two quadrants of a small circle [[file:img/fig1-41.png]] written in the same direction as the sign for K viz [[file:img/fig1-42.png]].
+The corresponding soft sound is J as in /jerk/, /giant/, /jest/, etc. CH is formed from two quadrants of a small circle [[file:1img/fig1-41.png]] written in the same direction as the sign for K viz [[file:1img/fig1-42.png]].
 
-J is written the same way but two quadrants of a large circle are used viz [[file:img/fig1-43.png]].
+J is written the same way but two quadrants of a large circle are used viz [[file:1img/fig1-43.png]].
 
-Since TH is a blending of the sounds of T and D, we write its equivalent phonetic character which is formed from two quadrants of a circle joined together, in the same direction as T and D viz [[file:img/fig1-44.png]] i.e. [[file:img/fig1-45.png]].
+Since TH is a blending of the sounds of T and D, we write its equivalent phonetic character which is formed from two quadrants of a circle joined together, in the same direction as T and D viz [[file:1img/fig1-44.png]] i.e. [[file:1img/fig1-45.png]].
 
-The soft sound as in *There* is written full length [[file:img/fig1-46.png]].
+The soft sound as in *There* is written full length [[file:1img/fig1-46.png]].
 
-The hard sound as in *Thistle* is written half length [[file:img/fig1-47.png]].
+The hard sound as in *Thistle* is written half length [[file:1img/fig1-47.png]].
 
 *** The Consonants Y and W
-*Y*. A small semi-circle in this position [[file:img/fig1-48.png]], written downwards and having a dot above is Y.
+*Y*. A small semi-circle in this position [[file:1img/fig1-48.png]], written downwards and having a dot above is Y.
 
-*W*. The consonant sound W is represented by a quadrant of large circle traced upwards, on the right hand side of which a dot is placed viz [[file:img/fig1-49.png]]
+*W*. The consonant sound W is represented by a quadrant of large circle traced upwards, on the right hand side of which a dot is placed viz [[file:1img/fig1-49.png]]
 *** The joining together of consonants
 In order to connect two consonants together we add the sign of the second to the termination of the first, writing the compound sign with one stroke without lifting the pen.
 
-*Examples*: /kl/ [[file:img/fig1-50.png]], /lk/ [[file:img/fig1-51.png]], /mt/ [[file:img/fig1-52.png]], /tm/ [[file:img/fig1-53.png]], /sg/ [[file:img/fig1-54.png]], /st/ [[file:img/fig1-55.png]], /gr/ [[file:img/fig1-56.png]], /rg/ [[file:img/fig1-57.png]], /chr/ [[file:img/fig1-58.png]], /rch/ [[file:img/fig1-59.png]], /sd/ [[file:img/fig1-60.png]], /dj/ [[file:img/fig1-61.png]], /jr/ [[file:img/fig1-62.png]], /lp/ [[file:img/fig1-63.png]], /pl/ [[file:img/fig1-64.png]], /thm/ [[file:img/fig1-65.png]], /mth/ [[file:img/fig1-66.png]], /nr/ [[file:img/fig1-67.png]], /rth/ [[file:img/fig1-68.png]], /thr/ [[file:img/fig1-69.png]]
+*Examples*: /kl/ [[file:1img/fig1-50.png]], /lk/ [[file:1img/fig1-51.png]], /mt/ [[file:1img/fig1-52.png]], /tm/ [[file:1img/fig1-53.png]], /sg/ [[file:1img/fig1-54.png]], /st/ [[file:1img/fig1-55.png]], /gr/ [[file:1img/fig1-56.png]], /rg/ [[file:1img/fig1-57.png]], /chr/ [[file:1img/fig1-58.png]], /rch/ [[file:1img/fig1-59.png]], /sd/ [[file:1img/fig1-60.png]], /dj/ [[file:1img/fig1-61.png]], /jr/ [[file:1img/fig1-62.png]], /lp/ [[file:1img/fig1-63.png]], /pl/ [[file:1img/fig1-64.png]], /thm/ [[file:1img/fig1-65.png]], /mth/ [[file:1img/fig1-66.png]], /nr/ [[file:1img/fig1-67.png]], /rth/ [[file:1img/fig1-68.png]], /thr/ [[file:1img/fig1-69.png]]
 
-It is better to avoid forming an angle between two consonants, wherever is is optional, as for instance [[file:img/fig1-70.png]], it is more rapidly written thus [[file:img/fig1-71.png]].
+It is better to avoid forming an angle between two consonants, wherever is is optional, as for instance [[file:1img/fig1-70.png]], it is more rapidly written thus [[file:1img/fig1-71.png]].
 
-*Ex*: /vs/ [[file:img/fig1-72.png]], /rsh/ [[file:img/fig1-73.png]], /md/ [[file:img/fig1-74.png]], /ps/ [[file:img/fig1-75.png]], /dn/ [[file:img/fig1-76.png]], /shp/ [[file:img/fig1-77.png]], /mn/ [[file:img/fig1-78.png]], /nm/ [[file:img/fig1-79.png]].
+*Ex*: /vs/ [[file:1img/fig1-72.png]], /rsh/ [[file:1img/fig1-73.png]], /md/ [[file:1img/fig1-74.png]], /ps/ [[file:1img/fig1-75.png]], /dn/ [[file:1img/fig1-76.png]], /shp/ [[file:1img/fig1-77.png]], /mn/ [[file:1img/fig1-78.png]], /nm/ [[file:1img/fig1-79.png]].
 
-Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]], /nj/ [[file:img/fig1-81.png]], /njm/ [[file:img/fig1-82.png]], /js/ [[file:img/fig1-83.png]], /gj/ [[file:img/fig1-84.png]].
+Note the following somewhat difficult connections: /jm/ [[file:1img/fig1-80.png]], /nj/ [[file:1img/fig1-81.png]], /njm/ [[file:1img/fig1-82.png]], /js/ [[file:1img/fig1-83.png]], /gj/ [[file:1img/fig1-84.png]].
 
 *** Consonants
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | P                       | K                       | CH                       | T                       | TH                            | F                       | L                            |                              | S                       | SH                       | M                       |                          | Y                       |
-| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_hard.png]] | [[file:img/alphabet_f.png]] | [[file:img/alphabet_l.png]]      |                              | [[file:img/alphabet_s.png]] | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]] |                          | [[file:img/alphabet_y.png]] |
+| [[file:1img/alphabet_p.png]] | [[file:1img/alphabet_k.png]] | [[file:1img/alphabet_ch.png]] | [[file:1img/alphabet_t.png]] | [[file:1img/alphabet_th_hard.png]] | [[file:1img/alphabet_f.png]] | [[file:1img/alphabet_l.png]]      |                              | [[file:1img/alphabet_s.png]] | [[file:1img/alphabet_sh.png]] | [[file:1img/alphabet_m.png]] |                          | [[file:1img/alphabet_y.png]] |
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | B                       | G                       | J                        | D                       | TH                            | V                       | R                            | R                            | Z                       | ZH                       | N                       | NG                       | W                       |
-| [[file:img/alphabet_b.png]] | [[file:img/alphabet_g.png]] | [[file:img/alphabet_j.png]]  | [[file:img/alphabet_d.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_v.png]] | [[file:img/alphabet_r_hard.png]] | [[file:img/alphabet_r_soft.png]] | [[file:img/alphabet_z.png]] | [[file:img/alphabet_zh.png]] | [[file:img/alphabet_n.png]] | [[file:img/alphabet_ng.png]] | [[file:img/alphabet_w.png]] |
+| [[file:1img/alphabet_b.png]] | [[file:1img/alphabet_g.png]] | [[file:1img/alphabet_j.png]]  | [[file:1img/alphabet_d.png]] | [[file:1img/alphabet_th_soft.png]] | [[file:1img/alphabet_v.png]] | [[file:1img/alphabet_r_hard.png]] | [[file:1img/alphabet_r_soft.png]] | [[file:1img/alphabet_z.png]] | [[file:1img/alphabet_zh.png]] | [[file:1img/alphabet_n.png]] | [[file:1img/alphabet_ng.png]] | [[file:1img/alphabet_w.png]] |
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 2 - Vowels 1
-[[file:img/lesson2.png]]
+[[file:1img/lesson2.png]]
 *** The vowels AH AW OO UH (short)
 |----+---------------------------+--------------------------------------------------------+---------------------+---|
-| AH | [[file:img/ah-short-ipa.png]] | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |   |
+| AH | [[file:1img/ah-short-ipa.png]] | as sounded in /gnat/ is represented by a small circle    | [[file:1img/fig2-1.png]] |   |
 |----+---------------------------+--------------------------------------------------------+---------------------+---|
-| AW | [[file:img/aw-short-ipa.png]] | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |   |
+| AW | [[file:1img/aw-short-ipa.png]] | as sounded in /cod/ is represented by a large circle     | [[file:1img/fig2-2.png]] |   |
 |----+---------------------------+--------------------------------------------------------+---------------------+---|
-| OO | [[file:img/oo-short-ipa.png]] | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |   |
+| OO | [[file:1img/oo-short-ipa.png]] | as sounded in /foot/ is represented by a radiated circle | [[file:1img/fig2-3.png]] |   |
 |----+---------------------------+--------------------------------------------------------+---------------------+---|
-| UH | [[file:img/uh-ipa.png]]       | as sounded in /nut/ is represented by a dot              | [[file:img/fig2-4.png]] |   |
+| UH | [[file:1img/uh-ipa.png]]       | as sounded in /nut/ is represented by a dot              | [[file:1img/fig2-4.png]] |   |
 |----+---------------------------+--------------------------------------------------------+---------------------+---|
 *** The joining of vowels and consonants
 **** In the beginning of words
 
 Join the vowel in such a way that it is either to the *left* or *below*. The reason for this will appear later. We may tabulate this rule thus:
 
-The vowel goes to the left for [[file:img/fig2-5.png]]
+The vowel goes to the left for [[file:1img/fig2-5.png]]
 
-The vowel goes below for [[file:img/fig2-6.png]]
-*Ex*: /ag/ [[file:img/fig2-7.png]], /ar/ [[file:img/fig2-8.png]], /ob/ [[file:img/fig2-9.png]], /om/ [[file:img/fig2-10.png]], /at/ [[file:img/fig2-11.png]], /od/ [[file:img/fig2-12.png]], /as/ [[file:img/fig2-13.png]], /us/ [[file:img/fig2-14.png]], /ath/ [[file:img/fig2-15.png]], /oth/ [[file:img/fig2-16.png]], /ang/ [[file:img/fig2-17.png]], /ur/ [[file:img/fig2-18.png]], /ut/ [[file:img/fig2-19.png]], /up/ [[file:img/fig2-20.png]], /ug/ [[file:img/fig2-21.png]], etc.
+The vowel goes below for [[file:1img/fig2-6.png]]
+*Ex*: /ag/ [[file:1img/fig2-7.png]], /ar/ [[file:1img/fig2-8.png]], /ob/ [[file:1img/fig2-9.png]], /om/ [[file:1img/fig2-10.png]], /at/ [[file:1img/fig2-11.png]], /od/ [[file:1img/fig2-12.png]], /as/ [[file:1img/fig2-13.png]], /us/ [[file:1img/fig2-14.png]], /ath/ [[file:1img/fig2-15.png]], /oth/ [[file:1img/fig2-16.png]], /ang/ [[file:1img/fig2-17.png]], /ur/ [[file:1img/fig2-18.png]], /ut/ [[file:1img/fig2-19.png]], /up/ [[file:1img/fig2-20.png]], /ug/ [[file:1img/fig2-21.png]], etc.
 
 
 **** In the body of words
 
-Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ [[file:img/fig2-22.png]] with a vowel /f-a-d/ [[file:img/fig2-23.png]].
+Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ [[file:1img/fig2-22.png]] with a vowel /f-a-d/ [[file:1img/fig2-23.png]].
 
-*Ex*: /back/ [[file:img/fig2-24.png]], /dock/ [[file:img/fig2-25.png]], /rob/ [[file:img/fig2-26.png]], /top/ [[file:img/fig2-27.png]], /took/ [[file:img/fig2-28.png]], /foot/ [[file:img/fig2-29.png]], /full/ [[file:img/fig2-30.png]], /pull/ [[file:img/fig2-31.png]], /that/ [[file:img/fig2-32.png]], /sad/ [[file:img/fig2-33.png]], /mask/ [[file:img/fig2-34.png]], /cast/ [[file:img/fig2-35.png]], /charge/ [[file:img/fig2-36.png]], /god/ [[file:img/fig2-37.png]], /good/ [[file:img/fig2-38.png]], /block/ [[file:img/fig2-39.png]], /clock/ [[file:img/fig2-40.png]], etc.
+*Ex*: /back/ [[file:1img/fig2-24.png]], /dock/ [[file:1img/fig2-25.png]], /rob/ [[file:1img/fig2-26.png]], /top/ [[file:1img/fig2-27.png]], /took/ [[file:1img/fig2-28.png]], /foot/ [[file:1img/fig2-29.png]], /full/ [[file:1img/fig2-30.png]], /pull/ [[file:1img/fig2-31.png]], /that/ [[file:1img/fig2-32.png]], /sad/ [[file:1img/fig2-33.png]], /mask/ [[file:1img/fig2-34.png]], /cast/ [[file:1img/fig2-35.png]], /charge/ [[file:1img/fig2-36.png]], /god/ [[file:1img/fig2-37.png]], /good/ [[file:1img/fig2-38.png]], /block/ [[file:1img/fig2-39.png]], /clock/ [[file:1img/fig2-40.png]], etc.
 
 #+begin_export LaTeX
 \pagebreak
@@ -171,19 +171,19 @@ Trace the vowel _outside the angle_ formed by two consonants, viz /f-d/ [[file:i
 
 Vowels may be written either above or below, to the right or to the left.
 
-*Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
+*Ex*: /shadow/ [[file:1img/fig2-41.png]], /show/ [[file:1img/fig2-42.png]], /to/ [[file:1img/fig2-43.png]], /body/ [[file:1img/fig2-44.png]], /army/ [[file:1img/fig2-45.png]], /know/ [[file:1img/fig2-46.png]], /blue/ [[file:1img/fig2-47.png]].
 
 *** The vowels AH AW OO O (long)
 |----+--------------------------+------+----------------------|
-| AH | [[file:img/ah-long-ipa.png]] | /arm/  | [[file:img/fig2-53.png]] |
+| AH | [[file:1img/ah-long-ipa.png]] | /arm/  | [[file:1img/fig2-53.png]] |
 |----+--------------------------+------+----------------------|
-| AW | [[file:img/aw-long-ipa.png]] | /all/  | [[file:img/fig2-54.png]] |
+| AW | [[file:1img/aw-long-ipa.png]] | /all/  | [[file:1img/fig2-54.png]] |
 |----+--------------------------+------+----------------------|
-| OO | [[file:img/oo-long-ipa.png]] | /food/ | [[file:img/fig2-55.png]] |
+| OO | [[file:1img/oo-long-ipa.png]] | /food/ | [[file:1img/fig2-55.png]] |
 |----+--------------------------+------+----------------------|
-| O  | [[file:img/o-ipa.png]]       | /code/ | [[file:img/fig2-48.png]] |
+| O  | [[file:1img/o-ipa.png]]       | /code/ | [[file:1img/fig2-48.png]] |
 |----+--------------------------+------+----------------------|
-| UR | [[file:img/ur-ipa.png]]      | /urn/ | [[file:img/fig2-4.png]]  |
+| UR | [[file:1img/ur-ipa.png]]      | /urn/ | [[file:1img/fig2-4.png]]  |
 |----+--------------------------+------+----------------------|
 **** AH AW OO
 
@@ -191,29 +191,29 @@ These are the long sounds of the short vowels *A AW OO*. We write no new sign fo
 
 *N.B.* /The dashes may, in practice, be omitted as the context will usually supply their omission. Such signs are necessary, however, in cases where any uncertainty may arise./
 
-*Ex*: /awl, all/ [[file:img/fig2-56.png]], /bawl/ [[file:img/fig2-57.png]], /dawn/ [[file:img/fig2-58.png]], /walk/ [[file:img/fig2-59.png]], /caught/ [[file:img/fig2-60.png]], /bought/ [[file:img/fig2-61.png]], /lawn/ [[file:img/fig2-62.png]], /fought/ [[file:img/fig2-63.png]], /laugh/ [[file:img/fig2-64.png]], /palm/ [[file:img/fig2-65.png]], /jar/ [[file:img/fig2-66.png]], /art/ [[file:img/fig2-67.png]], /farm/ [[file:img/fig2-68.png]], /star/ [[file:img/fig2-69.png]], /father/ [[file:img/fig2-70.png]], /arm/ [[file:img/fig2-71.png]], /food/ [[file:img/fig2-72.png]], /flute/ [[file:img/fig2-73.png]], /prove/ [[file:img/fig2-74.png]], /fool/ [[file:img/fig2-75.png]], /poor/ [[file:img/fig2-76.png]], /tooth/ [[file:img/fig2-77.png]], /room/ [[file:img/fig2-78.png]], /suit/ [[file:img/fig2-79.png]], /tool/ [[file:img/fig2-80.png]].
+*Ex*: /awl, all/ [[file:1img/fig2-56.png]], /bawl/ [[file:1img/fig2-57.png]], /dawn/ [[file:1img/fig2-58.png]], /walk/ [[file:1img/fig2-59.png]], /caught/ [[file:1img/fig2-60.png]], /bought/ [[file:1img/fig2-61.png]], /lawn/ [[file:1img/fig2-62.png]], /fought/ [[file:1img/fig2-63.png]], /laugh/ [[file:1img/fig2-64.png]], /palm/ [[file:1img/fig2-65.png]], /jar/ [[file:1img/fig2-66.png]], /art/ [[file:1img/fig2-67.png]], /farm/ [[file:1img/fig2-68.png]], /star/ [[file:1img/fig2-69.png]], /father/ [[file:1img/fig2-70.png]], /arm/ [[file:1img/fig2-71.png]], /food/ [[file:1img/fig2-72.png]], /flute/ [[file:1img/fig2-73.png]], /prove/ [[file:1img/fig2-74.png]], /fool/ [[file:1img/fig2-75.png]], /poor/ [[file:1img/fig2-76.png]], /tooth/ [[file:1img/fig2-77.png]], /room/ [[file:1img/fig2-78.png]], /suit/ [[file:1img/fig2-79.png]], /tool/ [[file:1img/fig2-80.png]].
 
 
 **** O
 
-Represented by a large circle with a dot, [[file:img/fig2-48.png]].
+Represented by a large circle with a dot, [[file:1img/fig2-48.png]].
 
-*Ex*: /foal/ [[file:img/fig2-49.png]], /pole/ [[file:img/fig2-50.png]], /soap/ [[file:img/fig2-51.png]], /shoal/ [[file:img/fig2-52.png]], etc.
+*Ex*: /foal/ [[file:1img/fig2-49.png]], /pole/ [[file:1img/fig2-50.png]], /soap/ [[file:1img/fig2-51.png]], /shoal/ [[file:1img/fig2-52.png]], etc.
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 3 - Vowels 2
-[[file:img/lesson3.png]]
+[[file:1img/lesson3.png]]
 *** The vowels EH and EE
 |----+---------------------------+------+---------------------|
-| EH | [[file:img/eh-ipa.png]]       | /net/  | [[file:img/fig3-1.png]] |
+| EH | [[file:1img/eh-ipa.png]]       | /net/  | [[file:1img/fig3-1.png]] |
 |----+---------------------------+------+---------------------|
-| EE | [[file:img/ee-short-ipa.png]] | /knit/ | [[file:img/fig3-2.png]] |
+| EE | [[file:1img/ee-short-ipa.png]] | /knit/ | [[file:1img/fig3-2.png]] |
 |----+---------------------------+------+---------------------|
-The short vowel /EH/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:img/fig3-1.png]].
+The short vowel /EH/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:1img/fig3-1.png]].
 
-For the short vowel /EE/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:img/fig3-2.png]].
+For the short vowel /EE/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:1img/fig3-2.png]].
 
 *** The method of joining these signs to others
 It is important to clearly understand and faithfully follow this rule, viz. /“In joining these signs to others you must _avoid_ in so doing _forming an angle_. From a consonant to a vowel an angle must never be formed. Nor from a vowel to a consonant, when at the beginning of a word.”/
@@ -226,69 +226,69 @@ The following examples will illustrate this rule.
 
 Begin with the little semi-circle and place the consonant-sign that follows, to the right or above, in accordance with the rule enunciated in Lesson 2, 2, a.
 
-*Ex*: /echo/ [[file:img/fig3-3.png]], /ebb/ [[file:img/fig3-4.png]], /elm/ [[file:img/fig3-5.png]], /elbow/ [[file:img/fig3-6.png]], /if/ [[file:img/fig3-7.png]], /it/ [[file:img/fig3-8.png]], /is/ [[file:img/fig3-9.png]], /ill/ [[file:img/fig3-10.png]], /elk/ [[file:img/fig3-11.png]], /elf/ [[file:img/fig3-12.png]], /effort/ [[file:img/fig3-13.png]], /error/ [[file:img/fig3-14.png]], /Italy/ [[file:img/fig3-15.png]], /idiot/ [[file:img/fig3-16.png]], /essay/ [[file:img/fig3-17.png]], /ember/ [[file:img/fig3-18.png]], /else/ [[file:img/fig3-19.png]], /ell/ [[file:img/fig3-20.png]], /egg/ [[file:img/fig3-21.png]], /embark/ [[file:img/fig3-22.png]], /ignore/ [[file:img/fig3-23.png]], /imp/ [[file:img/fig3-24.png]], /etch/ [[file:img/fig3-25.png]], /livery/ [[file:img/fig3-26.png]], /irritable/ [[file:img/fig3-27.png]], /image/ [[file:img/fig3-28.png]], etc.
+*Ex*: /echo/ [[file:1img/fig3-3.png]], /ebb/ [[file:1img/fig3-4.png]], /elm/ [[file:1img/fig3-5.png]], /elbow/ [[file:1img/fig3-6.png]], /if/ [[file:1img/fig3-7.png]], /it/ [[file:1img/fig3-8.png]], /is/ [[file:1img/fig3-9.png]], /ill/ [[file:1img/fig3-10.png]], /elk/ [[file:1img/fig3-11.png]], /elf/ [[file:1img/fig3-12.png]], /effort/ [[file:1img/fig3-13.png]], /error/ [[file:1img/fig3-14.png]], /Italy/ [[file:1img/fig3-15.png]], /idiot/ [[file:1img/fig3-16.png]], /essay/ [[file:1img/fig3-17.png]], /ember/ [[file:1img/fig3-18.png]], /else/ [[file:1img/fig3-19.png]], /ell/ [[file:1img/fig3-20.png]], /egg/ [[file:1img/fig3-21.png]], /embark/ [[file:1img/fig3-22.png]], /ignore/ [[file:1img/fig3-23.png]], /imp/ [[file:1img/fig3-24.png]], /etch/ [[file:1img/fig3-25.png]], /livery/ [[file:1img/fig3-26.png]], /irritable/ [[file:1img/fig3-27.png]], /image/ [[file:1img/fig3-28.png]], etc.
 
-Of the for equivalent signs [[file:img/fig3-29.png]] choose the one that can be used without forming an angle, e.g. in joining ‘e’ to ‘b’ if forms an angle, viz [[file:img/fig3-30.png]]; nor no. 2 [[file:img/fig3-31.png]], or no. 4 [[file:img/fig3-32.png]]; but with no. 3 there is no angle formed: [[file:img/fig3-33.png]].
+Of the for equivalent signs [[file:1img/fig3-29.png]] choose the one that can be used without forming an angle, e.g. in joining ‘e’ to ‘b’ if forms an angle, viz [[file:1img/fig3-30.png]]; nor no. 2 [[file:1img/fig3-31.png]], or no. 4 [[file:1img/fig3-32.png]]; but with no. 3 there is no angle formed: [[file:1img/fig3-33.png]].
 
 
 **** From a consonant to a vowel
 
 Choose the semi-circle that will not form an angle with the consonant-sign.
 
-*Ex*: /bill/ [[file:img/fig3-34.png]], /bell/ [[file:img/fig3-35.png]], /sell/ [[file:img/fig3-36.png]], /sill/ [[file:img/fig3-37.png]], /mill/ [[file:img/fig3-38.png]], /melt/ [[file:img/fig3-39.png]], /effect/ [[file:img/fig3-40.png]], /this/ [[file:img/fig3-41.png]], /else/ [[file:img/fig3-42.png]], /ell/ [[file:img/fig3-43.png]], /elder/ [[file:img/fig3-44.png]], /egg/ [[file:img/fig3-45.png]], /best/ [[file:img/fig3-46.png]], /practice/ [[file:img/fig3-47.png]], /tell/ [[file:img/fig3-48.png]], /till/ [[file:img/fig3-49.png]], /chest/ [[file:img/fig3-50.png]], /dip/ [[file:img/fig3-51.png]], /rip/ [[file:img/fig3-52.png]], /cellar/ [[file:img/fig3-53.png]], /fellow/ [[file:img/fig3-54.png]], /bellow/ [[file:img/fig3-55.png]], /below/ [[file:img/fig3-56.png]], /jest/ [[file:img/fig3-57.png]], /skip/ [[file:img/fig3-58.png]], /whip/ [[file:img/fig3-59.png]], /rest/ [[file:img/fig3-60.png]], /mistress/ [[file:img/fig3-61.png]], /nest/ [[file:img/fig3-62.png]], /get/ [[file:img/fig3-63.png]], /give/ [[file:img/fig3-64.png]], /jet/ [[file:img/fig3-65.png]], /gelid/ [[file:img/fig3-66.png]], /people/ [[file:img/fig3-67.png]].
+*Ex*: /bill/ [[file:1img/fig3-34.png]], /bell/ [[file:1img/fig3-35.png]], /sell/ [[file:1img/fig3-36.png]], /sill/ [[file:1img/fig3-37.png]], /mill/ [[file:1img/fig3-38.png]], /melt/ [[file:1img/fig3-39.png]], /effect/ [[file:1img/fig3-40.png]], /this/ [[file:1img/fig3-41.png]], /else/ [[file:1img/fig3-42.png]], /ell/ [[file:1img/fig3-43.png]], /elder/ [[file:1img/fig3-44.png]], /egg/ [[file:1img/fig3-45.png]], /best/ [[file:1img/fig3-46.png]], /practice/ [[file:1img/fig3-47.png]], /tell/ [[file:1img/fig3-48.png]], /till/ [[file:1img/fig3-49.png]], /chest/ [[file:1img/fig3-50.png]], /dip/ [[file:1img/fig3-51.png]], /rip/ [[file:1img/fig3-52.png]], /cellar/ [[file:1img/fig3-53.png]], /fellow/ [[file:1img/fig3-54.png]], /bellow/ [[file:1img/fig3-55.png]], /below/ [[file:1img/fig3-56.png]], /jest/ [[file:1img/fig3-57.png]], /skip/ [[file:1img/fig3-58.png]], /whip/ [[file:1img/fig3-59.png]], /rest/ [[file:1img/fig3-60.png]], /mistress/ [[file:1img/fig3-61.png]], /nest/ [[file:1img/fig3-62.png]], /get/ [[file:1img/fig3-63.png]], /give/ [[file:1img/fig3-64.png]], /jet/ [[file:1img/fig3-65.png]], /gelid/ [[file:1img/fig3-66.png]], /people/ [[file:1img/fig3-67.png]].
 
 *** The vowels EY and EE
 |----+--------------------------+-------+---|
-| EY | [[file:img/ey-ipa.png]]      | /eight/ |   |
+| EY | [[file:1img/ey-ipa.png]]      | /eight/ |   |
 |----+--------------------------+-------+---|
-| EE | [[file:img/ee-long-ipa.png]] | /deep/  |   |
+| EE | [[file:1img/ee-long-ipa.png]] | /deep/  |   |
 |----+--------------------------+-------+---|
-These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinguished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:img/fig3-68.png]], /EY/ [[file:img/fig3-69.png]].
+These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinguished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:1img/fig3-68.png]], /EY/ [[file:1img/fig3-69.png]].
 
-Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal dash placed above it, e.g. /EE/ [[file:img/fig3-70.png]], /long EE/ [[file:img/fig3-71.png]].
+Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal dash placed above it, e.g. /EE/ [[file:1img/fig3-70.png]], /long EE/ [[file:1img/fig3-71.png]].
 
-*Ex*: /eight/ [[file:img/fig3-72.png]], /late/ [[file:img/fig3-73.png]], /place/ [[file:img/fig3-74.png]], /maid/ [[file:img/fig3-75.png]], /afraid/ [[file:img/fig3-76.png]], /mislaid/ [[file:img/fig3-77.png]], /plate/ [[file:img/fig3-78.png]], /age/ [[file:img/fig3-79.png]], /chamber/ [[file:img/fig3-80.png]], /brief/ [[file:img/fig3-81.png]], /deep/ [[file:img/fig3-82.png]], /steep/ [[file:img/fig3-83.png]], /meat, meet/ [[file:img/fig3-84.png]], /feature/ [[file:img/fig3-85.png]], /leader/ [[file:img/fig3-86.png]], /seem/ [[file:img/fig3-87.png]], /believe/ [[file:img/fig3-88.png]], /green/ [[file:img/fig3-89.png]], /vain/ [[file:img/fig3-90.png]], /air/ [[file:img/fig3-91.png]], /see/ [[file:img/fig3-92.png]], /say/ [[file:img/fig3-93.png]], /thee/ [[file:img/fig3-94.png]].
+*Ex*: /eight/ [[file:1img/fig3-72.png]], /late/ [[file:1img/fig3-73.png]], /place/ [[file:1img/fig3-74.png]], /maid/ [[file:1img/fig3-75.png]], /afraid/ [[file:1img/fig3-76.png]], /mislaid/ [[file:1img/fig3-77.png]], /plate/ [[file:1img/fig3-78.png]], /age/ [[file:1img/fig3-79.png]], /chamber/ [[file:1img/fig3-80.png]], /brief/ [[file:1img/fig3-81.png]], /deep/ [[file:1img/fig3-82.png]], /steep/ [[file:1img/fig3-83.png]], /meat, meet/ [[file:1img/fig3-84.png]], /feature/ [[file:1img/fig3-85.png]], /leader/ [[file:1img/fig3-86.png]], /seem/ [[file:1img/fig3-87.png]], /believe/ [[file:1img/fig3-88.png]], /green/ [[file:1img/fig3-89.png]], /vain/ [[file:1img/fig3-90.png]], /air/ [[file:1img/fig3-91.png]], /see/ [[file:1img/fig3-92.png]], /say/ [[file:1img/fig3-93.png]], /thee/ [[file:1img/fig3-94.png]].
 
 
-*N.B.* The consonant /Y/ is always represented by the small semi-circle but drawn downwards: [[file:img/fig3-95.png]].
+*N.B.* The consonant /Y/ is always represented by the small semi-circle but drawn downwards: [[file:1img/fig3-95.png]].
 
-*Ex*: /year/ [[file:img/fig3-96.png]], /yard/ [[file:img/fig3-97.png]], /yoke/ [[file:img/fig3-98.png]], /Yorkshire/ [[file:img/fig3-99.png]], /yacht/ [[file:img/fig3-100.png]], /young/ [[file:img/fig3-101.png]], /yellow/ [[file:img/fig3-102.png]], /yawn/ [[file:img/fig3-103.png]], /yet/ [[file:img/fig3-104.png]], /yield/ [[file:img/fig3-105.png]], /yearn/ [[file:img/fig3-106.png]], /youth/ [[file:img/fig3-107.png]].
+*Ex*: /year/ [[file:1img/fig3-96.png]], /yard/ [[file:1img/fig3-97.png]], /yoke/ [[file:1img/fig3-98.png]], /Yorkshire/ [[file:1img/fig3-99.png]], /yacht/ [[file:1img/fig3-100.png]], /young/ [[file:1img/fig3-101.png]], /yellow/ [[file:1img/fig3-102.png]], /yawn/ [[file:1img/fig3-103.png]], /yet/ [[file:1img/fig3-104.png]], /yield/ [[file:1img/fig3-105.png]], /yearn/ [[file:1img/fig3-106.png]], /youth/ [[file:1img/fig3-107.png]].
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 4 - Diphthongs
-[[file:img/lesson4.png]]
+[[file:1img/lesson4.png]]
 *** The diphthong AI
-The diphthong /AI/ ([[file:img/ai-ipa-1.png]] [[file:img/ai-ipa-2.png]]) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
+The diphthong /AI/ ([[file:1img/ai-ipa-1.png]] [[file:1img/ai-ipa-2.png]]) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
 
 The rule laid down in Lesson 3-2 is here disregarded and exactly the opposite made use of, i.e. express the diphthong /AI/ by making the semi-circle form an angle.
 
-*Ex*: /tie/ [[file:img/fig4-1.png]], /thigh/ [[file:img/fig4-2.png]], /time/ [[file:img/fig4-3.png]], /mile/ [[file:img/fig4-4.png]], /file/ [[file:img/fig4-5.png]], /fine/ [[file:img/fig4-6.png]], /line/ [[file:img/fig4-7.png]], /like/ [[file:img/fig4-8.png]], /sigh/ [[file:img/fig4-9.png]], /pie/ [[file:img/fig4-10.png]], /right/ [[file:img/fig4-11.png]], /while/ [[file:img/fig4-12.png]], /choir/ [[file:img/fig4-13.png]], /blithe/ [[file:img/fig4-14.png]], /my/ [[file:img/fig4-15.png]].
+*Ex*: /tie/ [[file:1img/fig4-1.png]], /thigh/ [[file:1img/fig4-2.png]], /time/ [[file:1img/fig4-3.png]], /mile/ [[file:1img/fig4-4.png]], /file/ [[file:1img/fig4-5.png]], /fine/ [[file:1img/fig4-6.png]], /line/ [[file:1img/fig4-7.png]], /like/ [[file:1img/fig4-8.png]], /sigh/ [[file:1img/fig4-9.png]], /pie/ [[file:1img/fig4-10.png]], /right/ [[file:1img/fig4-11.png]], /while/ [[file:1img/fig4-12.png]], /choir/ [[file:1img/fig4-13.png]], /blithe/ [[file:1img/fig4-14.png]], /my/ [[file:1img/fig4-15.png]].
 *** The diphthong OW
-The diphthong /OW/ ([[file:img/ow-ipa-1.png]] [[file:img/ow-ipa-2.png]]) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ [[file:img/fig4-16.png]] and /OO/ [[file:img/fig4-17.png]] thus [[file:img/fig4-18.png]].
+The diphthong /OW/ ([[file:1img/ow-ipa-1.png]] [[file:1img/ow-ipa-2.png]]) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ [[file:1img/fig4-16.png]] and /OO/ [[file:1img/fig4-17.png]] thus [[file:1img/fig4-18.png]].
 
 The formation of this sign both at the beginning and end of words, offers no difficulty. When it comes between two consonants the simplest and quickest way of writing it, is to trace it in the same direction as the following sign.
 
-*Ex*: /out/ [[file:img/fig4-19.png]], /hour/ [[file:img/fig4-20.png]], /ounce/ [[file:img/fig4-21.png]], /cow/ [[file:img/fig4-22.png]], /now/ [[file:img/fig4-23.png]], /plough/ [[file:img/fig4-24.png]], /bow/ [[file:img/fig4-25.png]], /about/ [[file:img/fig4-26.png]], /fowl/ [[file:img/fig4-27.png]], /mouse/ [[file:img/fig4-28.png]], /crowd/ [[file:img/fig4-29.png]], /gout/ [[file:img/fig4-30.png]], /growl/ [[file:img/fig4-31.png]], /gown/ [[file:img/fig4-32.png]], /mouth/ [[file:img/fig4-33.png]], /spouse/ [[file:img/fig4-34.png]], /rouse/ [[file:img/fig4-35.png]], /spout/ [[file:img/fig4-36.png]].
+*Ex*: /out/ [[file:1img/fig4-19.png]], /hour/ [[file:1img/fig4-20.png]], /ounce/ [[file:1img/fig4-21.png]], /cow/ [[file:1img/fig4-22.png]], /now/ [[file:1img/fig4-23.png]], /plough/ [[file:1img/fig4-24.png]], /bow/ [[file:1img/fig4-25.png]], /about/ [[file:1img/fig4-26.png]], /fowl/ [[file:1img/fig4-27.png]], /mouse/ [[file:1img/fig4-28.png]], /crowd/ [[file:1img/fig4-29.png]], /gout/ [[file:1img/fig4-30.png]], /growl/ [[file:1img/fig4-31.png]], /gown/ [[file:1img/fig4-32.png]], /mouth/ [[file:1img/fig4-33.png]], /spouse/ [[file:1img/fig4-34.png]], /rouse/ [[file:1img/fig4-35.png]], /spout/ [[file:1img/fig4-36.png]].
 *** The diphthong OI
-This diphthong ([[file:img/oi-ipa-1.png]] [[file:img/oi-ipa-2.png]]) is formed by combining the vowel-signs /OH/ and /EE/, viz. [[file:img/fig4-37.png]] or [[file:img/fig4-38-a.png]] or [[file:img/fig4-38-b.png]].
+This diphthong ([[file:1img/oi-ipa-1.png]] [[file:1img/oi-ipa-2.png]]) is formed by combining the vowel-signs /OH/ and /EE/, viz. [[file:1img/fig4-37.png]] or [[file:1img/fig4-38-a.png]] or [[file:1img/fig4-38-b.png]].
 
-*Ex*: /boil/ [[file:img/fig4-39.png]], /toil/ [[file:img/fig4-40.png]], /joy/ [[file:img/fig4-41.png]], /noise/ [[file:img/fig4-42.png]] or [[file:img/fig4-43.png]], /boy/ [[file:img/fig4-44.png]], /point/ [[file:img/fig4-45.png]], /coin/ [[file:img/fig4-46.png]], /toy/ [[file:img/fig4-47.png]].
+*Ex*: /boil/ [[file:1img/fig4-39.png]], /toil/ [[file:1img/fig4-40.png]], /joy/ [[file:1img/fig4-41.png]], /noise/ [[file:1img/fig4-42.png]] or [[file:1img/fig4-43.png]], /boy/ [[file:1img/fig4-44.png]], /point/ [[file:1img/fig4-45.png]], /coin/ [[file:1img/fig4-46.png]], /toy/ [[file:1img/fig4-47.png]].
 *** The diphthong JU
-The phonetic /U/ ([[file:img/ju-ipa-1.png]] [[file:img/ju-ipa-2.png]]), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: [[file:img/fig4-48.png]]. Avoid an angular union wherever possible.
+The phonetic /U/ ([[file:1img/ju-ipa-1.png]] [[file:1img/ju-ipa-2.png]]), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: [[file:1img/fig4-48.png]]. Avoid an angular union wherever possible.
 
-*Ex*: /use/ [[file:img/fig4-49.png]], /music/ [[file:img/fig4-50.png]], /view/ [[file:img/fig4-51.png]], /knew/ [[file:img/fig4-52.png]], /obscure/ [[file:img/fig4-53.png]], /pure/ [[file:img/fig4-54.png]], /duke/ [[file:img/fig4-55.png]].
+*Ex*: /use/ [[file:1img/fig4-49.png]], /music/ [[file:1img/fig4-50.png]], /view/ [[file:1img/fig4-51.png]], /knew/ [[file:1img/fig4-52.png]], /obscure/ [[file:1img/fig4-53.png]], /pure/ [[file:1img/fig4-54.png]], /duke/ [[file:1img/fig4-55.png]].
 
-*N.B.* The consonant /W/ likewise, represented by [[file:img/fig4-56.png]], is always written *upwards*.
+*N.B.* The consonant /W/ likewise, represented by [[file:1img/fig4-56.png]], is always written *upwards*.
 
-*Ex*: /wish/ [[file:img/fig4-57.png]], /with/ [[file:img/fig4-58.png]], /wig/ [[file:img/fig4-59.png]], /wife/ [[file:img/fig4-60.png]], /we/ [[file:img/fig4-61.png]].
+*Ex*: /wish/ [[file:1img/fig4-57.png]], /with/ [[file:1img/fig4-58.png]], /wig/ [[file:1img/fig4-59.png]], /wife/ [[file:1img/fig4-60.png]], /we/ [[file:1img/fig4-61.png]].
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 5 - Nasals
-[[file:img/lesson5.png]]
+[[file:1img/lesson5.png]]
 
 The sounds /AN ON EN IN UN/ are such as are found in /pan/, /pond/, /pen/, /pin/, and /pun/. They are combinations of the short vowels /a/, /o/, /e/, /i/, and /u/, with the nasal /n/.
 
@@ -296,68 +296,68 @@ If, however, such combinations produce _long sounds_ such as /mane/, /bone/, /gr
 
 The short nasal sounds /an, on, en, in, un/ are of such frequent occurrence that both speed and legibility is gained by expressing them by a short, simple sign.
 
-They are then always represented by anyone of the four quadrants of a small circle, viz. [[file:img/fig5-1.png]]. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
+They are then always represented by anyone of the four quadrants of a small circle, viz. [[file:1img/fig5-1.png]]. The rule laid down in Lesson 3-2 about the method of joining vowels must also be observed here.
 
 In order to distinguish the signs for these various nasal sounds we make use of an acute and grave accent, written either above or below the quadrant.
 
 The following table will illustrate the method of writing them.
-| AN | [[file:img/fig5-2.png]] | with an Acute above. |
-| ON | [[file:img/fig5-3.png]] | with an Acute below. |
-| EN | [[file:img/fig5-4.png]] | without any accent.  |
-| IN | [[file:img/fig5-5.png]] | with a Grave above.  |
-| UN | [[file:img/fig5-6.png]] | with a Grave below.  |
+| AN | [[file:1img/fig5-2.png]] | with an Acute above. |
+| ON | [[file:1img/fig5-3.png]] | with an Acute below. |
+| EN | [[file:1img/fig5-4.png]] | without any accent.  |
+| IN | [[file:1img/fig5-5.png]] | with a Grave above.  |
+| UN | [[file:1img/fig5-6.png]] | with a Grave below.  |
 
-*Ex*: /done/ [[file:img/fig5-7.png]], /son/ [[file:img/fig5-8.png]], /print/ [[file:img/fig5-9.png]], /sent/ [[file:img/fig5-10.png]], /dent/ [[file:img/fig5-11.png]], /grant/ [[file:img/fig5-12.png]], /month/ [[file:img/fig5-13.png]], /money/ [[file:img/fig5-14.png]], /funny/ [[file:img/fig5-15.png]], /tenth/ [[file:img/fig5-16.png]], /thin/ [[file:img/fig5-17.png]], /front/ [[file:img/fig5-18.png]], /channel/ [[file:img/fig5-19.png]], /chance/ [[file:img/fig5-20.png]], /man/ [[file:img/fig5-21.png]], /men/ [[file:img/fig5-22.png]], /until/ [[file:img/fig5-23.png]], /lunch/ [[file:img/fig5-24.png]], /many/ [[file:img/fig5-25.png]], /none/ [[file:img/fig5-26.png]], /sentry/ [[file:img/fig5-27.png]], /sponge/ [[file:img/fig5-28.png]], /woman/ [[file:img/fig5-29.png]], /women/ [[file:img/fig5-30.png]], /land/ [[file:img/fig5-31.png]], /Sunday/ [[file:img/fig5-32.png]], /winter/ [[file:img/fig5-33.png]], /appearance/ [[file:img/fig5-34.png]], /phonography/ [[file:img/fig5-35.png]], /bondage/ [[file:img/fig5-36.png]], /fancy/ [[file:img/fig5-37.png]], /condense/ [[file:img/fig5-38.png]], /pontiff/ [[file:img/fig5-39.png]].
+*Ex*: /done/ [[file:1img/fig5-7.png]], /son/ [[file:1img/fig5-8.png]], /print/ [[file:1img/fig5-9.png]], /sent/ [[file:1img/fig5-10.png]], /dent/ [[file:1img/fig5-11.png]], /grant/ [[file:1img/fig5-12.png]], /month/ [[file:1img/fig5-13.png]], /money/ [[file:1img/fig5-14.png]], /funny/ [[file:1img/fig5-15.png]], /tenth/ [[file:1img/fig5-16.png]], /thin/ [[file:1img/fig5-17.png]], /front/ [[file:1img/fig5-18.png]], /channel/ [[file:1img/fig5-19.png]], /chance/ [[file:1img/fig5-20.png]], /man/ [[file:1img/fig5-21.png]], /men/ [[file:1img/fig5-22.png]], /until/ [[file:1img/fig5-23.png]], /lunch/ [[file:1img/fig5-24.png]], /many/ [[file:1img/fig5-25.png]], /none/ [[file:1img/fig5-26.png]], /sentry/ [[file:1img/fig5-27.png]], /sponge/ [[file:1img/fig5-28.png]], /woman/ [[file:1img/fig5-29.png]], /women/ [[file:1img/fig5-30.png]], /land/ [[file:1img/fig5-31.png]], /Sunday/ [[file:1img/fig5-32.png]], /winter/ [[file:1img/fig5-33.png]], /appearance/ [[file:1img/fig5-34.png]], /phonography/ [[file:1img/fig5-35.png]], /bondage/ [[file:1img/fig5-36.png]], /fancy/ [[file:1img/fig5-37.png]], /condense/ [[file:1img/fig5-38.png]], /pontiff/ [[file:1img/fig5-39.png]].
 
 *N.B.* When the nasal /n/ is preceded by the long vowel sounds /AH/, /AW/, /OO/, /O/, /EY/, /EE/, it must be written out in full.
 
-*Ex*: /moon/ [[file:img/fig5-40.png]], /brain/ [[file:img/fig5-41.png]], /dean/ [[file:img/fig5-42.png]], /pain/ [[file:img/fig5-43.png]], /mean/ [[file:img/fig5-44.png]], /groan/ [[file:img/fig5-45.png]], /stone/ [[file:img/fig5-46.png]], /own/ [[file:img/fig5-47.png]], /stain/ [[file:img/fig5-48.png]], /lawn/ [[file:img/fig5-49.png]], /pawn/ [[file:img/fig5-50.png]], /meanful/ [[file:img/fig5-51.png]], /known/ [[file:img/fig5-52.png]], /soon/ [[file:img/fig5-53.png]], /fawn/ [[file:img/fig5-54.png]], /painter/ [[file:img/fig5-55.png]].
+*Ex*: /moon/ [[file:1img/fig5-40.png]], /brain/ [[file:1img/fig5-41.png]], /dean/ [[file:1img/fig5-42.png]], /pain/ [[file:1img/fig5-43.png]], /mean/ [[file:1img/fig5-44.png]], /groan/ [[file:1img/fig5-45.png]], /stone/ [[file:1img/fig5-46.png]], /own/ [[file:1img/fig5-47.png]], /stain/ [[file:1img/fig5-48.png]], /lawn/ [[file:1img/fig5-49.png]], /pawn/ [[file:1img/fig5-50.png]], /meanful/ [[file:1img/fig5-51.png]], /known/ [[file:1img/fig5-52.png]], /soon/ [[file:1img/fig5-53.png]], /fawn/ [[file:1img/fig5-54.png]], /painter/ [[file:1img/fig5-55.png]].
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 6 - H Aspirate
-[[file:img/lesson6.png]]
+[[file:1img/lesson6.png]]
 *** At the beginning of a word
 Vowel signs, diphthongs, and the short nasal sounds may be joined to a following consonant sign at the beginning of a word in one of two ways, viz. either by being written forwards or backwards (See Lesson 2-2 and 3-1).
 
-They are written forwards for [[file:img/fig6-1.png]].
+They are written forwards for [[file:1img/fig6-1.png]].
 
-They are written backwards for [[file:img/fig6-2.png]].
+They are written backwards for [[file:1img/fig6-2.png]].
 
-Now, to show an aspiration at the beginning of words write the vowel in the opposite way, that is to say, if “at” is written thus [[file:img/fig6-3.png]], then by transposing the vowel in this way [[file:img/fig6-4.png]], the “H” aspirate (“hat”) is indicated. Therefore, trace upwards or forwards for a simple vowel, downwards or backwards for an aspirate.
+Now, to show an aspiration at the beginning of words write the vowel in the opposite way, that is to say, if “at” is written thus [[file:1img/fig6-3.png]], then by transposing the vowel in this way [[file:1img/fig6-4.png]], the “H” aspirate (“hat”) is indicated. Therefore, trace upwards or forwards for a simple vowel, downwards or backwards for an aspirate.
 
-*Ex*: /at/ [[file:img/fig6-5.png]], /hat/ [[file:img/fig6-6.png]], /all/ [[file:img/fig6-7.png]], /hall/ [[file:img/fig6-8.png]], /it/ [[file:img/fig6-9.png]], /hit/ [[file:img/fig6-10.png]], /is/ [[file:img/fig6-11.png]], /his/ [[file:img/fig6-12.png]], /as/ [[file:img/fig6-13.png]], /has/ [[file:img/fig6-14.png]], /air/ [[file:img/fig6-15.png]], /hair/ [[file:img/fig6-16.png]], /and/ [[file:img/fig6-17.png]], /hand/ [[file:img/fig6-18.png]], /ale/ [[file:img/fig6-19.png]], /hale/ [[file:img/fig6-20.png]], /arrow/ [[file:img/fig6-21.png]], /harrow/ [[file:img/fig6-22.png]], /aft/ [[file:img/fig6-23.png]], /haft/ [[file:img/fig6-24.png]], /am/ [[file:img/fig6-25.png]], /ham/ [[file:img/fig6-26.png]], /altar/ [[file:img/fig6-27.png]], /halter/ [[file:img/fig6-28.png]], /ark/ [[file:img/fig6-29.png]], /hark/ [[file:img/fig6-30.png]], /arm/ [[file:img/fig6-31.png]], /harm/ [[file:img/fig6-32.png]], /earl/ [[file:img/fig6-33.png]], /hurl/ [[file:img/fig6-34.png]] or [[file:img/fig6-35.png]] & [[file:img/fig6-36.png]], /art/ [[file:img/fig6-37.png]], /heart/ [[file:img/fig6-38.png]], /eel/ [[file:img/fig6-39.png]], /heel/ [[file:img/fig6-40.png]], /eve/ [[file:img/fig6-41.png]], /heave/ [[file:img/fig6-42.png]], /edge/ [[file:img/fig6-43.png]], /hedge/ [[file:img/fig6-44.png]], /elm/ [[file:img/fig6-45.png]], /helm/ [[file:img/fig6-46.png]], /ire/ [[file:img/fig6-47.png]], /hire/ [[file:img/fig6-48.png]], /old/ [[file:img/fig6-49.png]], /hold/ [[file:img/fig6-50.png]].
+*Ex*: /at/ [[file:1img/fig6-5.png]], /hat/ [[file:1img/fig6-6.png]], /all/ [[file:1img/fig6-7.png]], /hall/ [[file:1img/fig6-8.png]], /it/ [[file:1img/fig6-9.png]], /hit/ [[file:1img/fig6-10.png]], /is/ [[file:1img/fig6-11.png]], /his/ [[file:1img/fig6-12.png]], /as/ [[file:1img/fig6-13.png]], /has/ [[file:1img/fig6-14.png]], /air/ [[file:1img/fig6-15.png]], /hair/ [[file:1img/fig6-16.png]], /and/ [[file:1img/fig6-17.png]], /hand/ [[file:1img/fig6-18.png]], /ale/ [[file:1img/fig6-19.png]], /hale/ [[file:1img/fig6-20.png]], /arrow/ [[file:1img/fig6-21.png]], /harrow/ [[file:1img/fig6-22.png]], /aft/ [[file:1img/fig6-23.png]], /haft/ [[file:1img/fig6-24.png]], /am/ [[file:1img/fig6-25.png]], /ham/ [[file:1img/fig6-26.png]], /altar/ [[file:1img/fig6-27.png]], /halter/ [[file:1img/fig6-28.png]], /ark/ [[file:1img/fig6-29.png]], /hark/ [[file:1img/fig6-30.png]], /arm/ [[file:1img/fig6-31.png]], /harm/ [[file:1img/fig6-32.png]], /earl/ [[file:1img/fig6-33.png]], /hurl/ [[file:1img/fig6-34.png]] or [[file:1img/fig6-35.png]] & [[file:1img/fig6-36.png]], /art/ [[file:1img/fig6-37.png]], /heart/ [[file:1img/fig6-38.png]], /eel/ [[file:1img/fig6-39.png]], /heel/ [[file:1img/fig6-40.png]], /eve/ [[file:1img/fig6-41.png]], /heave/ [[file:1img/fig6-42.png]], /edge/ [[file:1img/fig6-43.png]], /hedge/ [[file:1img/fig6-44.png]], /elm/ [[file:1img/fig6-45.png]], /helm/ [[file:1img/fig6-46.png]], /ire/ [[file:1img/fig6-47.png]], /hire/ [[file:1img/fig6-48.png]], /old/ [[file:1img/fig6-49.png]], /hold/ [[file:1img/fig6-50.png]].
 
 *** In the body of a word
 When “H” aspirate is sounded in the body of a word, if it is a compound word as “overheard”, we may write separately the two words “over” & “heard” and indicate the aspirate in the latter word, in the manner described in no. 1. In order to show that the two signs represent one word they must be written close together.
 
-*Ex*: /tender-hearted/ [[file:img/fig6-51.png]], /overhang/ [[file:img/fig6-52.png]], /warehouse/ [[file:img/fig6-53.png]], /shorthand/ [[file:img/fig6-54.png]], /Stonyhurst/ [[file:img/fig6-55.png]], /loophole/ [[file:img/fig6-56.png]], /underhand/ [[file:img/fig6-57-a.png]], /upheave/ [[file:img/fig6-57-b.png]]
+*Ex*: /tender-hearted/ [[file:1img/fig6-51.png]], /overhang/ [[file:1img/fig6-52.png]], /warehouse/ [[file:1img/fig6-53.png]], /shorthand/ [[file:1img/fig6-54.png]], /Stonyhurst/ [[file:1img/fig6-55.png]], /loophole/ [[file:1img/fig6-56.png]], /underhand/ [[file:1img/fig6-57-a.png]], /upheave/ [[file:1img/fig6-57-b.png]]
 *** Rule for non-compounded words and aspirated vowel-words
 The position of the aspirate in words which are not compounded, e.g. /behalf/ or /enhance/, or in aspirated vowel-words, e.g. /how/ or /who/, is indicated by a short horizontal dash written below the vowel.
 
-*Ex*: /behalf/ [[file:img/fig6-58.png]], /behind/ [[file:img/fig6-59.png]], /enhance/ [[file:img/fig6-60.png]], /who/ [[file:img/fig6-61.png]], /high/ [[file:img/fig6-62.png]], /how/ [[file:img/fig6-63.png]], /apprehension/ [[file:img/fig6-64.png]].
+*Ex*: /behalf/ [[file:1img/fig6-58.png]], /behind/ [[file:1img/fig6-59.png]], /enhance/ [[file:1img/fig6-60.png]], /who/ [[file:1img/fig6-61.png]], /high/ [[file:1img/fig6-62.png]], /how/ [[file:1img/fig6-63.png]], /apprehension/ [[file:1img/fig6-64.png]].
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** Lesson 7 - More on nasals
-[[file:img/lesson7.png]]
+[[file:1img/lesson7.png]]
 *** Nasal followed by G
 When the short nasal sounds are followed by “G” the pronunciation of the syllables will not be /an + g/, /on + g/, etc., but /a + ng/, /o + ng/, etc. Add therefore the short vowel sign to the consonant sign /ng/.
 
-*Ex*: /song/ [[file:img/fig7-1.png]], /single/ [[file:img/fig7-2.png]], /angle/ [[file:img/fig7-3.png]], /lasting/ [[file:img/fig7-4.png]], /bring/ [[file:img/fig7-5.png]], /flung/ [[file:img/fig7-6.png]], /bangle/ [[file:img/fig7-7.png]], /sing/ [[file:img/fig7-8.png]], /wrangle/ [[file:img/fig7-9.png]], /long/ [[file:img/fig7-10.png]], /thing/ [[file:img/fig7-11.png]].
+*Ex*: /song/ [[file:1img/fig7-1.png]], /single/ [[file:1img/fig7-2.png]], /angle/ [[file:1img/fig7-3.png]], /lasting/ [[file:1img/fig7-4.png]], /bring/ [[file:1img/fig7-5.png]], /flung/ [[file:1img/fig7-6.png]], /bangle/ [[file:1img/fig7-7.png]], /sing/ [[file:1img/fig7-8.png]], /wrangle/ [[file:1img/fig7-9.png]], /long/ [[file:1img/fig7-10.png]], /thing/ [[file:1img/fig7-11.png]].
 *** NK
-The sound “NK” is made up of /ng/ + /k/ : [[file:img/fig7-12.png]] + [[file:img/fig7-13.png]] and is stenographically expressed by adding the “K” sign to “ng”: [[file:img/fig7-14.png]].
+The sound “NK” is made up of /ng/ + /k/ : [[file:1img/fig7-12.png]] + [[file:1img/fig7-13.png]] and is stenographically expressed by adding the “K” sign to “ng”: [[file:1img/fig7-14.png]].
 
-*Ex*: /bank/ [[file:img/fig7-15.png]], /sank/ [[file:img/fig7-16.png]], /brink/ [[file:img/fig7-17.png]], /ink/ [[file:img/fig7-18.png]], /wrinkle/ [[file:img/fig7-19.png]], /link/ [[file:img/fig7-20.png]], /wink/ [[file:img/fig7-21.png]], /sink/ [[file:img/fig7-22.png]].
+*Ex*: /bank/ [[file:1img/fig7-15.png]], /sank/ [[file:1img/fig7-16.png]], /brink/ [[file:1img/fig7-17.png]], /ink/ [[file:1img/fig7-18.png]], /wrinkle/ [[file:1img/fig7-19.png]], /link/ [[file:1img/fig7-20.png]], /wink/ [[file:1img/fig7-21.png]], /sink/ [[file:1img/fig7-22.png]].
 
 *N.B.* Although it is phonetically incorrect to express the sounds /ank/, /ink/, etc. by adding the “K” sign to the short nasal sign still it may be used as an abbreviated form of the sounds.
 
-*Ex*: /bank/ [[file:img/fig7-23.png]], /sank/ [[file:img/fig7-24.png]], /brink/ [[file:img/fig7-25-a.png]], /ink/ [[file:img/fig7-25-b.png]], /wrinkle/ [[file:img/fig7-26.png]], /link/ [[file:img/fig7-27.png]], /wink/ [[file:img/fig7-28.png]], /sink/ [[file:img/fig7-29.png]].
+*Ex*: /bank/ [[file:1img/fig7-23.png]], /sank/ [[file:1img/fig7-24.png]], /brink/ [[file:1img/fig7-25-a.png]], /ink/ [[file:1img/fig7-25-b.png]], /wrinkle/ [[file:1img/fig7-26.png]], /link/ [[file:1img/fig7-27.png]], /wink/ [[file:1img/fig7-28.png]], /sink/ [[file:1img/fig7-29.png]].
 *** Single vowels or nasal sounds
 Words expressed by single vowel or nasal sounds are always represented by the sign appropriate to each in the synoptical vowel table.
 
-*Ex*: /I, eye/ [[file:img/fig7-30.png]], /high/ [[file:img/fig7-31.png]], /he/ [[file:img/fig7-32.png]], /eh/ [[file:img/fig7-33.png]], /an/ [[file:img/fig7-34.png]], /on/ [[file:img/fig7-35.png]], /in/ [[file:img/fig7-36.png]], /hen/ [[file:img/fig7-37.png]], /you/ [[file:img/fig7-38.png]], /hew/ [[file:img/fig7-39.png]].
+*Ex*: /I, eye/ [[file:1img/fig7-30.png]], /high/ [[file:1img/fig7-31.png]], /he/ [[file:1img/fig7-32.png]], /eh/ [[file:1img/fig7-33.png]], /an/ [[file:1img/fig7-34.png]], /on/ [[file:1img/fig7-35.png]], /in/ [[file:1img/fig7-36.png]], /hen/ [[file:1img/fig7-37.png]], /you/ [[file:1img/fig7-38.png]], /hew/ [[file:1img/fig7-39.png]].
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -367,187 +367,187 @@ By means of the system explained in this elementary course, every word in the En
 \pagebreak
 #+end_export
 ** Summary of Brandt’s Duployan Shorthand
-[[file:img/duployan-shorthand.png]]
+[[file:1img/duployan-shorthand.png]]
 
 *Vowels*
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
 | Short |    |                           |      |                                |   | Long |                          |                    |                                |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | AH | [[file:img/ah-short-ipa.png]] | /fat/  | [[file:img/alphabet_ah_short.png]] |   | AH   | [[file:img/ah-long-ipa.png]] | /father/             | [[file:img/alphabet_ah_long.png]]  |                              |   |   |
+|       | AH | [[file:1img/ah-short-ipa.png]] | /fat/  | [[file:1img/alphabet_ah_short.png]] |   | AH   | [[file:1img/ah-long-ipa.png]] | /father/             | [[file:1img/alphabet_ah_long.png]]  |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | AW | [[file:img/aw-short-ipa.png]] | /not/  | [[file:img/alphabet_aw_short.png]] |   | AW   | [[file:img/aw-long-ipa.png]] | /naught/             | [[file:img/alphabet_aw_long.png]]  |                              |   |   |
+|       | AW | [[file:1img/aw-short-ipa.png]] | /not/  | [[file:1img/alphabet_aw_short.png]] |   | AW   | [[file:1img/aw-long-ipa.png]] | /naught/             | [[file:1img/alphabet_aw_long.png]]  |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       |    |                           |      |                                |   |      | O                        | [[file:img/o-ipa.png]] | /note/                           | [[file:img/alphabet_o_long.png]] |   |   |
+|       |    |                           |      |                                |   |      | O                        | [[file:1img/o-ipa.png]] | /note/                           | [[file:1img/alphabet_o_long.png]] |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | OO | [[file:img/oo-short-ipa.png]] | /foot/ | [[file:img/alphabet_oo_short.png]] |   | OO   | [[file:img/oo-long-ipa.png]] | /food/               | [[file:img/alphabet_oo_long.png]]  |                              |   |   |
+|       | OO | [[file:1img/oo-short-ipa.png]] | /foot/ | [[file:1img/alphabet_oo_short.png]] |   | OO   | [[file:1img/oo-long-ipa.png]] | /food/               | [[file:1img/alphabet_oo_long.png]]  |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | UH | [[file:img/uh-ipa.png]]       | /nut/  | [[file:img/alphabet_uh_short.png]] |   | UR   | [[file:img/ur-ipa.png]]      | /urn/                | [[file:img/alphabet_uh_short.png]] |                              |   |   |
+|       | UH | [[file:1img/uh-ipa.png]]       | /nut/  | [[file:1img/alphabet_uh_short.png]] |   | UR   | [[file:1img/ur-ipa.png]]      | /urn/                | [[file:1img/alphabet_uh_short.png]] |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | EH | [[file:img/eh-ipa.png]]       | /net/  | [[file:img/alphabet_eh_short.png]] |   | EY   | [[file:img/ey-ipa.png]]      | /nail/               | [[file:img/alphabet_eh_long.png]]  |                              |   |   |
+|       | EH | [[file:1img/eh-ipa.png]]       | /net/  | [[file:1img/alphabet_eh_short.png]] |   | EY   | [[file:1img/ey-ipa.png]]      | /nail/               | [[file:1img/alphabet_eh_long.png]]  |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
-|       | EE | [[file:img/ee-short-ipa.png]] | /knit/ | [[file:img/alphabet_i_short.png]]  |   | EE   | [[file:img/ee-long-ipa.png]] | /kneel/              | [[file:img/alphabet_ee_long.png]]  |                              |   |   |
+|       | EE | [[file:1img/ee-short-ipa.png]] | /knit/ | [[file:1img/alphabet_i_short.png]]  |   | EE   | [[file:1img/ee-long-ipa.png]] | /kneel/              | [[file:1img/alphabet_ee_long.png]]  |                              |   |   |
 |-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
 *Diphthongs*
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 | AI                           | OW                            | OI                            | JU                           |
-| [[file:img/alphabet_i_diph.png]] | [[file:img/alphabet_ow_diph.png]] | [[file:img/alphabet_oi_diph.png]] | [[file:img/alphabet_u_diph.png]] |
-| [[file:img/ai-ipa-1.png]]        | [[file:img/ow-ipa-1.png]]         | [[file:img/oi-ipa-1.png]]         | [[file:img/ju-ipa-1.png]]        |
-| [[file:img/ai-ipa-2.png]]        | [[file:img/ow-ipa-2.png]]         | [[file:img/oi-ipa-2.png]]         | [[file:img/ju-ipa-2.png]]        |
+| [[file:1img/alphabet_i_diph.png]] | [[file:1img/alphabet_ow_diph.png]] | [[file:1img/alphabet_oi_diph.png]] | [[file:1img/alphabet_u_diph.png]] |
+| [[file:1img/ai-ipa-1.png]]        | [[file:1img/ow-ipa-1.png]]         | [[file:1img/oi-ipa-1.png]]         | [[file:1img/ju-ipa-1.png]]        |
+| [[file:1img/ai-ipa-2.png]]        | [[file:1img/ow-ipa-2.png]]         | [[file:1img/oi-ipa-2.png]]         | [[file:1img/ju-ipa-2.png]]        |
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 *Nasals*
 |--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
 | AN                       | ON                       | EN                       | IN                       | UN                       |
-| [[file:img/alphabet_an.png]] | [[file:img/alphabet_on.png]] | [[file:img/alphabet_en.png]] | [[file:img/alphabet_in.png]] | [[file:img/alphabet_un.png]] |
+| [[file:1img/alphabet_an.png]] | [[file:1img/alphabet_on.png]] | [[file:1img/alphabet_en.png]] | [[file:1img/alphabet_in.png]] | [[file:1img/alphabet_un.png]] |
 |--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
 *Consonants*
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | P                       | K                       | CH                       | T                       | TH                            | F                       | L                            |                              | S                       | SH                       | M                       |                          | W                       |
-| [[file:img/alphabet_p.png]] | [[file:img/alphabet_k.png]] | [[file:img/alphabet_ch.png]] | [[file:img/alphabet_t.png]] | [[file:img/alphabet_th_hard.png]] | [[file:img/alphabet_f.png]] | [[file:img/alphabet_l.png]]      |                              | [[file:img/alphabet_s.png]] | [[file:img/alphabet_sh.png]] | [[file:img/alphabet_m.png]] |                          | [[file:img/alphabet_w.png]] |
+| [[file:1img/alphabet_p.png]] | [[file:1img/alphabet_k.png]] | [[file:1img/alphabet_ch.png]] | [[file:1img/alphabet_t.png]] | [[file:1img/alphabet_th_hard.png]] | [[file:1img/alphabet_f.png]] | [[file:1img/alphabet_l.png]]      |                              | [[file:1img/alphabet_s.png]] | [[file:1img/alphabet_sh.png]] | [[file:1img/alphabet_m.png]] |                          | [[file:1img/alphabet_w.png]] |
 |                         |                         |                          |                         |                               |                         |                              |                              |                         |                          |                         |                          |                         |
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 | B                       | G                       | J                        | D                       | TH                            | V                       | R                            | R                            | Z                       | ZH                       | N                       | NG                       | Y                       |
-| [[file:img/alphabet_b.png]] | [[file:img/alphabet_g.png]] | [[file:img/alphabet_j.png]]  | [[file:img/alphabet_d.png]] | [[file:img/alphabet_th_soft.png]] | [[file:img/alphabet_v.png]] | [[file:img/alphabet_r_hard.png]] | [[file:img/alphabet_r_soft.png]] | [[file:img/alphabet_z.png]] | [[file:img/alphabet_zh.png]] | [[file:img/alphabet_n.png]] | [[file:img/alphabet_ng.png]] | [[file:img/alphabet_y.png]] |
+| [[file:1img/alphabet_b.png]] | [[file:1img/alphabet_g.png]] | [[file:1img/alphabet_j.png]]  | [[file:1img/alphabet_d.png]] | [[file:1img/alphabet_th_soft.png]] | [[file:1img/alphabet_v.png]] | [[file:1img/alphabet_r_hard.png]] | [[file:1img/alphabet_r_soft.png]] | [[file:1img/alphabet_z.png]] | [[file:1img/alphabet_zh.png]] | [[file:1img/alphabet_n.png]] | [[file:1img/alphabet_ng.png]] | [[file:1img/alphabet_y.png]] |
 |-------------------------+-------------------------+--------------------------+-------------------------+-------------------------------+-------------------------+------------------------------+------------------------------+-------------------------+--------------------------+-------------------------+--------------------------+-------------------------|
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** A Psalm of Life
-| [[file:img/psalm-1.png]]  | [[file:img/psalm-2.png]]  | [[file:img/psalm-3.png]]  | [[file:img/psalm-4.png]]  | [[file:img/psalm-5.png]]  |                       |                       |            |
-| [[file:img/psalm-6.png]]  | [[file:img/psalm-7.png]]  | [[file:img/psalm-8.png]]  | [[file:img/psalm-9.png]]  |                       |                       |                       |            |
+| [[file:1img/psalm-1.png]]  | [[file:1img/psalm-2.png]]  | [[file:1img/psalm-3.png]]  | [[file:1img/psalm-4.png]]  | [[file:1img/psalm-5.png]]  |                       |                       |            |
+| [[file:1img/psalm-6.png]]  | [[file:1img/psalm-7.png]]  | [[file:1img/psalm-8.png]]  | [[file:1img/psalm-9.png]]  |                       |                       |                       |            |
 |                       |                       |                       |                       |                       |                       |                       |            |
 | Tell                  | me                    | not                   | in                    | mournful              | numbers,              |                       |            |
-| [[file:img/psalm-10.png]] | [[file:img/psalm-11.png]] | [[file:img/psalm-12.png]] | [[file:img/psalm-13.png]] | [[file:img/psalm-14.png]] | [[file:img/psalm-15.png]] |                       |            |
+| [[file:1img/psalm-10.png]] | [[file:1img/psalm-11.png]] | [[file:1img/psalm-12.png]] | [[file:1img/psalm-13.png]] | [[file:1img/psalm-14.png]] | [[file:1img/psalm-15.png]] |                       |            |
 | “Life                 | is                    | but                   | an                    | empty                 | dream!”               |                       |            |
-| [[file:img/psalm-16.png]] | [[file:img/psalm-17.png]] | [[file:img/psalm-18.png]] | [[file:img/psalm-19.png]] | [[file:img/psalm-20.png]] | [[file:img/psalm-21.png]] |                       |            |
+| [[file:1img/psalm-16.png]] | [[file:1img/psalm-17.png]] | [[file:1img/psalm-18.png]] | [[file:1img/psalm-19.png]] | [[file:1img/psalm-20.png]] | [[file:1img/psalm-21.png]] |                       |            |
 | For                   | the                   | soul                  | is                    | dead                  | that                  | slumbers,             |            |
-| [[file:img/psalm-22.png]] | [[file:img/psalm-23.png]] | [[file:img/psalm-24.png]] | [[file:img/psalm-25.png]] | [[file:img/psalm-26.png]] | [[file:img/psalm-27.png]] | [[file:img/psalm-28.png]] |            |
+| [[file:1img/psalm-22.png]] | [[file:1img/psalm-23.png]] | [[file:1img/psalm-24.png]] | [[file:1img/psalm-25.png]] | [[file:1img/psalm-26.png]] | [[file:1img/psalm-27.png]] | [[file:1img/psalm-28.png]] |            |
 | and                   | things                | are                   | not                   | what                  | they                  | seem.                 |            |
-| [[file:img/psalm-29.png]] | [[file:img/psalm-30.png]] | [[file:img/psalm-31.png]] | [[file:img/psalm-32.png]] | [[file:img/psalm-33.png]] | [[file:img/psalm-34.png]] | [[file:img/psalm-35.png]] |            |
+| [[file:1img/psalm-29.png]] | [[file:1img/psalm-30.png]] | [[file:1img/psalm-31.png]] | [[file:1img/psalm-32.png]] | [[file:1img/psalm-33.png]] | [[file:1img/psalm-34.png]] | [[file:1img/psalm-35.png]] |            |
 | Life                  | is                    | real                  | life                  | is                    | earnest               |                       |            |
-| [[file:img/psalm-36.png]]                     | [[file:img/psalm-37.png]]                     | [[file:img/psalm-38.png]]                     | [[file:img/psalm-39.png]]                     | [[file:img/psalm-40.png]]                     | [[file:img/psalm-41.png]]                     |                       |            |
+| [[file:1img/psalm-36.png]]                     | [[file:1img/psalm-37.png]]                     | [[file:1img/psalm-38.png]]                     | [[file:1img/psalm-39.png]]                     | [[file:1img/psalm-40.png]]                     | [[file:1img/psalm-41.png]]                     |                       |            |
 | and                   | the                   | grave                 | is                    | not                   | its                   | goal:                 |            |
-| [[file:img/psalm-42.png]]                     | [[file:img/psalm-43.png]]                     | [[file:img/psalm-44.png]]                     | [[file:img/psalm-45.png]]                     | [[file:img/psalm-46.png]]                     | [[file:img/psalm-47.png]]                     | [[file:img/psalm-48.png]]                     |            |
+| [[file:1img/psalm-42.png]]                     | [[file:1img/psalm-43.png]]                     | [[file:1img/psalm-44.png]]                     | [[file:1img/psalm-45.png]]                     | [[file:1img/psalm-46.png]]                     | [[file:1img/psalm-47.png]]                     | [[file:1img/psalm-48.png]]                     |            |
 | “Dust                 | thou                  | art                   | to                    | dust                  | returnest”            |                       |            |
-| [[file:img/psalm-49.png]]                     | [[file:img/psalm-50.png]]                     | [[file:img/psalm-51.png]]                     | [[file:img/psalm-52.png]]                     | [[file:img/psalm-53.png]]                     | [[file:img/psalm-54.png]]                     |                       |            |
+| [[file:1img/psalm-49.png]]                     | [[file:1img/psalm-50.png]]                     | [[file:1img/psalm-51.png]]                     | [[file:1img/psalm-52.png]]                     | [[file:1img/psalm-53.png]]                     | [[file:1img/psalm-54.png]]                     |                       |            |
 | was                   | not                   | spoken                | of                    | the                   | soul                  |                       |            |
-| [[file:img/psalm-55.png]]                     | [[file:img/psalm-56.png]]                     | [[file:img/psalm-57.png]]                     | [[file:img/psalm-58.png]]                     | [[file:img/psalm-59.png]]                     | [[file:img/psalm-60.png]]                     |                       |            |
+| [[file:1img/psalm-55.png]]                     | [[file:1img/psalm-56.png]]                     | [[file:1img/psalm-57.png]]                     | [[file:1img/psalm-58.png]]                     | [[file:1img/psalm-59.png]]                     | [[file:1img/psalm-60.png]]                     |                       |            |
 | Not                   | enjoyment             | and                   | not                   | sorrow,               |                       |                       |            |
-| [[file:img/psalm-61.png]]                     | [[file:img/psalm-62.png]]                     | [[file:img/psalm-63.png]]                     | [[file:img/psalm-64.png]]                     | [[file:img/psalm-65.png]]                     |                       |                       |            |
+| [[file:1img/psalm-61.png]]                     | [[file:1img/psalm-62.png]]                     | [[file:1img/psalm-63.png]]                     | [[file:1img/psalm-64.png]]                     | [[file:1img/psalm-65.png]]                     |                       |                       |            |
 | is                    | our                   | destined              | end                   | or                    | way                   |                       |            |
-| [[file:img/psalm-66.png]]                     | [[file:img/psalm-67.png]]                     | [[file:img/psalm-68.png]]                     | [[file:img/psalm-69.png]]                     | [[file:img/psalm-70.png]]                     | [[file:img/psalm-71.png]]                     |                       |            |
+| [[file:1img/psalm-66.png]]                     | [[file:1img/psalm-67.png]]                     | [[file:1img/psalm-68.png]]                     | [[file:1img/psalm-69.png]]                     | [[file:1img/psalm-70.png]]                     | [[file:1img/psalm-71.png]]                     |                       |            |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 | But                   | to                    | act,                  | that                  | each                  | to-morrow             |                       |            |
-| [[file:img/psalm-72.png]]                     | [[file:img/psalm-73.png]]                     | [[file:img/psalm-74.png]]                     | [[file:img/psalm-75.png]]                     | [[file:img/psalm-76.png]]                     | [[file:img/psalm-77.png]]                     |                       |            |
+| [[file:1img/psalm-72.png]]                     | [[file:1img/psalm-73.png]]                     | [[file:1img/psalm-74.png]]                     | [[file:1img/psalm-75.png]]                     | [[file:1img/psalm-76.png]]                     | [[file:1img/psalm-77.png]]                     |                       |            |
 | finds                 | us                    | further               | than                  | to-day.               |                       |                       |            |
-| [[file:img/psalm-78.png]]                     | [[file:img/psalm-79.png]]                     | [[file:img/psalm-80.png]]                     | [[file:img/psalm-81.png]]                     | [[file:img/psalm-82.png]]                     |                       |                       |            |
+| [[file:1img/psalm-78.png]]                     | [[file:1img/psalm-79.png]]                     | [[file:1img/psalm-80.png]]                     | [[file:1img/psalm-81.png]]                     | [[file:1img/psalm-82.png]]                     |                       |                       |            |
 | Art                   | is                    | long                  | and                   | time                  | is                    | fleeting              |            |
-| [[file:img/psalm-83.png]]                     | [[file:img/psalm-84.png]]                     | [[file:img/psalm-85.png]]                     | [[file:img/psalm-86.png]]                     | [[file:img/psalm-87.png]]                     | [[file:img/psalm-88.png]]                     | [[file:img/psalm-89.png]]                     |            |
+| [[file:1img/psalm-83.png]]                     | [[file:1img/psalm-84.png]]                     | [[file:1img/psalm-85.png]]                     | [[file:1img/psalm-86.png]]                     | [[file:1img/psalm-87.png]]                     | [[file:1img/psalm-88.png]]                     | [[file:1img/psalm-89.png]]                     |            |
 | and                   | our                   | hearts                | though                | stout                 | and                   | brave,                |            |
-| [[file:img/psalm-90.png]]                     | [[file:img/psalm-91.png]]                     | [[file:img/psalm-92.png]]                     | [[file:img/psalm-93.png]]                     | [[file:img/psalm-94.png]]                     | [[file:img/psalm-95.png]]                     | [[file:img/psalm-96.png]]                     |            |
+| [[file:1img/psalm-90.png]]                     | [[file:1img/psalm-91.png]]                     | [[file:1img/psalm-92.png]]                     | [[file:1img/psalm-93.png]]                     | [[file:1img/psalm-94.png]]                     | [[file:1img/psalm-95.png]]                     | [[file:1img/psalm-96.png]]                     |            |
 | Still,                | like                  | muffled               | drums                 | are                   | beating               |                       |            |
-| [[file:img/psalm-97.png]]                     | [[file:img/psalm-98.png]]                     | [[file:img/psalm-99.png]]                     | [[file:img/psalm-100.png]]                     | [[file:img/psalm-101.png]]                     | [[file:img/psalm-102.png]]                     |                       |            |
+| [[file:1img/psalm-97.png]]                     | [[file:1img/psalm-98.png]]                     | [[file:1img/psalm-99.png]]                     | [[file:1img/psalm-100.png]]                     | [[file:1img/psalm-101.png]]                     | [[file:1img/psalm-102.png]]                     |                       |            |
 | funeral               | marches               | to                    | the                   | grave                 |                       |                       |            |
-| [[file:img/psalm-103.png]]                     | [[file:img/psalm-104.png]]                     | [[file:img/psalm-105.png]]                     | [[file:img/psalm-106.png]]                     | [[file:img/psalm-107.png]]                     |                       |                       |            |
+| [[file:1img/psalm-103.png]]                     | [[file:1img/psalm-104.png]]                     | [[file:1img/psalm-105.png]]                     | [[file:1img/psalm-106.png]]                     | [[file:1img/psalm-107.png]]                     |                       |                       |            |
 | In                    | the                   | world’s               | broad                 | field                 | of                    | battle                |            |
-| [[file:img/psalm-108.png]]                     | [[file:img/psalm-109.png]]                     | [[file:img/psalm-110.png]]                     | [[file:img/psalm-111.png]]                     | [[file:img/psalm-112.png]]                     | [[file:img/psalm-113.png]]                     | [[file:img/psalm-114.png]]                     |            |
+| [[file:1img/psalm-108.png]]                     | [[file:1img/psalm-109.png]]                     | [[file:1img/psalm-110.png]]                     | [[file:1img/psalm-111.png]]                     | [[file:1img/psalm-112.png]]                     | [[file:1img/psalm-113.png]]                     | [[file:1img/psalm-114.png]]                     |            |
 | in                    | the                   | bivouac               | of                    | life,                 |                       |                       |            |
-| [[file:img/psalm-115.png]]                     | [[file:img/psalm-116.png]]                     | [[file:img/psalm-117.png]]                     | [[file:img/psalm-118.png]]                     | [[file:img/psalm-119.png]]                     |                       |                       |            |
+| [[file:1img/psalm-115.png]]                     | [[file:1img/psalm-116.png]]                     | [[file:1img/psalm-117.png]]                     | [[file:1img/psalm-118.png]]                     | [[file:1img/psalm-119.png]]                     |                       |                       |            |
 | Be                    | not                   | like                  | dumb,                 | driven                | cattle                |                       |            |
-| [[file:img/psalm-120.png]]                     | [[file:img/psalm-121.png]]                     | [[file:img/psalm-122.png]]                     | [[file:img/psalm-123.png]]                     | [[file:img/psalm-124.png]]                     | [[file:img/psalm-125.png]]                     |                       |            |
+| [[file:1img/psalm-120.png]]                     | [[file:1img/psalm-121.png]]                     | [[file:1img/psalm-122.png]]                     | [[file:1img/psalm-123.png]]                     | [[file:1img/psalm-124.png]]                     | [[file:1img/psalm-125.png]]                     |                       |            |
 | be                    | a                     | hero                  | in                    | the                   | strife!               |                       |            |
-| [[file:img/psalm-126.png]]                     | [[file:img/psalm-127.png]]                     | [[file:img/psalm-128.png]]                     | [[file:img/psalm-129.png]]                     | [[file:img/psalm-130.png]]                     | [[file:img/psalm-131.png]]                     |                       |            |
+| [[file:1img/psalm-126.png]]                     | [[file:1img/psalm-127.png]]                     | [[file:1img/psalm-128.png]]                     | [[file:1img/psalm-129.png]]                     | [[file:1img/psalm-130.png]]                     | [[file:1img/psalm-131.png]]                     |                       |            |
 | Trust                 | no                    | future,               | howe’er               | pleasant!             |                       |                       |            |
-| [[file:img/psalm-132.png]]                     | [[file:img/psalm-133.png]]                     | [[file:img/psalm-134.png]]                     | [[file:img/psalm-135.png]]                     | [[file:img/psalm-136.png]]                     |                       |                       |            |
+| [[file:1img/psalm-132.png]]                     | [[file:1img/psalm-133.png]]                     | [[file:1img/psalm-134.png]]                     | [[file:1img/psalm-135.png]]                     | [[file:1img/psalm-136.png]]                     |                       |                       |            |
 | let                   | the                   | dead                  | past                  | bury                  | its                   | dead                  |            |
-| [[file:img/psalm-137.png]]                     | [[file:img/psalm-138.png]]                     | [[file:img/psalm-139.png]]                     | [[file:img/psalm-140.png]]                     | [[file:img/psalm-141.png]]                     | [[file:img/psalm-142.png]]                     | [[file:img/psalm-143.png]]                     |            |
+| [[file:1img/psalm-137.png]]                     | [[file:1img/psalm-138.png]]                     | [[file:1img/psalm-139.png]]                     | [[file:1img/psalm-140.png]]                     | [[file:1img/psalm-141.png]]                     | [[file:1img/psalm-142.png]]                     | [[file:1img/psalm-143.png]]                     |            |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 | Act - act                                       | in                     | the                    | living                 | present!               |                        |                        |            |
-| [[file:img/psalm-144.png]] - [[file:img/psalm-144.png]] | [[file:img/psalm-145.png]] | [[file:img/psalm-146.png]] | [[file:img/psalm-147.png]] | [[file:img/psalm-148.png]] |                        |                        |            |
+| [[file:1img/psalm-144.png]] - [[file:1img/psalm-144.png]] | [[file:1img/psalm-145.png]] | [[file:1img/psalm-146.png]] | [[file:1img/psalm-147.png]] | [[file:1img/psalm-148.png]] |                        |                        |            |
 | heart                                           | within                 | and                    | God                    | o’er                   | head!                  |                        |            |
-| [[file:img/psalm-149.png]]                          | [[file:img/psalm-150.png]] | [[file:img/psalm-151.png]] | [[file:img/psalm-152.png]] | [[file:img/psalm-153.png]] | [[file:img/psalm-154.png]] |                        |            |
+| [[file:1img/psalm-149.png]]                          | [[file:1img/psalm-150.png]] | [[file:1img/psalm-151.png]] | [[file:1img/psalm-152.png]] | [[file:1img/psalm-153.png]] | [[file:1img/psalm-154.png]] |                        |            |
 | Lives                                           | of                     | great                  | men                    | all                    | remind                 | us                     |            |
-| [[file:img/psalm-155.png]]                          | [[file:img/psalm-156.png]] | [[file:img/psalm-157.png]] | [[file:img/psalm-158.png]] | [[file:img/psalm-159.png]] | [[file:img/psalm-160.png]] | [[file:img/psalm-161.png]] |            |
+| [[file:1img/psalm-155.png]]                          | [[file:1img/psalm-156.png]] | [[file:1img/psalm-157.png]] | [[file:1img/psalm-158.png]] | [[file:1img/psalm-159.png]] | [[file:1img/psalm-160.png]] | [[file:1img/psalm-161.png]] |            |
 | we                                              | can                    | make                   | our                    | lives                  | sublime;               |                        |            |
-| [[file:img/psalm-162.png]]                          | [[file:img/psalm-163.png]] | [[file:img/psalm-164.png]] | [[file:img/psalm-165.png]] | [[file:img/psalm-166.png]] | [[file:img/psalm-167.png]] |                        |            |
+| [[file:1img/psalm-162.png]]                          | [[file:1img/psalm-163.png]] | [[file:1img/psalm-164.png]] | [[file:1img/psalm-165.png]] | [[file:1img/psalm-166.png]] | [[file:1img/psalm-167.png]] |                        |            |
 | And,                                            | departing,             | leave                  | behind                 | us                     |                        |                        |            |
-| [[file:img/psalm-177.png]]                          | [[file:img/psalm-178.png]] | [[file:img/psalm-180.png]] | [[file:img/psalm-181.png]] | [[file:img/psalm-182.png]] |                        |                        |            |
+| [[file:1img/psalm-177.png]]                          | [[file:1img/psalm-178.png]] | [[file:1img/psalm-180.png]] | [[file:1img/psalm-181.png]] | [[file:1img/psalm-182.png]] |                        |                        |            |
 | foot-prints                                     | on                     | the                    | sands                  | of                     | time:                  |                        |            |
-| [[file:img/psalm-183.png]]                                               | [[file:img/psalm-184.png]]                      | [[file:img/psalm-185.png]]                      | [[file:img/psalm-186.png]]                      | [[file:img/psalm-187.png]]                      | [[file:img/psalm-188.png]]                      |                        |            |
+| [[file:1img/psalm-183.png]]                                               | [[file:1img/psalm-184.png]]                      | [[file:1img/psalm-185.png]]                      | [[file:1img/psalm-186.png]]                      | [[file:1img/psalm-187.png]]                      | [[file:1img/psalm-188.png]]                      |                        |            |
 | Footprints                                      | that                   | perhaps                | another,               |                        |                        |                        |            |
-| [[file:img/psalm-189.png]]                                               | [[file:img/psalm-190.png]]                      | [[file:img/psalm-191.png]]                      | [[file:img/psalm-192.png]]                      |                        |                        |                        |            |
+| [[file:1img/psalm-189.png]]                                               | [[file:1img/psalm-190.png]]                      | [[file:1img/psalm-191.png]]                      | [[file:1img/psalm-192.png]]                      |                        |                        |                        |            |
 | sailing                                         | o’er                   | Life’s                 | solemn                 | main                   |                        |                        |            |
-| [[file:img/psalm-193.png]]                                               | [[file:img/psalm-194.png]]                      | [[file:img/psalm-195.png]]                      | [[file:img/psalm-196.png]]                      | [[file:img/psalm-197.png]]                      |                        |                        |            |
+| [[file:1img/psalm-193.png]]                                               | [[file:1img/psalm-194.png]]                      | [[file:1img/psalm-195.png]]                      | [[file:1img/psalm-196.png]]                      | [[file:1img/psalm-197.png]]                      |                        |                        |            |
 | A                                               | forlorn                | and                    | shipwrecked            | brother,               |                        |                        |            |
-| [[file:img/psalm-198.png]]                                               | [[file:img/psalm-199.png]]                      | [[file:img/psalm-200.png]]                      | [[file:img/psalm-201.png]]                      | [[file:img/psalm-202.png]]                      |                        |                        |            |
+| [[file:1img/psalm-198.png]]                                               | [[file:1img/psalm-199.png]]                      | [[file:1img/psalm-200.png]]                      | [[file:1img/psalm-201.png]]                      | [[file:1img/psalm-202.png]]                      |                        |                        |            |
 | seeing,                                         | shall                  | take                   | heart                  | again.                 |                        |                        |            |
-| [[file:img/psalm-203.png]]                                               | [[file:img/psalm-204.png]]                      | [[file:img/psalm-205.png]]                      | [[file:img/psalm-206.png]]                      | [[file:img/psalm-207.png]]                      |                        |                        |            |
+| [[file:1img/psalm-203.png]]                                               | [[file:1img/psalm-204.png]]                      | [[file:1img/psalm-205.png]]                      | [[file:1img/psalm-206.png]]                      | [[file:1img/psalm-207.png]]                      |                        |                        |            |
 | Let                                             | us                     | then                   | be                     | up                     | and                    | doing,                 |            |
-| [[file:img/psalm-208.png]]                                               | [[file:img/psalm-209.png]]                      | [[file:img/psalm-210.png]]                      | [[file:img/psalm-211.png]]                      | [[file:img/psalm-212.png]]                      | [[file:img/psalm-213.png]]                      | [[file:img/psalm-214.png]]                      |            |
+| [[file:1img/psalm-208.png]]                                               | [[file:1img/psalm-209.png]]                      | [[file:1img/psalm-210.png]]                      | [[file:1img/psalm-211.png]]                      | [[file:1img/psalm-212.png]]                      | [[file:1img/psalm-213.png]]                      | [[file:1img/psalm-214.png]]                      |            |
 | with                                            | a                      | heart                  | for                    | any                    | fate;                  |                        |            |
-| [[file:img/psalm-215.png]]                                               | [[file:img/psalm-216.png]]                      | [[file:img/psalm-217.png]]                      | [[file:img/psalm-218.png]]                      | [[file:img/psalm-219.png]]                      | [[file:img/psalm-220.png]]                      |                        |            |
+| [[file:1img/psalm-215.png]]                                               | [[file:1img/psalm-216.png]]                      | [[file:1img/psalm-217.png]]                      | [[file:1img/psalm-218.png]]                      | [[file:1img/psalm-219.png]]                      | [[file:1img/psalm-220.png]]                      |                        |            |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 | Still                                           | achieving,             | still                  | pursuing, -            |                        |                        |                        |            |
-| [[file:img/psalm-221.png]]                                               | [[file:img/psalm-222.png]]                      | [[file:img/psalm-223.png]]                      | [[file:img/psalm-224.png]]                      |                        |                        |                        |            |
+| [[file:1img/psalm-221.png]]                                               | [[file:1img/psalm-222.png]]                      | [[file:1img/psalm-223.png]]                      | [[file:1img/psalm-224.png]]                      |                        |                        |                        |            |
 | learn                                           | to                     | labour                 | and                    | to                     | wait!                  |                        |            |
-| [[file:img/psalm-225.png]]                                               | [[file:img/psalm-226.png]]                      | [[file:img/psalm-227.png]]                      | [[file:img/psalm-228.png]]                      | [[file:img/psalm-226.png]]                      | [[file:img/psalm-230.png]]                      |                        |            |
+| [[file:1img/psalm-225.png]]                                               | [[file:1img/psalm-226.png]]                      | [[file:1img/psalm-227.png]]                      | [[file:1img/psalm-228.png]]                      | [[file:1img/psalm-226.png]]                      | [[file:1img/psalm-230.png]]                      |                        |            |
 |                                                 |                        |                        |                        |                        | Henry                  | W.                     | Longfellow |
-|                                                 |                        |                        |                        |                        | [[file:img/psalm-231.png]]                      | [[file:img/psalm-232.png]]                      | [[file:img/psalm-233.png]]          |
-[[file:img/psalm-234.png]]
+|                                                 |                        |                        |                        |                        | [[file:1img/psalm-231.png]]                      | [[file:1img/psalm-232.png]]                      | [[file:1img/psalm-233.png]]          |
+[[file:1img/psalm-234.png]]
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 ** A Psalm of Life - without key
-| [[file:img/psalm-6.png]]   | [[file:img/psalm-7.png]]   | [[file:img/psalm-8.png]]   | [[file:img/psalm-9.png]]   |                        |                        |                       |   |
+| [[file:1img/psalm-6.png]]   | [[file:1img/psalm-7.png]]   | [[file:1img/psalm-8.png]]   | [[file:1img/psalm-9.png]]   |                        |                        |                       |   |
 |                        |                        |                        |                        |                        |                        |                       |   |
-| [[file:img/psalm-10.png]]  | [[file:img/psalm-11.png]]  | [[file:img/psalm-12.png]]  | [[file:img/psalm-13.png]]  | [[file:img/psalm-14.png]]  | [[file:img/psalm-15.png]]  |                       |   |
-| [[file:img/psalm-16.png]]  | [[file:img/psalm-17.png]]  | [[file:img/psalm-18.png]]  | [[file:img/psalm-19.png]]  | [[file:img/psalm-20.png]]  | [[file:img/psalm-21.png]]  |                       |   |
-| [[file:img/psalm-22.png]]  | [[file:img/psalm-23.png]]  | [[file:img/psalm-24.png]]  | [[file:img/psalm-25.png]]  | [[file:img/psalm-26.png]]  | [[file:img/psalm-27.png]]  | [[file:img/psalm-28.png]] |   |
-| [[file:img/psalm-29.png]]  | [[file:img/psalm-30.png]]  | [[file:img/psalm-31.png]]  | [[file:img/psalm-32.png]]  | [[file:img/psalm-33.png]]  | [[file:img/psalm-34.png]]  | [[file:img/psalm-35.png]] |   |
-| [[file:img/psalm-36.png]]  | [[file:img/psalm-37.png]]  | [[file:img/psalm-38.png]]  | [[file:img/psalm-39.png]]  | [[file:img/psalm-40.png]]  | [[file:img/psalm-41.png]]  |                       |   |
-| [[file:img/psalm-42.png]]  | [[file:img/psalm-43.png]]  | [[file:img/psalm-44.png]]  | [[file:img/psalm-45.png]]  | [[file:img/psalm-46.png]]  | [[file:img/psalm-47.png]]  | [[file:img/psalm-48.png]] |   |
-| [[file:img/psalm-49.png]]  | [[file:img/psalm-50.png]]  | [[file:img/psalm-51.png]]  | [[file:img/psalm-52.png]]  | [[file:img/psalm-53.png]]  | [[file:img/psalm-54.png]]  |                       |   |
-| [[file:img/psalm-55.png]]  | [[file:img/psalm-56.png]]  | [[file:img/psalm-57.png]]  | [[file:img/psalm-58.png]]  | [[file:img/psalm-59.png]]  | [[file:img/psalm-60.png]]  |                       |   |
-| [[file:img/psalm-61.png]]  | [[file:img/psalm-62.png]]  | [[file:img/psalm-63.png]]  | [[file:img/psalm-64.png]]  | [[file:img/psalm-65.png]]  |                        |                       |   |
-| [[file:img/psalm-66.png]]  | [[file:img/psalm-67.png]]  | [[file:img/psalm-68.png]]  | [[file:img/psalm-69.png]]  | [[file:img/psalm-70.png]]  | [[file:img/psalm-71.png]]  |                       |   |
-| [[file:img/psalm-72.png]]  | [[file:img/psalm-73.png]]  | [[file:img/psalm-74.png]]  | [[file:img/psalm-75.png]]  | [[file:img/psalm-76.png]]  | [[file:img/psalm-77.png]]  |                       |   |
-| [[file:img/psalm-78.png]]  | [[file:img/psalm-79.png]]  | [[file:img/psalm-80.png]]  | [[file:img/psalm-81.png]]  | [[file:img/psalm-82.png]]  |                        |                       |   |
-| [[file:img/psalm-83.png]]  | [[file:img/psalm-84.png]]  | [[file:img/psalm-85.png]]  | [[file:img/psalm-86.png]]  | [[file:img/psalm-87.png]]  | [[file:img/psalm-88.png]]  | [[file:img/psalm-89.png]] |   |
-| [[file:img/psalm-90.png]]  | [[file:img/psalm-91.png]]  | [[file:img/psalm-92.png]]  | [[file:img/psalm-93.png]]  | [[file:img/psalm-94.png]]  | [[file:img/psalm-95.png]]  | [[file:img/psalm-96.png]] |   |
-| [[file:img/psalm-97.png]]  | [[file:img/psalm-98.png]]  | [[file:img/psalm-99.png]]  | [[file:img/psalm-100.png]] | [[file:img/psalm-101.png]] | [[file:img/psalm-102.png]] |                       |   |
-| [[file:img/psalm-103.png]] | [[file:img/psalm-104.png]] | [[file:img/psalm-105.png]] | [[file:img/psalm-106.png]] | [[file:img/psalm-107.png]] |                        |                       |   |
+| [[file:1img/psalm-10.png]]  | [[file:1img/psalm-11.png]]  | [[file:1img/psalm-12.png]]  | [[file:1img/psalm-13.png]]  | [[file:1img/psalm-14.png]]  | [[file:1img/psalm-15.png]]  |                       |   |
+| [[file:1img/psalm-16.png]]  | [[file:1img/psalm-17.png]]  | [[file:1img/psalm-18.png]]  | [[file:1img/psalm-19.png]]  | [[file:1img/psalm-20.png]]  | [[file:1img/psalm-21.png]]  |                       |   |
+| [[file:1img/psalm-22.png]]  | [[file:1img/psalm-23.png]]  | [[file:1img/psalm-24.png]]  | [[file:1img/psalm-25.png]]  | [[file:1img/psalm-26.png]]  | [[file:1img/psalm-27.png]]  | [[file:1img/psalm-28.png]] |   |
+| [[file:1img/psalm-29.png]]  | [[file:1img/psalm-30.png]]  | [[file:1img/psalm-31.png]]  | [[file:1img/psalm-32.png]]  | [[file:1img/psalm-33.png]]  | [[file:1img/psalm-34.png]]  | [[file:1img/psalm-35.png]] |   |
+| [[file:1img/psalm-36.png]]  | [[file:1img/psalm-37.png]]  | [[file:1img/psalm-38.png]]  | [[file:1img/psalm-39.png]]  | [[file:1img/psalm-40.png]]  | [[file:1img/psalm-41.png]]  |                       |   |
+| [[file:1img/psalm-42.png]]  | [[file:1img/psalm-43.png]]  | [[file:1img/psalm-44.png]]  | [[file:1img/psalm-45.png]]  | [[file:1img/psalm-46.png]]  | [[file:1img/psalm-47.png]]  | [[file:1img/psalm-48.png]] |   |
+| [[file:1img/psalm-49.png]]  | [[file:1img/psalm-50.png]]  | [[file:1img/psalm-51.png]]  | [[file:1img/psalm-52.png]]  | [[file:1img/psalm-53.png]]  | [[file:1img/psalm-54.png]]  |                       |   |
+| [[file:1img/psalm-55.png]]  | [[file:1img/psalm-56.png]]  | [[file:1img/psalm-57.png]]  | [[file:1img/psalm-58.png]]  | [[file:1img/psalm-59.png]]  | [[file:1img/psalm-60.png]]  |                       |   |
+| [[file:1img/psalm-61.png]]  | [[file:1img/psalm-62.png]]  | [[file:1img/psalm-63.png]]  | [[file:1img/psalm-64.png]]  | [[file:1img/psalm-65.png]]  |                        |                       |   |
+| [[file:1img/psalm-66.png]]  | [[file:1img/psalm-67.png]]  | [[file:1img/psalm-68.png]]  | [[file:1img/psalm-69.png]]  | [[file:1img/psalm-70.png]]  | [[file:1img/psalm-71.png]]  |                       |   |
+| [[file:1img/psalm-72.png]]  | [[file:1img/psalm-73.png]]  | [[file:1img/psalm-74.png]]  | [[file:1img/psalm-75.png]]  | [[file:1img/psalm-76.png]]  | [[file:1img/psalm-77.png]]  |                       |   |
+| [[file:1img/psalm-78.png]]  | [[file:1img/psalm-79.png]]  | [[file:1img/psalm-80.png]]  | [[file:1img/psalm-81.png]]  | [[file:1img/psalm-82.png]]  |                        |                       |   |
+| [[file:1img/psalm-83.png]]  | [[file:1img/psalm-84.png]]  | [[file:1img/psalm-85.png]]  | [[file:1img/psalm-86.png]]  | [[file:1img/psalm-87.png]]  | [[file:1img/psalm-88.png]]  | [[file:1img/psalm-89.png]] |   |
+| [[file:1img/psalm-90.png]]  | [[file:1img/psalm-91.png]]  | [[file:1img/psalm-92.png]]  | [[file:1img/psalm-93.png]]  | [[file:1img/psalm-94.png]]  | [[file:1img/psalm-95.png]]  | [[file:1img/psalm-96.png]] |   |
+| [[file:1img/psalm-97.png]]  | [[file:1img/psalm-98.png]]  | [[file:1img/psalm-99.png]]  | [[file:1img/psalm-100.png]] | [[file:1img/psalm-101.png]] | [[file:1img/psalm-102.png]] |                       |   |
+| [[file:1img/psalm-103.png]] | [[file:1img/psalm-104.png]] | [[file:1img/psalm-105.png]] | [[file:1img/psalm-106.png]] | [[file:1img/psalm-107.png]] |                        |                       |   |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-| [[file:img/psalm-108.png]]                          | [[file:img/psalm-109.png]] | [[file:img/psalm-110.png]] | [[file:img/psalm-111.png]] | [[file:img/psalm-112.png]] | [[file:img/psalm-113.png]] | [[file:img/psalm-114.png]] |   |
-| [[file:img/psalm-115.png]]                          | [[file:img/psalm-116.png]] | [[file:img/psalm-117.png]] | [[file:img/psalm-118.png]] | [[file:img/psalm-119.png]] |                        |                        |   |
-| [[file:img/psalm-120.png]]                          | [[file:img/psalm-121.png]] | [[file:img/psalm-122.png]] | [[file:img/psalm-123.png]] | [[file:img/psalm-124.png]] | [[file:img/psalm-125.png]] |                        |   |
-| [[file:img/psalm-126.png]]                          | [[file:img/psalm-127.png]] | [[file:img/psalm-128.png]] | [[file:img/psalm-129.png]] | [[file:img/psalm-130.png]] | [[file:img/psalm-131.png]] |                        |   |
-| [[file:img/psalm-132.png]]                          | [[file:img/psalm-133.png]] | [[file:img/psalm-134.png]] | [[file:img/psalm-135.png]] | [[file:img/psalm-136.png]] |                        |                        |   |
-| [[file:img/psalm-137.png]]                          | [[file:img/psalm-138.png]] | [[file:img/psalm-139.png]] | [[file:img/psalm-140.png]] | [[file:img/psalm-141.png]] | [[file:img/psalm-142.png]] | [[file:img/psalm-143.png]] |   |
-| [[file:img/psalm-144.png]] - [[file:img/psalm-144.png]] | [[file:img/psalm-145.png]] | [[file:img/psalm-146.png]] | [[file:img/psalm-147.png]] | [[file:img/psalm-148.png]] |                        |                        |   |
-| [[file:img/psalm-149.png]]                          | [[file:img/psalm-150.png]] | [[file:img/psalm-151.png]] | [[file:img/psalm-152.png]] | [[file:img/psalm-153.png]] | [[file:img/psalm-154.png]] |                        |   |
-| [[file:img/psalm-155.png]]                          | [[file:img/psalm-156.png]] | [[file:img/psalm-157.png]] | [[file:img/psalm-158.png]] | [[file:img/psalm-159.png]] | [[file:img/psalm-160.png]] | [[file:img/psalm-161.png]] |   |
-| [[file:img/psalm-162.png]]                          | [[file:img/psalm-163.png]] | [[file:img/psalm-164.png]] | [[file:img/psalm-165.png]] | [[file:img/psalm-166.png]] | [[file:img/psalm-167.png]] |                        |   |
-| [[file:img/psalm-177.png]]                          | [[file:img/psalm-178.png]] | [[file:img/psalm-180.png]] | [[file:img/psalm-181.png]] | [[file:img/psalm-182.png]] |                        |                        |   |
-| [[file:img/psalm-183.png]]                          | [[file:img/psalm-184.png]] | [[file:img/psalm-185.png]] | [[file:img/psalm-186.png]] | [[file:img/psalm-187.png]] | [[file:img/psalm-188.png]] |                        |   |
-| [[file:img/psalm-189.png]]                          | [[file:img/psalm-190.png]] | [[file:img/psalm-191.png]] | [[file:img/psalm-192.png]] |                        |                        |                        |   |
-| [[file:img/psalm-193.png]]                          | [[file:img/psalm-194.png]] | [[file:img/psalm-195.png]] | [[file:img/psalm-196.png]] | [[file:img/psalm-197.png]] |                        |                        |   |
-| [[file:img/psalm-198.png]]                          | [[file:img/psalm-199.png]] | [[file:img/psalm-200.png]] | [[file:img/psalm-201.png]] | [[file:img/psalm-202.png]] |                        |                        |   |
-| [[file:img/psalm-203.png]]                          | [[file:img/psalm-204.png]] | [[file:img/psalm-205.png]] | [[file:img/psalm-206.png]] | [[file:img/psalm-207.png]] |                        |                        |   |
+| [[file:1img/psalm-108.png]]                          | [[file:1img/psalm-109.png]] | [[file:1img/psalm-110.png]] | [[file:1img/psalm-111.png]] | [[file:1img/psalm-112.png]] | [[file:1img/psalm-113.png]] | [[file:1img/psalm-114.png]] |   |
+| [[file:1img/psalm-115.png]]                          | [[file:1img/psalm-116.png]] | [[file:1img/psalm-117.png]] | [[file:1img/psalm-118.png]] | [[file:1img/psalm-119.png]] |                        |                        |   |
+| [[file:1img/psalm-120.png]]                          | [[file:1img/psalm-121.png]] | [[file:1img/psalm-122.png]] | [[file:1img/psalm-123.png]] | [[file:1img/psalm-124.png]] | [[file:1img/psalm-125.png]] |                        |   |
+| [[file:1img/psalm-126.png]]                          | [[file:1img/psalm-127.png]] | [[file:1img/psalm-128.png]] | [[file:1img/psalm-129.png]] | [[file:1img/psalm-130.png]] | [[file:1img/psalm-131.png]] |                        |   |
+| [[file:1img/psalm-132.png]]                          | [[file:1img/psalm-133.png]] | [[file:1img/psalm-134.png]] | [[file:1img/psalm-135.png]] | [[file:1img/psalm-136.png]] |                        |                        |   |
+| [[file:1img/psalm-137.png]]                          | [[file:1img/psalm-138.png]] | [[file:1img/psalm-139.png]] | [[file:1img/psalm-140.png]] | [[file:1img/psalm-141.png]] | [[file:1img/psalm-142.png]] | [[file:1img/psalm-143.png]] |   |
+| [[file:1img/psalm-144.png]] - [[file:1img/psalm-144.png]] | [[file:1img/psalm-145.png]] | [[file:1img/psalm-146.png]] | [[file:1img/psalm-147.png]] | [[file:1img/psalm-148.png]] |                        |                        |   |
+| [[file:1img/psalm-149.png]]                          | [[file:1img/psalm-150.png]] | [[file:1img/psalm-151.png]] | [[file:1img/psalm-152.png]] | [[file:1img/psalm-153.png]] | [[file:1img/psalm-154.png]] |                        |   |
+| [[file:1img/psalm-155.png]]                          | [[file:1img/psalm-156.png]] | [[file:1img/psalm-157.png]] | [[file:1img/psalm-158.png]] | [[file:1img/psalm-159.png]] | [[file:1img/psalm-160.png]] | [[file:1img/psalm-161.png]] |   |
+| [[file:1img/psalm-162.png]]                          | [[file:1img/psalm-163.png]] | [[file:1img/psalm-164.png]] | [[file:1img/psalm-165.png]] | [[file:1img/psalm-166.png]] | [[file:1img/psalm-167.png]] |                        |   |
+| [[file:1img/psalm-177.png]]                          | [[file:1img/psalm-178.png]] | [[file:1img/psalm-180.png]] | [[file:1img/psalm-181.png]] | [[file:1img/psalm-182.png]] |                        |                        |   |
+| [[file:1img/psalm-183.png]]                          | [[file:1img/psalm-184.png]] | [[file:1img/psalm-185.png]] | [[file:1img/psalm-186.png]] | [[file:1img/psalm-187.png]] | [[file:1img/psalm-188.png]] |                        |   |
+| [[file:1img/psalm-189.png]]                          | [[file:1img/psalm-190.png]] | [[file:1img/psalm-191.png]] | [[file:1img/psalm-192.png]] |                        |                        |                        |   |
+| [[file:1img/psalm-193.png]]                          | [[file:1img/psalm-194.png]] | [[file:1img/psalm-195.png]] | [[file:1img/psalm-196.png]] | [[file:1img/psalm-197.png]] |                        |                        |   |
+| [[file:1img/psalm-198.png]]                          | [[file:1img/psalm-199.png]] | [[file:1img/psalm-200.png]] | [[file:1img/psalm-201.png]] | [[file:1img/psalm-202.png]] |                        |                        |   |
+| [[file:1img/psalm-203.png]]                          | [[file:1img/psalm-204.png]] | [[file:1img/psalm-205.png]] | [[file:1img/psalm-206.png]] | [[file:1img/psalm-207.png]] |                        |                        |   |
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-| [[file:img/psalm-208.png]]                          | [[file:img/psalm-209.png]] | [[file:img/psalm-210.png]] | [[file:img/psalm-211.png]] | [[file:img/psalm-212.png]] | [[file:img/psalm-213.png]] | [[file:img/psalm-214.png]] |   |
-| [[file:img/psalm-215.png]]                          | [[file:img/psalm-216.png]] | [[file:img/psalm-217.png]] | [[file:img/psalm-218.png]] | [[file:img/psalm-219.png]] | [[file:img/psalm-220.png]] |                        |   |
-| [[file:img/psalm-225.png]]                                               | [[file:img/psalm-226.png]]                      | [[file:img/psalm-227.png]]                      | [[file:img/psalm-228.png]]                      | [[file:img/psalm-226.png]]                      | [[file:img/psalm-230.png]]                      |                        |            |
-|                                                 |                        |                        |                        |                        | [[file:img/psalm-231.png]]                      | [[file:img/psalm-232.png]]                      | [[file:img/psalm-233.png]]          |
-[[file:img/psalm-234.png]]
+| [[file:1img/psalm-208.png]]                          | [[file:1img/psalm-209.png]] | [[file:1img/psalm-210.png]] | [[file:1img/psalm-211.png]] | [[file:1img/psalm-212.png]] | [[file:1img/psalm-213.png]] | [[file:1img/psalm-214.png]] |   |
+| [[file:1img/psalm-215.png]]                          | [[file:1img/psalm-216.png]] | [[file:1img/psalm-217.png]] | [[file:1img/psalm-218.png]] | [[file:1img/psalm-219.png]] | [[file:1img/psalm-220.png]] |                        |   |
+| [[file:1img/psalm-225.png]]                                               | [[file:1img/psalm-226.png]]                      | [[file:1img/psalm-227.png]]                      | [[file:1img/psalm-228.png]]                      | [[file:1img/psalm-226.png]]                      | [[file:1img/psalm-230.png]]                      |                        |            |
+|                                                 |                        |                        |                        |                        | [[file:1img/psalm-231.png]]                      | [[file:1img/psalm-232.png]]                      | [[file:1img/psalm-233.png]]          |
+[[file:1img/psalm-234.png]]
 #+begin_export LaTeX
 \pagebreak
 #+end_export
