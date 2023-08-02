@@ -1,4 +1,3 @@
-#+LATEX_COMPILER: xelatex
 #+LaTeX_CLASS_OPTIONS: [letterpaper, 11pt]
 #+LATEX_HEADER: \usepackage{lmodern} % Ensures we have the right font
 
@@ -7,10 +6,6 @@
 #+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_HEADER: \usepackage{amsmath, amsthm, amssymb}
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
-
-% Font for IPA
-#+LATEX_HEADER: \usepackage{fontspec}
-#+LATEX_HEADER: \setmainfont{Doulos SIL}
 
 % Colorizing links in a nicer way.
 #+LATEX_HEADER: \definecolor{bblue}{HTML}{0645AD}

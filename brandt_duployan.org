@@ -138,15 +138,15 @@ Note the following somewhat difficult connections: /jm/ [[file:img/fig1-80.png]]
 ** Lesson 2 - Vowels 1
 [[file:img/lesson2.png]]
 *** The vowels AH AW OO UH (short)
-|----+---+---+--------------------------------------------------------+---------------------|
-| AH | æ | a | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |
-|----+---+---+--------------------------------------------------------+---------------------|
-| AW | ɑː | ä | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |
-|----+---+---+--------------------------------------------------------+---------------------|
-| OO | ʊ | u | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |
-|----+---+---+--------------------------------------------------------+---------------------|
-| UH | ʌ | ə | as sounded in /nut/ is represented by a dot              | [[file:img/fig2-4.png]] |
-|----+---+---+--------------------------------------------------------+---------------------|
+|----+---------------------------+--------------------------------------------------------+---------------------+---|
+| AH | [[file:img/ah-short-ipa.png]] | as sounded in /gnat/ is represented by a small circle    | [[file:img/fig2-1.png]] |   |
+|----+---------------------------+--------------------------------------------------------+---------------------+---|
+| AW | [[file:img/aw-short-ipa.png]] | as sounded in /cod/ is represented by a large circle     | [[file:img/fig2-2.png]] |   |
+|----+---------------------------+--------------------------------------------------------+---------------------+---|
+| OO | [[file:img/oo-short-ipa.png]] | as sounded in /foot/ is represented by a radiated circle | [[file:img/fig2-3.png]] |   |
+|----+---------------------------+--------------------------------------------------------+---------------------+---|
+| UH | [[file:img/uh-ipa.png]]       | as sounded in /nut/ is represented by a dot              | [[file:img/fig2-4.png]] |   |
+|----+---------------------------+--------------------------------------------------------+---------------------+---|
 *** The joining of vowels and consonants
 **** In the beginning of words
 
@@ -174,17 +174,17 @@ Vowels may be written either above or below, to the right or to the left.
 *Ex*: /shadow/ [[file:img/fig2-41.png]], /show/ [[file:img/fig2-42.png]], /to/ [[file:img/fig2-43.png]], /body/ [[file:img/fig2-44.png]], /army/ [[file:img/fig2-45.png]], /know/ [[file:img/fig2-46.png]], /blue/ [[file:img/fig2-47.png]].
 
 *** The vowels AH AW OO O (long)
-|----+----+----+------+----------------------|
-| AH | ɑː  | ä  | /arm/  | [[file:img/fig2-53.png]] |
-|----+----+----+------+----------------------|
-| AW | ɔ   | ȯ  | /all/  | [[file:img/fig2-54.png]] |
-|----+----+----+------+----------------------|
-| OO | uː  | ü  | /food/ | [[file:img/fig2-55.png]] |
-|----+----+----+------+----------------------|
-| O  | oʊ | ō  | /code/ | [[file:img/fig2-48.png]] |
-|----+----+----+------+----------------------|
-| UR | ɝː  | ər | /nut/  | [[file:img/fig2-4.png]]  |
-|----+----+----+------+----------------------|
+|----+--------------------------+------+----------------------|
+| AH | [[file:img/ah-long-ipa.png]] | /arm/  | [[file:img/fig2-53.png]] |
+|----+--------------------------+------+----------------------|
+| AW | [[file:img/aw-long-ipa.png]] | /all/  | [[file:img/fig2-54.png]] |
+|----+--------------------------+------+----------------------|
+| OO | [[file:img/oo-long-ipa.png]] | /food/ | [[file:img/fig2-55.png]] |
+|----+--------------------------+------+----------------------|
+| O  | [[file:img/o-ipa.png]]       | /code/ | [[file:img/fig2-48.png]] |
+|----+--------------------------+------+----------------------|
+| UR | [[file:img/ur-ipa.png]]      | /nut/  | [[file:img/fig2-4.png]]  |
+|----+--------------------------+------+----------------------|
 **** AH AW OO
 
 These are the long sounds of the short vowels *A AW OO*. We write no new sign for these, we simply place over the short vowel sign a horizontal dash that is commonly used to denote a long sound.
@@ -206,11 +206,11 @@ Represented by a large circle with a dot, [[file:img/fig2-48.png]].
 ** Lesson 3 - Vowels 2
 [[file:img/lesson3.png]]
 *** The vowels EH and EE
-|----+---+---+------+---------------------|
-| EH | ɛ  | e | /net/  | [[file:img/fig3-1.png]] |
-|----+---+---+------+---------------------|
-| EE | ɪ  | i | /knit/ | [[file:img/fig3-2.png]] |
-|----+---+---+------+---------------------|
+|----+---------------------------+------+---------------------|
+| EH | [[file:img/eh-ipa.png]]       | /net/  | [[file:img/fig3-1.png]] |
+|----+---------------------------+------+---------------------|
+| EE | [[file:img/ee-short-ipa.png]] | /knit/ | [[file:img/fig3-2.png]] |
+|----+---------------------------+------+---------------------|
 The short vowel /EH/ as sounded in /net/ and /let/ is represented by any one of the four small semicircles [[file:img/fig3-1.png]].
 
 For the short vowel /EE/, as in /knit/, /give/, the same signs are used but with the addition of a small dot placed above them [[file:img/fig3-2.png]].
@@ -238,11 +238,11 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 *Ex*: /bill/ [[file:img/fig3-34.png]], /bell/ [[file:img/fig3-35.png]], /sell/ [[file:img/fig3-36.png]], /sill/ [[file:img/fig3-37.png]], /mill/ [[file:img/fig3-38.png]], /melt/ [[file:img/fig3-39.png]], /effect/ [[file:img/fig3-40.png]], /this/ [[file:img/fig3-41.png]], /else/ [[file:img/fig3-42.png]], /ell/ [[file:img/fig3-43.png]], /elder/ [[file:img/fig3-44.png]], /egg/ [[file:img/fig3-45.png]], /best/ [[file:img/fig3-46.png]], /practice/ [[file:img/fig3-47.png]], /tell/ [[file:img/fig3-48.png]], /till/ [[file:img/fig3-49.png]], /chest/ [[file:img/fig3-50.png]], /dip/ [[file:img/fig3-51.png]], /rip/ [[file:img/fig3-52.png]], /cellar/ [[file:img/fig3-53.png]], /fellow/ [[file:img/fig3-54.png]], /bellow/ [[file:img/fig3-55.png]], /below/ [[file:img/fig3-56.png]], /jest/ [[file:img/fig3-57.png]], /skip/ [[file:img/fig3-58.png]], /whip/ [[file:img/fig3-59.png]], /rest/ [[file:img/fig3-60.png]], /mistress/ [[file:img/fig3-61.png]], /nest/ [[file:img/fig3-62.png]], /get/ [[file:img/fig3-63.png]], /give/ [[file:img/fig3-64.png]], /jet/ [[file:img/fig3-65.png]], /gelid/ [[file:img/fig3-66.png]], /people/ [[file:img/fig3-67.png]].
 
 *** The vowels EY and EE
-|----+---+---+-------+---|
-| EY | eɪ | ā | /eight/ |   |
-|----+---+---+-------+---|
-| EE | iː | ē | /deep/  |   |
-|----+---+---+-------+---|
+|----+--------------------------+-------+---|
+| EY | [[file:img/ey-ipa.png]]      | /eight/ |   |
+|----+--------------------------+-------+---|
+| EE | [[file:img/ee-long-ipa.png]] | /deep/  |   |
+|----+--------------------------+-------+---|
 These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinguished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:img/fig3-68.png]], /EY/ [[file:img/fig3-69.png]].
 
 Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal dash placed above it, e.g. /EE/ [[file:img/fig3-70.png]], /long EE/ [[file:img/fig3-71.png]].
@@ -260,23 +260,23 @@ Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal d
 ** Lesson 4 - Diphthongs
 [[file:img/lesson4.png]]
 *** The diphthong AI
-The diphthong /AI/ (aɪ ī) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
+The diphthong /AI/ ([[file:img/ai-ipa-1.png]] [[file:img/ai-ipa-2.png]]) as sounded in /file/ and /my/ is represented by the same sign-outline as that employed to express the vowels /EH/ and /I/, but it is differentiated from these latter by the method of writing it to the other signs.
 
 The rule laid down in Lesson 3-2 is here disregarded and exactly the opposite made use of, i.e. express the diphthong /AI/ by making the semi-circle form an angle.
 
 *Ex*: /tie/ [[file:img/fig4-1.png]], /thigh/ [[file:img/fig4-2.png]], /time/ [[file:img/fig4-3.png]], /mile/ [[file:img/fig4-4.png]], /file/ [[file:img/fig4-5.png]], /fine/ [[file:img/fig4-6.png]], /line/ [[file:img/fig4-7.png]], /like/ [[file:img/fig4-8.png]], /sigh/ [[file:img/fig4-9.png]], /pie/ [[file:img/fig4-10.png]], /right/ [[file:img/fig4-11.png]], /while/ [[file:img/fig4-12.png]], /choir/ [[file:img/fig4-13.png]], /blithe/ [[file:img/fig4-14.png]], /my/ [[file:img/fig4-15.png]].
-*** The diphthong AU
-The diphthong /AU/ (aʊ au) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ [[file:img/fig4-16.png]] and /OO/ [[file:img/fig4-17.png]] thus [[file:img/fig4-18.png]].
+*** The diphthong OW
+The diphthong /OW/ ([[file:img/ow-ipa-1.png]] [[file:img/ow-ipa-2.png]]) as sounded in /fowl/ and /cow/ is expressed by combining the two signs representing /AH/ [[file:img/fig4-16.png]] and /OO/ [[file:img/fig4-17.png]] thus [[file:img/fig4-18.png]].
 
 The formation of this sign both at the beginning and end of words, offers no difficulty. When it comes between two consonants the simplest and quickest way of writing it, is to trace it in the same direction as the following sign.
 
 *Ex*: /out/ [[file:img/fig4-19.png]], /hour/ [[file:img/fig4-20.png]], /ounce/ [[file:img/fig4-21.png]], /cow/ [[file:img/fig4-22.png]], /now/ [[file:img/fig4-23.png]], /plough/ [[file:img/fig4-24.png]], /bow/ [[file:img/fig4-25.png]], /about/ [[file:img/fig4-26.png]], /fowl/ [[file:img/fig4-27.png]], /mouse/ [[file:img/fig4-28.png]], /crowd/ [[file:img/fig4-29.png]], /gout/ [[file:img/fig4-30.png]], /growl/ [[file:img/fig4-31.png]], /gown/ [[file:img/fig4-32.png]], /mouth/ [[file:img/fig4-33.png]], /spouse/ [[file:img/fig4-34.png]], /rouse/ [[file:img/fig4-35.png]], /spout/ [[file:img/fig4-36.png]].
 *** The diphthong OI
-This diphthong (ɔɪ ȯi) is formed by combining the vowel-signs /OH/ and /EE/, viz. [[file:img/fig4-37.png]] or [[file:img/fig4-38-a.png]] or [[file:img/fig4-38-b.png]].
+This diphthong ([[file:img/oi-ipa-1.png]] [[file:img/oi-ipa-2.png]]) is formed by combining the vowel-signs /OH/ and /EE/, viz. [[file:img/fig4-37.png]] or [[file:img/fig4-38-a.png]] or [[file:img/fig4-38-b.png]].
 
 *Ex*: /boil/ [[file:img/fig4-39.png]], /toil/ [[file:img/fig4-40.png]], /joy/ [[file:img/fig4-41.png]], /noise/ [[file:img/fig4-42.png]] or [[file:img/fig4-43.png]], /boy/ [[file:img/fig4-44.png]], /point/ [[file:img/fig4-45.png]], /coin/ [[file:img/fig4-46.png]], /toy/ [[file:img/fig4-47.png]].
 *** The diphthong JU
-The phonetic /U/ (JU juː), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: [[file:img/fig4-48.png]]. Avoid an angular union wherever possible.
+The phonetic /U/ ([[file:img/ju-ipa-1.png]] [[file:img/ju-ipa-2.png]]), as sounded in /use/ and /view/, is represented by a quadrant of a large circle: [[file:img/fig4-48.png]]. Avoid an angular union wherever possible.
 
 *Ex*: /use/ [[file:img/fig4-49.png]], /music/ [[file:img/fig4-50.png]], /view/ [[file:img/fig4-51.png]], /knew/ [[file:img/fig4-52.png]], /obscure/ [[file:img/fig4-53.png]], /pure/ [[file:img/fig4-54.png]], /duke/ [[file:img/fig4-55.png]].
 
@@ -370,29 +370,29 @@ By means of the system explained in this elementary course, every word in the En
 [[file:img/duployan-shorthand.png]]
 
 *Vowels*
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-| Short |    |   |   |      |                                | Long |    |    |    |        |                                |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | AH | æ | a | /fat/  | [[file:img/alphabet_ah_short.png]] |      | AH | ɑː  | ä  | /father/ | [[file:img/alphabet_ah_long.png]]  |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | AW | ɑː | a | /not/  | [[file:img/alphabet_aw_short.png]] |      | AW | ɔ   | ȯ  | /naught/ | [[file:img/alphabet_aw_long.png]]  |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       |    |   |   |      |                                |      | O  | oʊ | ō  | /note/   | [[file:img/alphabet_o_long.png]]   |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | OO | ʊ | u | /foot/ | [[file:img/alphabet_oo_short.png]] |      | OO | uː  | ü  | /food/   | [[file:img/alphabet_oo_long.png]]  |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | UH | ʌ | ə | /nut/  | [[file:img/alphabet_uh_short.png]] |      | UR | ɝː  | ər | /urn/    | [[file:img/alphabet_uh_short.png]] |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | EH | ɛ  | e | /net/  | [[file:img/alphabet_eh_short.png]] |      | EY | eɪ  | ā  | /nail/   | [[file:img/alphabet_eh_long.png]]  |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
-|       | EE | ɪ  | i | /knit/ | [[file:img/alphabet_i_short.png]]  |      | EE | iː  | ē  | /kneel/  | [[file:img/alphabet_ee_long.png]]  |   |
-|-------+----+---+---+------+--------------------------------+------+----+----+----+--------+--------------------------------+---|
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+| Short |    |                           |      |                                |   | Long |                          |                    |                                |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | AH | [[file:img/ah-short-ipa.png]] | /fat/  | [[file:img/alphabet_ah_short.png]] |   | AH   | [[file:img/ah-long-ipa.png]] | /father/             | [[file:img/alphabet_ah_long.png]]  |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | AW | [[file:img/aw-short-ipa.png]] | /not/  | [[file:img/alphabet_aw_short.png]] |   | AW   | [[file:img/aw-long-ipa.png]] | /naught/             | [[file:img/alphabet_aw_long.png]]  |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       |    |                           |      |                                |   |      | O                        | [[file:img/o-ipa.png]] | /note/                           | [[file:img/alphabet_o_long.png]] |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | OO | [[file:img/oo-short-ipa.png]] | /foot/ | [[file:img/alphabet_oo_short.png]] |   | OO   | [[file:img/oo-long-ipa.png]] | /food/               | [[file:img/alphabet_oo_long.png]]  |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | UH | [[file:img/uh-ipa.png]]       | /nut/  | [[file:img/alphabet_uh_short.png]] |   | UR   | [[file:img/ur-ipa.png]]      | /urn/                | [[file:img/alphabet_uh_short.png]] |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | EH | [[file:img/eh-ipa.png]]       | /net/  | [[file:img/alphabet_eh_short.png]] |   | EY   | [[file:img/ey-ipa.png]]      | /nail/               | [[file:img/alphabet_eh_long.png]]  |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
+|       | EE | [[file:img/ee-short-ipa.png]] | /knit/ | [[file:img/alphabet_i_short.png]]  |   | EE   | [[file:img/ee-long-ipa.png]] | /kneel/              | [[file:img/alphabet_ee_long.png]]  |                              |   |   |
+|-------+----+---------------------------+------+--------------------------------+---+------+--------------------------+--------------------+--------------------------------+------------------------------+---+---|
 *Diphthongs*
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 | AI                           | OW                            | OI                            | JU                           |
 | [[file:img/alphabet_i_diph.png]] | [[file:img/alphabet_ow_diph.png]] | [[file:img/alphabet_oi_diph.png]] | [[file:img/alphabet_u_diph.png]] |
-| aɪ                            | aʊ                            | ɔɪ                             | juː                           |
-| ī                            | au                            | ȯi                            | yü                           |
+| [[file:img/ai-ipa-1.png]]        | [[file:img/ow-ipa-1.png]]         | [[file:img/oi-ipa-1.png]]         | [[file:img/ju-ipa-1.png]]        |
+| [[file:img/ai-ipa-2.png]]        | [[file:img/ow-ipa-2.png]]         | [[file:img/oi-ipa-2.png]]         | [[file:img/ju-ipa-2.png]]        |
 |------------------------------+-------------------------------+-------------------------------+------------------------------|
 *Nasals*
 |--------------------------+--------------------------+--------------------------+--------------------------+--------------------------|
