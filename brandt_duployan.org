@@ -183,7 +183,7 @@ Vowels may be written either above or below, to the right or to the left.
 |----+--------------------------+------+----------------------|
 | O  | [[file:img/o-ipa.png]]       | /code/ | [[file:img/fig2-48.png]] |
 |----+--------------------------+------+----------------------|
-| UR | [[file:img/ur-ipa.png]]      | /nut/  | [[file:img/fig2-4.png]]  |
+| UR | [[file:img/ur-ipa.png]]      | /urn/ | [[file:img/fig2-4.png]]  |
 |----+--------------------------+------+----------------------|
 **** AH AW OO
 
