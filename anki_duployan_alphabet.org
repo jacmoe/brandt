@@ -434,7 +434,7 @@ Alphabet
 [[file:img/alphabet_ow_diph.png]]
 **** Back
 AU
-*** URE
+*** JU
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1690313456569
@@ -444,7 +444,7 @@ Alphabet
 
 [[file:img/alphabet_u_diph.png]]
 **** Back
-URE
+JU
 *** AN
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
