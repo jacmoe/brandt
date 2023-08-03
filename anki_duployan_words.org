@@ -1124,7 +1124,7 @@ Skip
 **** Front
 Words
 
-[[file:words1/whip.png]]
+[[file:words1/whip-fixed.png]]
 **** Back
 Whip
 *** Rest
