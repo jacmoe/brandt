@@ -239,9 +239,9 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 
 *** The vowels EY and EE
 |----+---------------------------+-------+-----------------------|
-| EY | [[file:1img/ey-ipa.png]]      | /eight/ | [[file:1img/fig3-68.png]] |
+| EY | [[file:1img/ey-ipa.png]]      | /eight/ | [[file:1img/fig3-69.png]] |
 |----+---------------------------+-------+-----------------------|
-| EE | [[file:1img/ee-long-ipa.png]] | /deep/  | [[file:1img/fig3-69.png]] |
+| EE | [[file:1img/ee-long-ipa.png]] | /deep/  | [[file:1img/fig3-71.png]] |
 |----+---------------------------+-------+-----------------------|
 These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinguished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:1img/fig3-68.png]], /EY/ [[file:1img/fig3-69.png]].
 
