@@ -561,6 +561,13 @@ By means of the system explained in this elementary course, every word in the En
 #+end_export
 ** Lesson 1 - Common Terminations
 *** The diacritical position
+Vowel sign can be joined to final consonants in two ways. They may be written:
+
+Forwards or backwards for [[file:2img/fig1-1.png]].
+
+Above or below for [[file:2img/fig1-2.png]].
+
+*Ex*: /illustrating this for/ *UH* [[file:2img/fig1-3.png]] and *EH (EE)* [[file:2img/fig1-4.png]]: [[file:2img/fig1-5.png]].
 **** The terminations -OUR and -OUS
 **** The terminations -EE and -AI
 **** The terminations -LY and -LESS
