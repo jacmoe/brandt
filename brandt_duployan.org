@@ -238,11 +238,11 @@ Choose the semi-circle that will not form an angle with the consonant-sign.
 *Ex*: /bill/ [[file:1img/fig3-34.png]], /bell/ [[file:1img/fig3-35.png]], /sell/ [[file:1img/fig3-36.png]], /sill/ [[file:1img/fig3-37.png]], /mill/ [[file:1img/fig3-38.png]], /melt/ [[file:1img/fig3-39.png]], /effect/ [[file:1img/fig3-40.png]], /this/ [[file:1img/fig3-41.png]], /else/ [[file:1img/fig3-42.png]], /ell/ [[file:1img/fig3-43.png]], /elder/ [[file:1img/fig3-44.png]], /egg/ [[file:1img/fig3-45.png]], /best/ [[file:1img/fig3-46.png]], /practice/ [[file:1img/fig3-47.png]], /tell/ [[file:1img/fig3-48.png]], /till/ [[file:1img/fig3-49.png]], /chest/ [[file:1img/fig3-50.png]], /dip/ [[file:1img/fig3-51.png]], /rip/ [[file:1img/fig3-52.png]], /cellar/ [[file:1img/fig3-53.png]], /fellow/ [[file:1img/fig3-54.png]], /bellow/ [[file:1img/fig3-55.png]], /below/ [[file:1img/fig3-56.png]], /jest/ [[file:1img/fig3-57.png]], /skip/ [[file:1img/fig3-58.png]], /whip/ [[file:1img/fig3-59.png]], /rest/ [[file:1img/fig3-60.png]], /mistress/ [[file:1img/fig3-61.png]], /nest/ [[file:1img/fig3-62.png]], /get/ [[file:1img/fig3-63.png]], /give/ [[file:1img/fig3-64.png]], /jet/ [[file:1img/fig3-65.png]], /gelid/ [[file:1img/fig3-66.png]], /people/ [[file:1img/fig3-67.png]].
 
 *** The vowels EY and EE
-|----+--------------------------+-------+---|
-| EY | [[file:1img/ey-ipa.png]]      | /eight/ |   |
-|----+--------------------------+-------+---|
-| EE | [[file:1img/ee-long-ipa.png]] | /deep/  |   |
-|----+--------------------------+-------+---|
+|----+---------------------------+-------+-----------------------|
+| EY | [[file:1img/ey-ipa.png]]      | /eight/ | [[file:1img/fig3-68.png]] |
+|----+---------------------------+-------+-----------------------|
+| EE | [[file:1img/ee-long-ipa.png]] | /deep/  | [[file:1img/fig3-69.png]] |
+|----+---------------------------+-------+-----------------------|
 These are the long vowels corresponding to the short vowels /EH/ and /I/. The outline figure is the same in both cases, but /EH/ is distinguished from /EY/ by the latter having a dot placed under it, e.g. /EH/ [[file:1img/fig3-68.png]], /EY/ [[file:1img/fig3-69.png]].
 
 Also, /EE/ is distinguished from /long EE/ by the latter having the horizontal dash placed above it, e.g. /EE/ [[file:1img/fig3-70.png]], /long EE/ [[file:1img/fig3-71.png]].
