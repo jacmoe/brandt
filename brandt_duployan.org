@@ -187,7 +187,7 @@ Vowels may be written either above or below, to the right or to the left.
 |----+--------------------------+------+----------------------|
 **** AH AW OO
 
-These are the long sounds of the short vowels *A AW OO*. We write no new sign for these, we simply place over the short vowel sign a horizontal dash that is commonly used to denote a long sound.
+These are the long sounds of the short vowels *AH AW OO*. We write no new sign for these, we simply place over the short vowel sign a horizontal dash that is commonly used to denote a long sound.
 
 *N.B.* /The dashes may, in practice, be omitted as the context will usually supply their omission. Such signs are necessary, however, in cases where any uncertainty may arise./
 
