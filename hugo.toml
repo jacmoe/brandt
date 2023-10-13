@@ -14,6 +14,7 @@ relativeURLs = true
 [params]
   themeVariant = [ "zen-light", "zen-dark" ]
   disableExplicitIndexURLs = true
+  externalLinkTarget = "_blank"
 
 [markup.goldmark.renderer]
 unsafe = true
