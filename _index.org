@@ -1,0 +1,8 @@
+#+STARTUP: fold
+#+hugo_base_dir: .
+#+hugo_section: .
+#+hugo_custom_front_matter: :archetype "home"
+#+begin_description
+lorem ipsum
+#+end_description
+This is a small test
