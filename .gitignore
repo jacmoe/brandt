@@ -6,3 +6,4 @@ words.txt
 words_out.txt
 /*.apkg
 /errors/
+.hugo_build.lock
