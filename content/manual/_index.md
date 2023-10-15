@@ -5,4 +5,4 @@ draft = false
 weight = 0
 +++
 
-This is the manual
+{{% children sort="weight" depth="2" %}}

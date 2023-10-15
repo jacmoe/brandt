@@ -17,7 +17,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Brandt’s Duployan \u003e Manual",
-    "content": "",
+    "content": " Lesson 1 - The Signs of the System Lesson 2 - Vowels 1 Lesson 3 - Vowels 2 Lesson 4 - Diphthongs Lesson 5 - Nasals Lesson 6 - H Aspirate Lesson 7 - More on nasals Note on Part II Summary of Brandt’s Duployan Shorthand A Psalm of Life A Psalm of Life - without key ",
     "description": "",
     "tags": null,
     "title": "Part 1 - Elementary Course",
@@ -129,7 +129,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Brandt’s Duployan",
-    "content": "This is the manual\n",
+    "content": " Preface The phonetic principle Part 1 - Elementary Course Lesson 1 - The Signs of the System Lesson 2 - Vowels 1 Lesson 3 - Vowels 2 Lesson 4 - Diphthongs Lesson 5 - Nasals Lesson 6 - H Aspirate Lesson 7 - More on nasals Note on Part II Summary of Brandt’s Duployan Shorthand A Psalm of Life A Psalm of Life - without key ",
     "description": "",
     "tags": null,
     "title": "Manual",

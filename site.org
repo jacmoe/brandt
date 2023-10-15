@@ -13,7 +13,7 @@ Welcome to Brandt’s Duployan.
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 0
 :END:
-This is the manual
+#+hugo: {{% children sort="weight" depth="2" %}}
 * Preface
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: manual
@@ -34,6 +34,7 @@ This is the manual
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 3
 :END:
+#+hugo: {{% children sort="weight" %}}
 * Lesson 1 - The Signs of the System
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: manual/part1
