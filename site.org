@@ -1,0 +1,113 @@
+#+TITLE: Brandt’s Duployan
+#+hugo_base_dir: .
+* Brandt’s Duployan
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: .
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :archetype "home"
+:END:
+Welcome to Brandt’s Duployan.
+* Manual
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 0
+:END:
+This is the manual
+* Preface
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual
+:EXPORT_FILE_NAME: preface
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 1
+:END:
+#+transclude: [[file:brandt_duployan.org::*Preface][Preface]] :only-contents
+* The phonetic principle
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual
+:EXPORT_FILE_NAME: the-phonetic-principle
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 2
+:END:
+#+transclude: [[file:brandt_duployan.org::*The Phonetic Principle][The Phonetic Principle]] :only-contents
+* Part 1 - Elementary Course
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 3
+:END:
+* Lesson 1 - The Signs of the System
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson1-the-signs-of-the-system
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 4
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 1 - The Signs of the System][Lesson 1 - The Signs of the System]]
+* Lesson 2 - Vowels 1
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson2-vowels-1
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 5
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 2 - Vowels 1][Lesson 2 - Vowels 1]]
+* Lesson 3 - Vowels 2
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson3-vowels-2
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 6
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 3 - Vowels 2][Lesson 3 - Vowels 2]]
+* Lesson 4 - Diphthongs
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson4-diphthongs
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 7
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 4 - Diphthongs][Lesson 4 - Diphthongs]]
+* Lesson 5 - Nasals
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson5-nasals
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 8
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 5 - Nasals][Lesson 5 - Nasals]]
+* Lesson 6 - H Aspirate
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson6-h-aspirate
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 9
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 6 - H Aspirate][Lesson 6 - H Aspirate]]
+* Lesson 7 - More on nasals
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: lesson7-more-on-nasals
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 10
+:END:
+#+transclude: [[file:brandt_duployan.org::*Lesson 7 - More on nasals][Lesson 7 - More on nasals]]
+* Note on Part II
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: note-on-part-2
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 11
+:END:
+#+transclude: [[file:brandt_duployan.org::*Note on Part II][Note on Part II]]
+* Summary of Brandt’s Duployan Shorthand
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: summary-of-brandts-duployan-shorthand
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 12
+:END:
+#+transclude: [[file:brandt_duployan.org::*Summary of Brandt’s Duployan Shorthand][Summary of Brandt’s Duployan Shorthand]]
+* A Psalm of Life
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: a-psalm-of-life
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 13
+:END:
+#+transclude: [[file:brandt_duployan.org::*A Psalm of Life][A Psalm of Life]]
+* A Psalm of Life - without key
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: manual/part1
+:EXPORT_FILE_NAME: a-psalm-of-life-without-key
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 14
+:END:
+#+transclude: [[file:brandt_duployan.org::*A Psalm of Life - without key][A Psalm of Life - without key]]

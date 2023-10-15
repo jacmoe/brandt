@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manual on Brandt&#39;s Duployan</title>
+    <link>https://jacmoe.github.io/brandt/manual/</link>
+    <description>Recent content in Manual on Brandt&#39;s Duployan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jacmoe.github.io/brandt/manual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preface</title>
+      <link>https://jacmoe.github.io/brandt/manual/preface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jacmoe.github.io/brandt/manual/preface/</guid>
+      <description>In adapting to English the Méthode Sténographie Duployé I have endeavoured to retain the admirable simplicity which characterizes both its principles and outlines.
+Duployan Shorthand being in such a general use upon the Continent, an adaption of it to English, such, that every sound common to the two languages is represented by the same sign, will at once commend itself to those engaged in commercial correspondence. To a student, the Duployan system offers a unique advantage since it puts within his reach reading matter stenographically represented and therefore with true sound values, in at least ten languages, inter alia, German, Italian, French, Portuguese, Turkish, etc.</description>
+    </item>
+    <item>
+      <title>The phonetic principle</title>
+      <link>https://jacmoe.github.io/brandt/manual/the-phonetic-principle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jacmoe.github.io/brandt/manual/the-phonetic-principle/</guid>
+      <description>The letters of the Alphabet serve to indicate not only the sounds of the language but also the etymological differences, the variations of pronunciation, and the exigencies of grammar. Consequently we find that certain letters under varying circumstances, assume the characteristic sounds of other letters. In stenography this cannot happen, for, to each and every sound we have given a sign, which unvaryingly represents that one sound only.
+To write phonetically, then, all that is required of us is to catch the sounds uttered and represent them by the signs of the stenographic alphabet, paying no attention to the variations of orthography.</description>
+    </item>
+    <item>
+      <title>Part 1 - Elementary Course</title>
+      <link>https://jacmoe.github.io/brandt/manual/part1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jacmoe.github.io/brandt/manual/part1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
