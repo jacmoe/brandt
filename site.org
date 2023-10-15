@@ -9,6 +9,48 @@
 [[file:1img/duployan-shorthand.png]]
 
 Welcome to Brandt’s Duployan.
+
+This is an adaptation of the French Duployan shorthand system to English by Carl Brandt, a Jesuit monk, who also did adaptations of Duployan to [[https://archive.org/details/brandt-danish][Danish]] and to [[https://archive.org/details/brandt-latin/][Latin]].
+
+[[https://en.wikipedia.org/wiki/Duployan_shorthand][Duployan shorthand]] is classified as geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
+
+Duployan shorthand was created in 1860 by [[https://en.wikipedia.org/wiki/%C3%89mile_Duploy%C3%A9][Émile Duployé]] for writing French, and it most likely the most adapted system of shorthand. There are adaptations for English, Latin, Danish, Romanian, Chinook Wawa, German and Spanish.
+
+Duployan shorthand has a reputation for being extremely easy to learn, and that is probably why it has been so widely adopted. It was the preferred system of shorthand among missionaries, especially the Jesuits.
+
+In the Preface, Brandt writes:
+#+begin_quote
+In adapting to English the Méthode Sténographie Duployé I have endeavoured to retain the admirable simplicity which characterizes both its principles and outlines.
+#+end_quote
+
+#+begin_quote
+In the first part a system is offered that will enable *any one of average intelligence* to write from three to four times as fast as in longhand. I have endeavoured to place within the reach of “the many” a system that, to use a popular phrase, supplies a long felt want, that is to say, a system written and learnt with ease, and, most important of all, capable of being read with ease.
+#+end_quote
+
+This is the alphabet of Brandt’s Duployan, taken from the handwritten manual:
+[[file:static/images/alphabet.png]]
+
+
+*A review of Brandt’s Duployan*, from [[https://www.reddit.com/r/shorthand/comments/ed5vs1/brandt_duployan_the_best_duployan_yet/][Brandt Duployan -- the best Duployan yet? - Shorthand community on Reddit]]:
+
+/About the system/:
+#+begin_quote
+There are several unique qualities not shared by other adaptations and it is (along with Pernin) the most thorough adaptation (at least based upon what is in the text) that I have looked at.
+#+end_quote
+/Conclusion/:
+#+begin_quote
+After some weeks of use, I think it is fair to say that Brandt's system has supplanted Perrault's as my preferred Duployan adaptation. The handling of the Short U vowel, the shortcuts for ER, OUR, OUS, the well thought out and composable affixes and the unique use of position for auxiliary and modal verbs make this a very worthy addition to the list of Duployan adaptations.
+ #+end_quote
+
+*The original, handwritten manual* from 1904 is to be found at Archive.org: [[https://archive.org/details/brandt5thedn][Duployan Shorthand adapted to English - 5th Edition, 1904 - Carl Brandt]].
+
+*Writing sample* from Part 2 of the manual, written in the abbreviated style:
+[[file:static/images/psalm-abbrev.png]]
+
+#+hugo: {{% notice style="note" %}}
+Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.
+#+hugo: {{% /notice %}}
+
 * Manual
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: manual
@@ -114,3 +156,5 @@ Welcome to Brandt’s Duployan.
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 14
 :END:
 #+transclude: [[file:brandt_duployan.org::*A Psalm of Life - without key][A Psalm of Life - without key]]
+
+#  LocalWords:  hugo dir OUS th transclude
