@@ -6,6 +6,8 @@
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :archetype "home"
 :END:
+[[file:1img/duployan-shorthand.png]]
+
 Welcome to Brandt’s Duployan.
 * Manual
 :PROPERTIES:
