@@ -17,5 +17,15 @@ relativeURLs = true
   externalLinkTarget = "_blank"
   alwaysopen = false
 
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+url = "https://github.com/jacmoe/brandt"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-brands fa-reddit'></i> Shorthand Community"
+url = "https://www.reddit.com/r/shorthand/"
+weight = 20
+
 [markup.goldmark.renderer]
 unsafe = true
