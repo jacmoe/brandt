@@ -11,7 +11,7 @@ Welcome to Brandt’s Duployan.
 
 This is an adaptation of the French Duployan shorthand system to English by Carl Brandt, a Jesuit monk, who also did adaptations of Duployan to [Danish](https://archive.org/details/brandt-danish) and to [Latin](https://archive.org/details/brandt-latin/).
 
-[Duployan shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand) is classified as geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
+[Duployan shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand) is classified as a geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
 
 Duployan shorthand was created in 1860 by [Émile Duployé](https://en.wikipedia.org/wiki/%C3%89mile_Duploy%C3%A9) for writing French, and it most likely the most adapted system of shorthand. There are adaptations for English, Latin, Danish, Romanian, Chinook Wawa, German and Spanish.
 

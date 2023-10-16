@@ -12,7 +12,7 @@ Welcome to Brandt’s Duployan.
 
 This is an adaptation of the French Duployan shorthand system to English by Carl Brandt, a Jesuit monk, who also did adaptations of Duployan to [[https://archive.org/details/brandt-danish][Danish]] and to [[https://archive.org/details/brandt-latin/][Latin]].
 
-[[https://en.wikipedia.org/wiki/Duployan_shorthand][Duployan shorthand]] is classified as geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
+[[https://en.wikipedia.org/wiki/Duployan_shorthand][Duployan shorthand]] is classified as a geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
 
 Duployan shorthand was created in 1860 by [[https://en.wikipedia.org/wiki/%C3%89mile_Duploy%C3%A9][Émile Duployé]] for writing French, and it most likely the most adapted system of shorthand. There are adaptations for English, Latin, Danish, Romanian, Chinook Wawa, German and Spanish.
 
@@ -57,6 +57,12 @@ Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 0
 :END:
+#+hugo: {{% notice style="note" %}}
+Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.
+
+This is the online version of the manual. For the best viewing experience, consider downloading the PDF: [[https://github.com/jacmoe/brandt/releases/download/07-23-pre/brandt_duployan.pdf][brandt_duployan.pdf]]
+#+hugo: {{% /notice %}}
+#+md: ---
 #+hugo: {{% children sort="weight" depth="2" %}}
 * Preface
 :PROPERTIES:

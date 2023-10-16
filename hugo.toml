@@ -12,6 +12,8 @@ relativeURLs = true
   page = ["HTML", "RSS", "PRINT"]
 
 [params]
+  author = "Jacob Moena"
+  description = "This site is dedicated to Brandt's Duployan shorthand adaptation to English. It provides information, manual, PDFs, Anki decks, and other resources."
   themeVariant = [ "zen-light", "zen-dark" ]
   disableExplicitIndexURLs = true
   externalLinkTarget = "_blank"
