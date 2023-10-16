@@ -47,10 +47,6 @@ After some weeks of use, I think it is fair to say that Brandt's system has supp
 *Writing sample* from Part 2 of the manual, written in the abbreviated style:
 [[file:static/images/psalm-abbrev.png]]
 
-#+hugo: {{% notice style="note" %}}
-Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.
-#+hugo: {{% /notice %}}
-
 * Manual
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: manual

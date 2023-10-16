@@ -42,9 +42,3 @@ _Conclusion_:
 
 **Writing sample** from Part 2 of the manual, written in the abbreviated style:
 ![](/images/psalm-abbrev.png)
-
-{{% notice style="note" %}}
-
-Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.
-
-{{% /notice %}}
