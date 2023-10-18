@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacmoe.github.io/brandt/manual/</loc>
+  </url>
+  <url>
     <loc>https://jacmoe.github.io/brandt/manual/preface/</loc>
+  </url>
+  <url>
+    <loc>https://jacmoe.github.io/brandt/resources/</loc>
   </url>
   <url>
     <loc>https://jacmoe.github.io/brandt/manual/the-phonetic-principle/</loc>
@@ -43,13 +49,19 @@
     <loc>https://jacmoe.github.io/brandt/manual/part1/a-psalm-of-life-without-key/</loc>
   </url>
   <url>
+    <loc>https://jacmoe.github.io/brandt/resources/pdfs/</loc>
+  </url>
+  <url>
+    <loc>https://jacmoe.github.io/brandt/resources/anki/</loc>
+  </url>
+  <url>
+    <loc>https://jacmoe.github.io/brandt/resources/tools/</loc>
+  </url>
+  <url>
     <loc>https://jacmoe.github.io/brandt/</loc>
   </url>
   <url>
     <loc>https://jacmoe.github.io/brandt/categories/</loc>
-  </url>
-  <url>
-    <loc>https://jacmoe.github.io/brandt/manual/</loc>
   </url>
   <url>
     <loc>https://jacmoe.github.io/brandt/tags/</loc>

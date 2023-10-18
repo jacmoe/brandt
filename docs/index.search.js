@@ -1,11 +1,27 @@
 var relearn_search_index = [
   {
+    "breadcrumb": "Brandt’s Duployan",
+    "content": " Note Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.\nThis is the online version of the manual. For the best viewing experience, consider downloading the PDF:\nBrandt’s Duployan - Manual Preface The phonetic principle Part 1 - Elementary Course Lesson 1 - The Signs of the System Lesson 2 - Vowels 1 Lesson 3 - Vowels 2 Lesson 4 - Diphthongs Lesson 5 - Nasals Lesson 6 - H Aspirate Lesson 7 - More on nasals Note on Part II Summary of Brandt’s Duployan Shorthand A Psalm of Life A Psalm of Life - without key ",
+    "description": "",
+    "tags": null,
+    "title": "Manual",
+    "uri": "/manual/"
+  },
+  {
     "breadcrumb": "Brandt’s Duployan \u003e Manual",
     "content": "In adapting to English the Méthode Sténographie Duployé I have endeavoured to retain the admirable simplicity which characterizes both its principles and outlines.\nDuployan Shorthand being in such a general use upon the Continent, an adaption of it to English, such, that every sound common to the two languages is represented by the same sign, will at once commend itself to those engaged in commercial correspondence. To a student, the Duployan system offers a unique advantage since it puts within his reach reading matter stenographically represented and therefore with true sound values, in at least ten languages, inter alia, German, Italian, French, Portuguese, Turkish, etc.\nThe system has a large and varied literature and also several newspapers and journals. It has met with remarkable success as an educational factor in elementary schools, which is owing in part, to the fact that it is not burdensome to the memory, as it does not call into its service any of the multitude of bewildering devices such as thickening, lengthening, raising above the line, etc., to add new sounds, or disconnected vowels or worse still the discarding of vowels. In this system every sound is represented so clearly that the transcribing, and even fluent reading of it, is an easy matter.\nIn the first part a system is offered that will enable any one of average intelligence to write from three to four times as fast as in longhand. I have endeavoured to place within the reach of “the many” a system that, to use a popular phrase, supplies a long felt want, that is to say, a system written and learnt with ease, and, most important of all, capable of being read with ease.\nIn shorthand examinations the marks for transcription are on an average five times as many as are given for the shorthand. If then for the sake of legibility some little advantage in speed has been sacrificed this will be more than atoned for by the ease with which the pupil will read his notes.\nIn the second and third part there is explained, for those whose goal is the reporters table, a complete system of abbreviated shorthand.\nPart II deals with all common prefixes and suffixes abbreviated forms of common words, together with a novel and simple method of representing the auxiliary verbs. Part III, in a few pages expounds our completed system.\nI take this opportunity of expressing my thanks to the Rev. D.H. Thompson [Stonyhurst] for the help he has given me in framing this adaptation. If it meets with any success it will be owing to my collaborateur’s suggestions. November 4th, 1901. C. B.\n",
     "description": "",
     "tags": null,
     "title": "Preface",
     "uri": "/manual/preface/"
+  },
+  {
+    "breadcrumb": "Brandt’s Duployan",
+    "content": "This is resources Latest Release\nPDFs Anki decks Learning tools ",
+    "description": "",
+    "tags": null,
+    "title": "Resources",
+    "uri": "/resources/"
   },
   {
     "breadcrumb": "Brandt’s Duployan \u003e Manual",
@@ -112,6 +128,30 @@ var relearn_search_index = [
     "uri": "/manual/part1/a-psalm-of-life-without-key/"
   },
   {
+    "breadcrumb": "Brandt’s Duployan \u003e Resources",
+    "content": "This is the PDF section\nBrandt’s Duployan - Manual Brandt’s Duployan - Overview ",
+    "description": "",
+    "tags": null,
+    "title": "PDFs",
+    "uri": "/resources/pdfs/"
+  },
+  {
+    "breadcrumb": "Brandt’s Duployan \u003e Resources",
+    "content": "Anki AnkiDroid - Android AnkiMobile - iOS\nMochi Cards Mochi - Android Mochi - iOS\nBrandt Duployan - Alphabet Brandt Duployan - Words ",
+    "description": "",
+    "tags": null,
+    "title": "Anki decks",
+    "uri": "/resources/anki/"
+  },
+  {
+    "breadcrumb": "Brandt’s Duployan \u003e Resources",
+    "content": "This is the page for various tools and scripts\n",
+    "description": "",
+    "tags": null,
+    "title": "Learning tools",
+    "uri": "/resources/tools/"
+  },
+  {
     "breadcrumb": "",
     "content": " Welcome to Brandt’s Duployan.\nThis is an adaptation of the French Duployan shorthand system to English by Carl Brandt, a Jesuit monk, who also did adaptations of Duployan to Danish and to Latin.\nDuployan shorthand is classified as a geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).\nDuployan shorthand was created in 1860 by Émile Duployé for writing French, and it most likely the most adapted system of shorthand. There are adaptations for English, Latin, Danish, Romanian, Chinook Wawa, German and Spanish.\nDuployan shorthand has a reputation for being extremely easy to learn, and that is probably why it has been so widely adopted. It was the preferred system of shorthand among missionaries, especially the Jesuits.\nIn the Preface, Brandt writes:\nIn adapting to English the Méthode Sténographie Duployé I have endeavoured to retain the admirable simplicity which characterizes both its principles and outlines.\nIn the first part a system is offered that will enable any one of average intelligence to write from three to four times as fast as in longhand. I have endeavoured to place within the reach of “the many” a system that, to use a popular phrase, supplies a long felt want, that is to say, a system written and learnt with ease, and, most important of all, capable of being read with ease.\nThis is the alphabet of Brandt’s Duployan, taken from the handwritten manual: A review of Brandt’s Duployan, from Brandt Duployan – the best Duployan yet? - Shorthand community on Reddit:\nAbout the system:\nThere are several unique qualities not shared by other adaptations and it is (along with Pernin) the most thorough adaptation (at least based upon what is in the text) that I have looked at.\nConclusion:\nAfter some weeks of use, I think it is fair to say that Brandt’s system has supplanted Perrault’s as my preferred Duployan adaptation. The handling of the Short U vowel, the shortcuts for ER, OUR, OUS, the well thought out and composable affixes and the unique use of position for auxiliary and modal verbs make this a very worthy addition to the list of Duployan adaptations.\nThe original, handwritten manual from 1904 is to be found at Archive.org: Duployan Shorthand adapted to English - 5th Edition, 1904 - Carl Brandt.\nWriting sample from Part 2 of the manual, written in the abbreviated style: ",
     "description": "",
@@ -126,14 +166,6 @@ var relearn_search_index = [
     "tags": null,
     "title": "Categories",
     "uri": "/categories/"
-  },
-  {
-    "breadcrumb": "Brandt’s Duployan",
-    "content": " Note Currently, only Part 1 of the manual has been translated. Part 2 and Part 3 will be completed at some unspecified point in the future.\nThis is the online version of the manual. For the best viewing experience, consider downloading the PDF: brandt_duployan.pdf\nPreface The phonetic principle Part 1 - Elementary Course Lesson 1 - The Signs of the System Lesson 2 - Vowels 1 Lesson 3 - Vowels 2 Lesson 4 - Diphthongs Lesson 5 - Nasals Lesson 6 - H Aspirate Lesson 7 - More on nasals Note on Part II Summary of Brandt’s Duployan Shorthand A Psalm of Life A Psalm of Life - without key ",
-    "description": "",
-    "tags": null,
-    "title": "Manual",
-    "uri": "/manual/"
   },
   {
     "breadcrumb": "Brandt’s Duployan",
