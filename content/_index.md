@@ -7,9 +7,18 @@ archetype = "home"
 
 {{< figure src="/ox-hugo/duployan-shorthand.png" >}}
 
-Welcome to Brandt’s Duployan.
+Welcome to Brandt’s Duployan!
 
-This is an adaptation of the French Duployan shorthand system to English by Carl Brandt, a Jesuit monk, who also did adaptations of Duployan to [Danish](https://archive.org/details/brandt-danish) and to [Latin](https://archive.org/details/brandt-latin/).
+**Introduction**
+
+This site is dedicated to _Duployan Shorthand adapted to English - 5th Edition, 1904_, abbreviated to Brandt’s Duployan.
+Carl Brandt, a Jesuit monk, also did adaptations of Duployan to [Danish](https://archive.org/details/brandt-danish) and to [Latin](https://archive.org/details/brandt-latin/).
+
+By providing a translation into modern, electronic form of the original, handwritten manual, it is our hope to make Brandt’s Duployan available, and approachable, for modern persons.
+
+---
+
+**What is Duployan shorthand?**
 
 [Duployan shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand) is classified as a geometric, alphabetic shorthand, meaning that it is constructed of lines and circles, and it does not feature any shading (thickening of the line).
 
