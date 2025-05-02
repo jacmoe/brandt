@@ -604,7 +604,7 @@ Above or below for [[file:2img/fig1-2.png]].
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Part III - Reporting Techniques
+* Part III - System Summary
 #+begin_export LaTeX
 \pagebreak
 #+end_export
